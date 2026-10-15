@@ -1,0 +1,25 @@
+<!doctype html><html lang="pt-BR"><body><template><style>#sc04{position:relative;width:100%;height:100%;overflow:hidden;}</style><div id="sc04" data-composition-id="sc04" data-width="1080" data-height="1920" data-duration="5.304"><div class="design"><div class="mast"><strong>ELEIÇÕES 2026</strong><span>QUEM TEM PODER</span></div><div class="source"><span>Constituição · art. 66, § 4º</span><span>voz sintética (IA)</span></div><div class="footer">@theobernini_</div><div class="deco-line" data-layout-ignore></div>
+<div class="title" style="font-size:112px"><span>O PRESIDENTE</span><span>PODE DIZER <span class="gold">NÃO.</span></span></div><div class="rule"></div>
+<div class="veto panel" style="left:280px;top:660px;width:520px;height:210px;background:#E5ECDD;color:#173A2C;text-align:center"><div class="display" style="font-size:100px">VETO</div><div style="font-size:30px">DO PRESIDENTE</div></div>
+<div class="panel house left" style="left:76px;top:1030px;height:270px"><div class="label">CÂMARA</div><div class="display accent" style="font-size:115px">257</div><div class="label">votos necessários</div></div>
+<div class="panel house right" style="left:538px;top:1030px;height:270px"><div class="label">SENADO</div><div class="display accent" style="font-size:115px">41</div><div class="label">votos necessários</div></div>
+<div class="phrase result" style="top:1390px;font-size:100px"><div>O CONGRESSO PODE</div><div class="accent">REJEITAR.</div></div>
+</div></div><script>
+{const r=document.getElementById('sc04');const tl=gsap.timeline({paused:true});
+const Q=s=>r.querySelector(s);const QA=s=>Array.from(r.querySelectorAll(s));
+function enter(s,at=0,dist=55,dur=.48){tl.fromTo(Q(s),{y:dist,opacity:0},{y:0,opacity:1,duration:dur,ease:'power4.out'},at);}
+function pop(s,at=0,dur=.5){tl.fromTo(Q(s),{scale:.72,opacity:0},{scale:1,opacity:1,duration:dur,ease:'expo.out'},at);}
+function sweep(s,at=0,dur=.5){tl.fromTo(Q(s),{scaleX:0},{scaleX:1,duration:dur,ease:'power3.out'},at);}
+function wave(s,at=0,dur=.72){const els=QA(s);els.forEach((el,i)=>tl.fromTo(el,{y:100+30*Math.sin(i*.9),z:-130,rotationX:48,opacity:.3},{y:0,z:0,rotationX:0,opacity:1,duration:dur,ease:'power3.out'},at+(i%27)*.012+Math.floor(i/27)*.026));}
+tl.fromTo(Q('.mast'),{y:15,opacity:1},{y:0,opacity:1,duration:.3,ease:'power4.out'},0);sweep('.deco-line',.12,.45);
+
+enter('.title',0,50,.35);sweep('.rule',.25);
+tl.fromTo(Q('.veto'),{y:-95,z:180,rotationY:-18,opacity:0},{y:0,z:0,rotationY:0,opacity:1,duration:.7,ease:'power4.out'},.65);
+tl.to(Q('.veto'),{scale:.8,y:80,duration:.75,ease:'power2.inOut'},2.2);
+tl.fromTo(Q('.left'),{x:-160,rotationY:18,opacity:0},{x:0,rotationY:0,opacity:1,duration:.65,ease:'power3.out'},2.6);
+tl.fromTo(Q('.right'),{x:160,rotationY:-18,opacity:0},{x:0,rotationY:0,opacity:1,duration:.65,ease:'power3.out'},2.77);
+enter('.result',3.4,65,.45);
+tl.to(Q('.veto'),{rotationX:7,duration:.5,ease:'power2.inOut'},3.7);
+
+window.__timelines['sc04']=tl;}
+</script></template></body></html>

@@ -1,0 +1,271 @@
+{
+  "secoes": 115,
+  "locais": 19,
+  "faltantes": [],
+  "totais": {
+    "22": 22032,
+    "80": 14,
+    "28": 2,
+    "55": 242,
+    "14": 559,
+    "16": 8,
+    "70": 638,
+    "95": 357,
+    "30": 38,
+    "13": 5669,
+    "96": 375,
+    "27": 21,
+    "29": 2,
+    "35": 1
+  },
+  "candidatos": {
+    "22": "FLAVIO NANTES BOLSONARO",
+    "80": "SAMARA MARTINS DA SILVA FEITOSA",
+    "28": "LEONARDO ALVES DE ARAUJO",
+    "55": "RONALDO RAMOS CAIADO",
+    "14": "RENAN ANTONIO FERREIRA DOS SANTOS",
+    "16": "HERTZ DA CONCEICAO DIAS",
+    "29": "RUI COSTA PIMENTA",
+    "70": "AUGUSTO JORGE CURY",
+    "95": "VOTO BRANCO",
+    "30": "ROMEU ZEMA NETO",
+    "13": "LUIZ INÁCIO LULA DA SILVA",
+    "35": "WILSON GRASSI JUNIOR",
+    "96": "VOTO NULO",
+    "27": "CLARIANA ZACARKIM BARAO"
+  },
+  "bairros": [
+    {
+      "bairro_tse": "CONDOMÍNIO NOVO HORIZONTE (PROHAB I)",
+      "flavio": 585,
+      "lula": 320,
+      "diferenca": 265,
+      "votos": {
+        "22": 585,
+        "80": 1,
+        "55": 5,
+        "16": 1,
+        "14": 25,
+        "70": 31,
+        "95": 25,
+        "30": 1,
+        "13": 320,
+        "96": 13
+      }
+    },
+    {
+      "bairro_tse": "RESIDENCIAL DAS PALMEIRAS",
+      "flavio": 503,
+      "lula": 184,
+      "diferenca": 319,
+      "votos": {
+        "22": 503,
+        "80": 1,
+        "55": 4,
+        "14": 30,
+        "70": 19,
+        "13": 184,
+        "95": 19,
+        "96": 16,
+        "27": 2
+      }
+    },
+    {
+      "bairro_tse": "ZONA RURAL",
+      "flavio": 521,
+      "lula": 98,
+      "diferenca": 423,
+      "votos": {
+        "22": 521,
+        "55": 9,
+        "14": 4,
+        "70": 7,
+        "13": 98,
+        "95": 5,
+        "96": 12
+      }
+    },
+    {
+      "bairro_tse": "DISTRITO DE RANCHÃO",
+      "flavio": 680,
+      "lula": 208,
+      "diferenca": 472,
+      "votos": {
+        "22": 680,
+        "55": 3,
+        "14": 16,
+        "70": 18,
+        "13": 208,
+        "95": 7,
+        "96": 17
+      }
+    },
+    {
+      "bairro_tse": "RESIDENCIAL FLAMBOYANTS",
+      "flavio": 613,
+      "lula": 105,
+      "diferenca": 508,
+      "votos": {
+        "22": 613,
+        "80": 3,
+        "55": 6,
+        "14": 14,
+        "29": 1,
+        "70": 12,
+        "13": 105,
+        "30": 2,
+        "95": 6,
+        "96": 13
+      }
+    },
+    {
+      "bairro_tse": "RESIDENCIAL PARAÍSO",
+      "flavio": 1515,
+      "lula": 583,
+      "diferenca": 932,
+      "votos": {
+        "22": 1515,
+        "80": 1,
+        "55": 16,
+        "14": 50,
+        "29": 1,
+        "70": 51,
+        "95": 29,
+        "13": 583,
+        "96": 23,
+        "27": 4
+      }
+    },
+    {
+      "bairro_tse": "JARDIM II",
+      "flavio": 1369,
+      "lula": 274,
+      "diferenca": 1095,
+      "votos": {
+        "22": 1369,
+        "55": 13,
+        "14": 27,
+        "70": 36,
+        "13": 274,
+        "30": 3,
+        "95": 10,
+        "96": 17,
+        "27": 1
+      }
+    },
+    {
+      "bairro_tse": "PARQUE DO SOL",
+      "flavio": 1876,
+      "lula": 624,
+      "diferenca": 1252,
+      "votos": {
+        "22": 1876,
+        "80": 2,
+        "55": 21,
+        "14": 39,
+        "70": 56,
+        "13": 624,
+        "30": 3,
+        "95": 30,
+        "96": 37,
+        "27": 2
+      }
+    },
+    {
+      "bairro_tse": "JARDIM DAS ORQUÍDEAS",
+      "flavio": 1759,
+      "lula": 279,
+      "diferenca": 1480,
+      "votos": {
+        "22": 1759,
+        "55": 18,
+        "14": 44,
+        "16": 1,
+        "70": 53,
+        "30": 9,
+        "13": 279,
+        "35": 1,
+        "95": 15,
+        "96": 21,
+        "27": 2
+      }
+    },
+    {
+      "bairro_tse": "BELA VISTA",
+      "flavio": 2246,
+      "lula": 330,
+      "diferenca": 1916,
+      "votos": {
+        "22": 2246,
+        "80": 4,
+        "55": 20,
+        "14": 32,
+        "70": 42,
+        "13": 330,
+        "30": 5,
+        "95": 24,
+        "96": 41,
+        "27": 2
+      }
+    },
+    {
+      "bairro_tse": "EDELMINA QUERUBIM MARCHETTI",
+      "flavio": 3189,
+      "lula": 968,
+      "diferenca": 2221,
+      "votos": {
+        "22": 3189,
+        "80": 1,
+        "28": 2,
+        "55": 43,
+        "14": 110,
+        "16": 2,
+        "70": 101,
+        "95": 77,
+        "30": 4,
+        "13": 968,
+        "96": 53,
+        "27": 3
+      }
+    },
+    {
+      "bairro_tse": "CENTRO",
+      "flavio": 3119,
+      "lula": 502,
+      "diferenca": 2617,
+      "votos": {
+        "22": 3119,
+        "55": 34,
+        "14": 72,
+        "16": 1,
+        "70": 84,
+        "95": 31,
+        "13": 502,
+        "30": 5,
+        "96": 29,
+        "27": 1
+      }
+    },
+    {
+      "bairro_tse": "COLINA II",
+      "flavio": 4057,
+      "lula": 1194,
+      "diferenca": 2863,
+      "votos": {
+        "22": 4057,
+        "80": 1,
+        "55": 50,
+        "14": 96,
+        "16": 3,
+        "70": 128,
+        "30": 6,
+        "13": 1194,
+        "95": 79,
+        "96": 83,
+        "27": 4
+      }
+    }
+  ],
+  "fonte": "TSE 2026, presidente 1º turno, votação por seção e cadastro de locais",
+  "totalizacao_conferida": true
+}

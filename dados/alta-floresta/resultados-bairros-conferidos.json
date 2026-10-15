@@ -1,0 +1,281 @@
+{
+  "secoes": 125,
+  "locais": 23,
+  "faltantes": [],
+  "totais": {
+    "22": 23270,
+    "55": 374,
+    "14": 451,
+    "70": 552,
+    "95": 297,
+    "13": 7677,
+    "30": 35,
+    "96": 560,
+    "16": 1,
+    "29": 4,
+    "27": 12,
+    "80": 14,
+    "21": 3,
+    "28": 1,
+    "35": 2
+  },
+  "candidatos": {
+    "22": "FLAVIO NANTES BOLSONARO",
+    "80": "SAMARA MARTINS DA SILVA FEITOSA",
+    "28": "LEONARDO ALVES DE ARAUJO",
+    "55": "RONALDO RAMOS CAIADO",
+    "21": "EDMILSON SILVA COSTA",
+    "14": "RENAN ANTONIO FERREIRA DOS SANTOS",
+    "16": "HERTZ DA CONCEICAO DIAS",
+    "29": "RUI COSTA PIMENTA",
+    "70": "AUGUSTO JORGE CURY",
+    "95": "VOTO BRANCO",
+    "13": "LUIZ INÁCIO LULA DA SILVA",
+    "30": "ROMEU ZEMA NETO",
+    "35": "WILSON GRASSI JUNIOR",
+    "96": "VOTO NULO",
+    "27": "CLARIANA ZACARKIM BARAO"
+  },
+  "bairros": [
+    {
+      "bairro_tse": "COM. SANTA LÚCIA",
+      "flavio": 131,
+      "lula": 97,
+      "diferenca": 34,
+      "votos": {
+        "22": 131,
+        "55": 4,
+        "14": 1,
+        "70": 2,
+        "30": 1,
+        "13": 97,
+        "96": 10
+      }
+    },
+    {
+      "bairro_tse": "VILA NOVA 1",
+      "flavio": 813,
+      "lula": 640,
+      "diferenca": 173,
+      "votos": {
+        "22": 813,
+        "80": 2,
+        "55": 13,
+        "14": 14,
+        "70": 25,
+        "13": 640,
+        "95": 21,
+        "96": 38,
+        "27": 1
+      }
+    },
+    {
+      "bairro_tse": "BOA ESPERANCA",
+      "flavio": 659,
+      "lula": 362,
+      "diferenca": 297,
+      "votos": {
+        "22": 659,
+        "55": 18,
+        "14": 7,
+        "70": 24,
+        "95": 15,
+        "13": 362,
+        "30": 1,
+        "96": 34
+      }
+    },
+    {
+      "bairro_tse": "SAO JOSE OPERARIO",
+      "flavio": 634,
+      "lula": 225,
+      "diferenca": 409,
+      "votos": {
+        "22": 634,
+        "55": 17,
+        "14": 15,
+        "70": 20,
+        "13": 225,
+        "35": 1,
+        "95": 10,
+        "96": 17
+      }
+    },
+    {
+      "bairro_tse": "JARDIM PRIMAVERA",
+      "flavio": 750,
+      "lula": 321,
+      "diferenca": 429,
+      "votos": {
+        "22": 750,
+        "21": 1,
+        "55": 12,
+        "14": 19,
+        "13": 321,
+        "70": 10,
+        "95": 10,
+        "96": 21
+      }
+    },
+    {
+      "bairro_tse": "JARDIM PANORAMA",
+      "flavio": 934,
+      "lula": 356,
+      "diferenca": 578,
+      "votos": {
+        "22": 934,
+        "55": 15,
+        "14": 10,
+        "70": 24,
+        "13": 356,
+        "95": 20,
+        "96": 25
+      }
+    },
+    {
+      "bairro_tse": "SETOR INDUSTRIAL",
+      "flavio": 1013,
+      "lula": 385,
+      "diferenca": 628,
+      "votos": {
+        "22": 1013,
+        "80": 2,
+        "55": 22,
+        "14": 23,
+        "70": 20,
+        "13": 385,
+        "95": 15,
+        "96": 27,
+        "27": 1
+      }
+    },
+    {
+      "bairro_tse": "CIDADE BELA",
+      "flavio": 1377,
+      "lula": 586,
+      "diferenca": 791,
+      "votos": {
+        "22": 1377,
+        "80": 4,
+        "55": 27,
+        "21": 1,
+        "14": 28,
+        "70": 40,
+        "95": 23,
+        "30": 3,
+        "13": 586,
+        "96": 44
+      }
+    },
+    {
+      "bairro_tse": "JARDIM DAS ARARAS",
+      "flavio": 1065,
+      "lula": 247,
+      "diferenca": 818,
+      "votos": {
+        "22": 1065,
+        "28": 1,
+        "55": 9,
+        "14": 17,
+        "70": 10,
+        "30": 3,
+        "13": 247,
+        "35": 1,
+        "95": 9,
+        "96": 19
+      }
+    },
+    {
+      "bairro_tse": "ZONA RURAL",
+      "flavio": 1292,
+      "lula": 396,
+      "diferenca": 896,
+      "votos": {
+        "22": 1292,
+        "80": 1,
+        "55": 25,
+        "21": 1,
+        "14": 6,
+        "70": 20,
+        "13": 396,
+        "30": 1,
+        "95": 22,
+        "96": 23
+      }
+    },
+    {
+      "bairro_tse": "JARDIM UNIVERSITARIO",
+      "flavio": 1491,
+      "lula": 559,
+      "diferenca": 932,
+      "votos": {
+        "22": 1491,
+        "55": 31,
+        "14": 44,
+        "70": 27,
+        "30": 2,
+        "13": 559,
+        "95": 21,
+        "96": 49
+      }
+    },
+    {
+      "bairro_tse": "BOA NOVA 1",
+      "flavio": 1530,
+      "lula": 487,
+      "diferenca": 1043,
+      "votos": {
+        "22": 1530,
+        "80": 2,
+        "55": 15,
+        "14": 25,
+        "29": 2,
+        "70": 39,
+        "13": 487,
+        "30": 3,
+        "95": 22,
+        "96": 27,
+        "27": 1
+      }
+    },
+    {
+      "bairro_tse": "BAIRRO CIDADE ALTA",
+      "flavio": 4142,
+      "lula": 1478,
+      "diferenca": 2664,
+      "votos": {
+        "22": 4142,
+        "80": 3,
+        "55": 67,
+        "14": 91,
+        "70": 130,
+        "95": 50,
+        "13": 1478,
+        "30": 6,
+        "96": 114,
+        "27": 4
+      }
+    },
+    {
+      "bairro_tse": "CENTRO",
+      "flavio": 7439,
+      "lula": 1538,
+      "diferenca": 5901,
+      "votos": {
+        "22": 7439,
+        "55": 99,
+        "14": 151,
+        "16": 1,
+        "29": 2,
+        "70": 161,
+        "95": 59,
+        "13": 1538,
+        "30": 15,
+        "96": 112,
+        "27": 5
+      }
+    }
+  ],
+  "fonte": "TSE 2026, presidente 1º turno, votação por seção e cadastro de locais",
+  "totalizacao_conferida": true
+}

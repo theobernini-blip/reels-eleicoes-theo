@@ -1,0 +1,546 @@
+{
+  "locais": [
+    {
+      "zona": "5",
+      "local": "1171",
+      "nome_local": "CNEC - ESCOLA CENECISTA HILDA STRENGER RIBEIRO",
+      "bairro_tse": "CENTRO",
+      "bairro_mapa": "Centro",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Centro"
+      ],
+      "longitude": -56.08572943,
+      "latitude": -13.82158374,
+      "votos": {
+        "22": 1626,
+        "55": 14,
+        "14": 55,
+        "70": 57,
+        "95": 24,
+        "13": 256,
+        "30": 5,
+        "96": 15,
+        "27": 1
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1066",
+      "nome_local": "E.E.C.M. JOSÉ APARECIDO RIBEIRO",
+      "bairro_tse": "BELA VISTA",
+      "bairro_mapa": "Bela Vista",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Bela Vista"
+      ],
+      "longitude": -56.0896279,
+      "latitude": -13.81714068,
+      "votos": {
+        "22": 2246,
+        "80": 4,
+        "55": 20,
+        "14": 32,
+        "70": 42,
+        "13": 330,
+        "30": 5,
+        "95": 24,
+        "96": 41,
+        "27": 2
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1155",
+      "nome_local": "UNEMAT",
+      "bairro_tse": "JARDIM DAS ORQUÍDEAS",
+      "bairro_mapa": "Jardim das Orquídeas",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [],
+      "longitude": -56.08319263,
+      "latitude": -13.8063786,
+      "votos": {
+        "22": 1759,
+        "55": 18,
+        "14": 44,
+        "16": 1,
+        "70": 53,
+        "30": 9,
+        "13": 279,
+        "35": 1,
+        "95": 15,
+        "96": 21,
+        "27": 2
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1090",
+      "nome_local": "C.M.E.B.I. CAMINHOS DO SABER",
+      "bairro_tse": "COLINA II",
+      "bairro_mapa": "Colina II",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Colina II"
+      ],
+      "longitude": -56.09372493,
+      "latitude": -13.82800119,
+      "votos": {
+        "22": 1919,
+        "80": 1,
+        "55": 27,
+        "14": 34,
+        "16": 1,
+        "70": 55,
+        "13": 501,
+        "30": 1,
+        "95": 30,
+        "96": 42,
+        "27": 2
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1260",
+      "nome_local": "E.M.E.B. O SEMEADOR",
+      "bairro_tse": "RESIDENCIAL FLAMBOYANTS",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.10534839,
+      "latitude": -13.82727877,
+      "votos": {
+        "22": 613,
+        "80": 3,
+        "55": 6,
+        "14": 14,
+        "29": 1,
+        "70": 12,
+        "13": 105,
+        "30": 2,
+        "95": 6,
+        "96": 13
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1210",
+      "nome_local": "ESCOLA MUNICIPAL 4 DE JULHO",
+      "bairro_tse": "EDELMINA QUERUBIM MARCHETTI",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.09861957,
+      "latitude": -13.8364742,
+      "votos": {
+        "22": 1898,
+        "28": 2,
+        "55": 26,
+        "14": 40,
+        "70": 58,
+        "95": 37,
+        "30": 1,
+        "13": 501,
+        "96": 31,
+        "27": 2
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1120",
+      "nome_local": "C.M.E.B.I. CARLOS DRUMOND DE ANDRADE",
+      "bairro_tse": "COLINA II",
+      "bairro_mapa": "Colina II",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Colina II"
+      ],
+      "longitude": -56.0914747,
+      "latitude": -13.82964426,
+      "votos": {
+        "22": 1086,
+        "55": 10,
+        "14": 21,
+        "70": 44,
+        "30": 1,
+        "13": 378,
+        "95": 26,
+        "96": 24,
+        "27": 1
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1279",
+      "nome_local": "SENAI (SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL)",
+      "bairro_tse": "COLINA II",
+      "bairro_mapa": "Colina II",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Colina II"
+      ],
+      "longitude": -56.09262141,
+      "latitude": -13.82834476,
+      "votos": {
+        "22": 1052,
+        "55": 13,
+        "14": 41,
+        "16": 2,
+        "70": 29,
+        "30": 4,
+        "13": 315,
+        "95": 23,
+        "96": 17,
+        "27": 1
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1139",
+      "nome_local": "C.M.E.B.I. LUCIA FACCIO TASCA",
+      "bairro_tse": "CENTRO",
+      "bairro_mapa": "Centro",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Centro"
+      ],
+      "longitude": -56.07639178,
+      "latitude": -13.80980905,
+      "votos": {
+        "22": 1493,
+        "55": 20,
+        "14": 17,
+        "16": 1,
+        "70": 27,
+        "13": 246,
+        "95": 7,
+        "96": 14
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1244",
+      "nome_local": "C.M.E.B.I. CORA CORALINA",
+      "bairro_tse": "EDELMINA QUERUBIM MARCHETTI",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.09706882,
+      "latitude": -13.84205695,
+      "votos": {
+        "22": 911,
+        "80": 1,
+        "55": 11,
+        "14": 49,
+        "16": 1,
+        "70": 32,
+        "13": 344,
+        "30": 3,
+        "95": 28,
+        "96": 15
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1295",
+      "nome_local": "E.M.E.B. 15 DE OUTUBRO",
+      "bairro_tse": "JARDIM II",
+      "bairro_mapa": "Jardim II",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim II"
+      ],
+      "longitude": -56.07863343,
+      "latitude": -13.80773279,
+      "votos": {
+        "22": 1369,
+        "55": 13,
+        "14": 27,
+        "70": 36,
+        "13": 274,
+        "30": 3,
+        "95": 10,
+        "96": 17,
+        "27": 1
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1163",
+      "nome_local": "ESCOLA ESTADUAL PADRE JOHANNES BERTOLD HENNING",
+      "bairro_tse": "DISTRITO DE RANCHÃO",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.70132472,
+      "latitude": -13.82265037,
+      "votos": {
+        "22": 680,
+        "55": 3,
+        "14": 16,
+        "70": 18,
+        "13": 208,
+        "95": 7,
+        "96": 17
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1112",
+      "nome_local": "C.M.E.B.I CECILIA MEIRELES",
+      "bairro_tse": "PARQUE DO SOL",
+      "bairro_mapa": "Parque do Sol",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Parque do Sol"
+      ],
+      "longitude": -56.09101494,
+      "latitude": -13.8367761,
+      "votos": {
+        "22": 1876,
+        "80": 2,
+        "55": 21,
+        "14": 39,
+        "70": 56,
+        "13": 624,
+        "30": 3,
+        "95": 30,
+        "96": 37,
+        "27": 2
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1228",
+      "nome_local": "C.E.I.I. RECANTO DOS ENCANTOS",
+      "bairro_tse": "CONDOMÍNIO NOVO HORIZONTE (PROHAB I)",
+      "bairro_mapa": "Jardim Primavera",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Jardim Primavera"
+      ],
+      "longitude": -56.09036905,
+      "latitude": -13.84459649,
+      "votos": {
+        "22": 585,
+        "80": 1,
+        "55": 5,
+        "16": 1,
+        "14": 25,
+        "70": 31,
+        "95": 25,
+        "30": 1,
+        "13": 320,
+        "96": 13
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1198",
+      "nome_local": "E.E.C.M. VIRGILIO CORREA FILHO",
+      "bairro_tse": "RESIDENCIAL PARAÍSO",
+      "bairro_mapa": "Paraíso",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Paraíso"
+      ],
+      "longitude": -56.09441743,
+      "latitude": -13.83501324,
+      "votos": {
+        "22": 1515,
+        "80": 1,
+        "55": 16,
+        "14": 50,
+        "29": 1,
+        "70": 51,
+        "95": 29,
+        "13": 583,
+        "96": 23,
+        "27": 4
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1236",
+      "nome_local": "E.M.E.B.I. MARTON LUCCA",
+      "bairro_tse": "RESIDENCIAL DAS PALMEIRAS",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.06978187,
+      "latitude": -13.79209473,
+      "votos": {
+        "22": 503,
+        "80": 1,
+        "55": 4,
+        "14": 30,
+        "70": 19,
+        "13": 184,
+        "95": 19,
+        "96": 16,
+        "27": 2
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1040",
+      "nome_local": "E.M.C. SÃO JOSÉ",
+      "bairro_tse": "ZONA RURAL",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.87247379,
+      "latitude": -13.59783389,
+      "votos": {
+        "22": 145,
+        "55": 4,
+        "14": 1,
+        "70": 2,
+        "13": 17,
+        "95": 1,
+        "96": 3
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1104",
+      "nome_local": "E.M.C. JORGE CARLOS FERREIRA",
+      "bairro_tse": "ZONA RURAL",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.64443158,
+      "latitude": -13.07033056,
+      "votos": {
+        "22": 376,
+        "55": 5,
+        "14": 3,
+        "13": 81,
+        "70": 5,
+        "95": 4,
+        "96": 9
+      }
+    },
+    {
+      "zona": "5",
+      "local": "1287",
+      "nome_local": "CENTRO SOCIAL DESENVOLVER",
+      "bairro_tse": "EDELMINA QUERUBIM MARCHETTI",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.1003954,
+      "latitude": -13.84021675,
+      "votos": {
+        "22": 380,
+        "55": 6,
+        "14": 21,
+        "16": 1,
+        "70": 11,
+        "13": 123,
+        "95": 12,
+        "96": 7,
+        "27": 1
+      }
+    }
+  ],
+  "votos_por_poligono": {
+    "Centro": {
+      "22": 3119,
+      "55": 34,
+      "14": 72,
+      "70": 84,
+      "95": 31,
+      "13": 502,
+      "30": 5,
+      "96": 29,
+      "27": 1,
+      "16": 1
+    },
+    "Bela Vista": {
+      "22": 2246,
+      "80": 4,
+      "55": 20,
+      "14": 32,
+      "70": 42,
+      "13": 330,
+      "30": 5,
+      "95": 24,
+      "96": 41,
+      "27": 2
+    },
+    "Jardim das Orquídeas": {
+      "22": 1759,
+      "55": 18,
+      "14": 44,
+      "16": 1,
+      "70": 53,
+      "30": 9,
+      "13": 279,
+      "35": 1,
+      "95": 15,
+      "96": 21,
+      "27": 2
+    },
+    "Colina II": {
+      "22": 4057,
+      "80": 1,
+      "55": 50,
+      "14": 96,
+      "16": 3,
+      "70": 128,
+      "13": 1194,
+      "30": 6,
+      "95": 79,
+      "96": 83,
+      "27": 4
+    },
+    "Jardim II": {
+      "22": 1369,
+      "55": 13,
+      "14": 27,
+      "70": 36,
+      "13": 274,
+      "30": 3,
+      "95": 10,
+      "96": 17,
+      "27": 1
+    },
+    "Parque do Sol": {
+      "22": 1876,
+      "80": 2,
+      "55": 21,
+      "14": 39,
+      "70": 56,
+      "13": 624,
+      "30": 3,
+      "95": 30,
+      "96": 37,
+      "27": 2
+    },
+    "Jardim Primavera": {
+      "22": 585,
+      "80": 1,
+      "55": 5,
+      "16": 1,
+      "14": 25,
+      "70": 31,
+      "95": 25,
+      "30": 1,
+      "13": 320,
+      "96": 13
+    },
+    "Paraíso": {
+      "22": 1515,
+      "80": 1,
+      "55": 16,
+      "14": 50,
+      "29": 1,
+      "70": 51,
+      "95": 29,
+      "13": 583,
+      "96": 23,
+      "27": 4
+    }
+  }
+}

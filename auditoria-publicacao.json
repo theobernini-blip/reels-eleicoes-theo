@@ -1,0 +1,2286 @@
+{
+  "scope": "Public GitHub production kit requested by owner; no accounts or original narration recordings.",
+  "files": 374,
+  "total_bytes": 115420132,
+  "findings": [],
+  "audio": {
+    "silence": 12,
+    "synthesized_sfx": 24,
+    "other": 0
+  },
+  "raster_assets": [
+    "projetos/reel-alta-floresta-darlan-motion/assets/base-osm.webp",
+    "projetos/reel-campo-novo-bairros-2026/assets/base-osm-overscan.webp",
+    "projetos/reel-campo-novo-bairros-2026/assets/base-osm.webp",
+    "projetos/reel-cuiaba-bairros-2026/assets/base-osm.png",
+    "projetos/reel-cuiaba-bairros-2026/assets/base-osm.webp",
+    "projetos/reel-lucas-bairros-2026/assets/base-osm-overscan.webp",
+    "projetos/reel-lucas-bairros-2026/assets/base-osm.webp",
+    "projetos/reel-mato-grosso-2026/assets/capa.png",
+    "projetos/reel-nova-mutum-bairros-2026/assets/base-osm-overscan.webp",
+    "projetos/reel-nova-mutum-bairros-2026/assets/base-osm.webp",
+    "projetos/reel-rondonopolis-bairros-2026/assets/base-osm-overscan.webp",
+    "projetos/reel-sinop-bairros-2026/assets/base-osm-overscan.webp",
+    "projetos/reel-sinop-bairros-2026/assets/base-osm.webp",
+    "projetos/reel-sorriso-bairros-2026/assets/base-osm-overscan.webp",
+    "projetos/reel-sorriso-bairros-2026/assets/base-osm.webp",
+    "projetos/reel-varzea-grande-bairros-2026/assets/base-osm.webp"
+  ],
+  "sources": {
+    "data": "https://dadosabertos.tse.jus.br/",
+    "boundaries": "https://www.ibge.gov.br/geociencias/",
+    "maps": "https://www.openstreetmap.org/copyright",
+    "fonts": "https://github.com/google/fonts",
+    "animation": "https://gsap.com/standard-license/"
+  },
+  "license_files": [
+    "licencas/barlow-OFL.txt",
+    "licencas/barlowcondensed-OFL.txt"
+  ],
+  "manifest": [
+    {
+      "file": ".agents/skills/reels-eleicoes-theo/agents/openai.yaml",
+      "bytes": 216,
+      "sha256": "b5c6d167c380c5c20b48e5e74a26f420f82d07ea5475962193c59e4299e2680f",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": ".agents/skills/reels-eleicoes-theo/references/acervo.md",
+      "bytes": 1106,
+      "sha256": "f7d01fdd85f8c0e271da29333bbd2be43060cbe49fda987f697f3538fbdaf17b",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": ".agents/skills/reels-eleicoes-theo/references/chatfunnel.md",
+      "bytes": 1575,
+      "sha256": "99c652cbf9a81a8cee9837b02d66f38b90dff586aac8240cdcb0bb90a616cd58",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": ".agents/skills/reels-eleicoes-theo/references/dados.md",
+      "bytes": 1300,
+      "sha256": "0d8a799a636847b7e87f0baff66e2b7afa51a49048d02d5bce75dd005c79a16c",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": ".agents/skills/reels-eleicoes-theo/references/editorial.md",
+      "bytes": 5394,
+      "sha256": "0620e3f02af9354d48af51d78a78840d36044a00d371afb39887896ca5ab658c",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": ".agents/skills/reels-eleicoes-theo/SKILL.md",
+      "bytes": 2885,
+      "sha256": "c3f9982d5adee4160b815b2b480d2f33b6841c96bc1e0845fd18180a45847bb6",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": ".gitattributes",
+      "bytes": 189,
+      "sha256": "254c0572d298c685e633155ebb66834913275fbcb3dc8e6ca19cdfc9ba057ffc",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": ".github/workflows/validar.yml",
+      "bytes": 281,
+      "sha256": "5f4e87b3a171b1aca397ac213f3449ce1f31187dc31ff6188cb3c4d5754fc32f",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": ".gitignore",
+      "bytes": 225,
+      "sha256": "5191f12767f4ee1abe44847035b42aa20c4129513bf54f45b9f13fd8b08b1a8d",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "AGENTS.md",
+      "bytes": 2221,
+      "sha256": "2d24ff45f6b14122e48bab88f54be116442d00ef36c4239ccb432671aa15b9f7",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "catalogo-projetos.json",
+      "bytes": 1507,
+      "sha256": "1d7faf5971113cd490f77f2573b9774f455e6c39c26cde98f6ef8b86488b2339",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "COMECE-NO-CODEX.md",
+      "bytes": 1343,
+      "sha256": "23d492931c18a18fb55f3b3b5a7283d125924ac71ed9e1848078be1fe89fd03b",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "config/perfil.example.json",
+      "bytes": 685,
+      "sha256": "079dd0bff8eb2b9f669509f6e53ba58139296d31fc923bd1712504fe1dddf222",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "dados/alta-floresta/alta-floresta-bairros-ibge2022.geojson",
+      "bytes": 64351,
+      "sha256": "d1cb94b78cfbbe11679f973146dbb3710e85ec5a232f083d6f5fcbb6ab741427",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/alta-floresta/mapa-escolas.json",
+      "bytes": 14723,
+      "sha256": "37bd601ab2ef5b9bd13f74d68fb59e7fbf9a25bbacb044dfdd1944baab837240",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/alta-floresta/resultados-bairros-conferidos.json",
+      "bytes": 5486,
+      "sha256": "8740246f81471c57806a212c77e1937c5887887e1979314eea78df74b0162816",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/campo-novo/campo-novo-bairros-ibge2022.geojson",
+      "bytes": 15470,
+      "sha256": "785b1dc98187003a74d1ae077564e502ecc3d4431acc9ab50de87e371332f0a2",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/campo-novo/mapa-escolas.json",
+      "bytes": 7469,
+      "sha256": "4f1ea1be4fd9534cf987ab89b6588951d68b8fed0bd2fc7cf56105907aa747da",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/campo-novo/resultados-bairros-conferidos.json",
+      "bytes": 3589,
+      "sha256": "41ad7b1433eb79e9342ac9f218293e2ab4fa600edea864b2feae7aa7e7f98320",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/cuiaba/cuiaba-bairros-ibge2022.geojson",
+      "bytes": 1277414,
+      "sha256": "1c38d2aae0fb177610e52bea050a3fa502b03904e55a46b9488a751af450a73f",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/cuiaba/resultados-bairros-conferidos.json",
+      "bytes": 45795,
+      "sha256": "b73f7c4689bb95660c64c4cdd6bf1e4f27496b83e5b37c90a150b6794cda969e",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/lucas/lucas-bairros-ibge2022.geojson",
+      "bytes": 56702,
+      "sha256": "234a761ae5640b0ab91d5b8b9a3e584538100d45d47b95abaf8638f5ff963513",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/lucas/mapa-escolas.json",
+      "bytes": 11686,
+      "sha256": "7fc81a359920cec57e7685e7640ca169c2b63716b24c1d049c6317499f026ceb",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/lucas/resultados-bairros-conferidos.json",
+      "bytes": 5850,
+      "sha256": "1d140a685a8885b649d56b457092e5326e68d149e4ad84ed492926f125faf1f0",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/nova-mutum/mapa-escolas.json",
+      "bytes": 12114,
+      "sha256": "3e24b6eb06f784d4125aeadf38575c95557281f06a13c033d07a24a7d119ea54",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/nova-mutum/nova-mutum-bairros-ibge2022.geojson",
+      "bytes": 48606,
+      "sha256": "745aff913a052ab51afe0d129136ff1f43e80dd1202d03c3ee8ee778723202c3",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/nova-mutum/resultados-bairros-conferidos.json",
+      "bytes": 5326,
+      "sha256": "f8318f3230be0aae744bda6832c5c95e873a53aeeb6b40ed0073662e166326e0",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/rondonopolis/mapa-escolas.json",
+      "bytes": 41508,
+      "sha256": "10c4d8444f32b72773f7630e7da571d1b2214e0bcca7f6737996749c33689cc3",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/rondonopolis/resultados-bairros-conferidos.json",
+      "bytes": 20400,
+      "sha256": "d72d3c9bd69ada68d6d4e0b4156a80bb8c8c88bd66314ef197c9ead1752d1f6b",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/rondonopolis/rondonopolis-bairros-ibge2022.geojson",
+      "bytes": 45,
+      "sha256": "7d09e532fc380630caac6b4b1b5174a7a9f7a308f6544bcb79eefb97b1e12306",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/sinop/mapa-escolas.json",
+      "bytes": 26523,
+      "sha256": "6fefc60cc5fd0ad2da77db30e312d427ee6e1f14cef2ad9d90eca2c5a5531df3",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/sinop/resultados-bairros-conferidos.json",
+      "bytes": 12328,
+      "sha256": "8bc7c180fae5618b0c98244806adf98e9969115a7792623caa8ea19cd2ec1611",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/sinop/sinop-bairros-ibge2022.geojson",
+      "bytes": 99364,
+      "sha256": "54bf84d08796f4c2dd799eefa3660a8fca92e60caa4a1695c25a719ace4bc4cc",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/sorriso/mapa-escolas.json",
+      "bytes": 16513,
+      "sha256": "a8cba44c3efb168078855a86acd834d51f300689d342136110a25f40cbb658ed",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/sorriso/resultados-bairros-conferidos.json",
+      "bytes": 8164,
+      "sha256": "56d5e662d7b24b87d644d5975ed39b55f57d1e4ee58a7adcc88ed90961aa3570",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/sorriso/sorriso-bairros-ibge2022.geojson",
+      "bytes": 47961,
+      "sha256": "6d478056ab218e26a70771765239c438a4f0b43aba29db952f4610a0d199d829",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/varzea-grande/mapa-escolas.json",
+      "bytes": 62315,
+      "sha256": "d200b413eeeaecb04549d1abbb167a401f81847424a0df5444e1e4121c190648",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/varzea-grande/resultados-bairros-conferidos.json",
+      "bytes": 23474,
+      "sha256": "8ed9a55d701c2dbbbb4b5f19e21b82eae5f01fd9342e55f66d6782eee762aff9",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "dados/varzea-grande/varzea-grande-bairros-ibge2022.geojson",
+      "bytes": 189903,
+      "sha256": "747ff719ccfd42590884f94c29bf3507e22f1629728b2e58301d1aebed21b936",
+      "classification": "public_aggregated_tse_ibge_data"
+    },
+    {
+      "file": "docs/CHATFUNNEL.md",
+      "bytes": 2053,
+      "sha256": "64a451631802c440e21a1b7504e3113668cb07a1bc9334cac0642b1a5d11e3f7",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "docs/DADOS-E-MAPAS.md",
+      "bytes": 2956,
+      "sha256": "d77c7156dd6f8255d0fb149aa8db73f5e521bbac1e766fc60b0e5904ba215110",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "docs/PRODUCAO.md",
+      "bytes": 3448,
+      "sha256": "d983eb81fa3013874a1c38e8c22a4cef7a696992f6bbd2aae9efd38874eea82c",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "docs/VOZ-E-AUDIO.md",
+      "bytes": 1984,
+      "sha256": "b6877723f9372881ad5d30a943b3af96f403de668402feda045371668a4012a6",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "licencas/barlow-OFL.txt",
+      "bytes": 4377,
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "licencas/barlowcondensed-OFL.txt",
+      "bytes": 4377,
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "package.json",
+      "bytes": 263,
+      "sha256": "16baa98ea665ea3422eecf2c97a5157e5225f75cfbf6022348e2f430da5cc266",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/assets/base-osm.webp",
+      "bytes": 314480,
+      "sha256": "1972e0dbb9df323fe6d3f3321422b82e6d400ca82d71c10824b0a93356e7771b",
+      "classification": "frozen_public_map_or_generated_report_cover"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/assets/click.wav",
+      "bytes": 12392,
+      "sha256": "9f7e70e4bbe2d7c5f69143cfef03d19915210263b14e7f22c729c112420221ae",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/assets/design.css",
+      "bytes": 5581,
+      "sha256": "7524170958a3f2bf8d637876b263b6279fc6ada68ad0570f5163519579a4cb58",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/assets/fonts/Barlow-Regular.ttf",
+      "bytes": 104068,
+      "sha256": "95aa02c7c43096e0dd44d787ba6216864a67157e402adab59b35572e0c1577ea",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/assets/fonts/BarlowCondensed-Bold.ttf",
+      "bytes": 109912,
+      "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/assets/gsap.min.js",
+      "bytes": 72779,
+      "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+      "classification": "gsap_with_original_license_header"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/assets/narracao-placeholder.wav",
+      "bytes": 2646044,
+      "sha256": "7c4ac3e32ae7bd78a48cb300fe0b5a93811f33207fcfe5eeb3a963199306af6b",
+      "classification": "generated_silence"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/assets/whoosh.wav",
+      "bytes": 48554,
+      "sha256": "a0d06b6b94ca00f7420e49307e411edc4b39344f5c09fcbd6c8779b5defdf5d9",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/BRIEF.md",
+      "bytes": 889,
+      "sha256": "18b671bce998f1b6731d949560566af003c270fa198bd81965f5f38537466200",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/compositions/allnames.html",
+      "bytes": 1954,
+      "sha256": "38eb400629d8685aabec57d0be611527fded4dfb8b18af9c7a8af924ce3e5b52",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/compositions/allreveal.html",
+      "bytes": 1099,
+      "sha256": "d8b7c13c083bdb7873c720011b3499d698142165a0dc76f441253e846e1ce271",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/compositions/centro.html",
+      "bytes": 1130,
+      "sha256": "c25a95586720bced2ce21d117cb4be2d0199f0d9a2ebf1969f0282291a3f5fd2",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/compositions/cidadealta.html",
+      "bytes": 1170,
+      "sha256": "61f5e17bb8dbfff3f1ac88511d22a72e5b4762f69f3a80e670956bd112d3a2c0",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/compositions/city.html",
+      "bytes": 728,
+      "sha256": "d948234e4bcf7e9193da87934dfe1bc3b13cf82019b0213d2b1c5b560ecf9e86",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/compositions/cta.html",
+      "bytes": 1160,
+      "sha256": "4fd7996d20d03d964bd7013defb848857842a67aa3707e145ac7018f75257a59",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/compositions/hook.html",
+      "bytes": 642,
+      "sha256": "0315faa2c0b6515be6db3395c62e756228af481d6c9d0f4322fa045256dd8685",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/compositions/look.html",
+      "bytes": 559,
+      "sha256": "2e7d90476d4db43b9a257bc59e4af6df824cd41a8b19a801c198428f41d808b4",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/compositions/map.html",
+      "bytes": 3518,
+      "sha256": "629cb684d096a762a851b1fb1658b5cef8fc4f844809b8394066b495c2535f59",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/compositions/meaning.html",
+      "bytes": 906,
+      "sha256": "08836b6857c255d24e7f5f7b5afddc639e4f349892f1a33e04afac557bf0290a",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/compositions/newhook.html",
+      "bytes": 675,
+      "sha256": "c3b1a671c97513d0170554c4f688123b761eaf0544e412fdef997110c1ce1911",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/compositions/tour.html",
+      "bytes": 1749,
+      "sha256": "590cf9fa638b872750b5131155b52d45b51d0db325a7e0990e6cc23737ea2964",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/compositions/vila.html",
+      "bytes": 1320,
+      "sha256": "08f554a22e2b9b9f4ec123d57385de37f02f2d5bca0a44028d83cfaab116d06a",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/hyperframes.json",
+      "bytes": 355,
+      "sha256": "ad5dadeef78a520800a9e5cdd27a92ff5ac37f11b6a07f611b6b52b9f8c79a17",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/index.html",
+      "bytes": 4035,
+      "sha256": "1f6e9dbb573879f920e1fa3c791ee6d4cb6366866c50dc85c62faa8876454f74",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/meta.json",
+      "bytes": 93,
+      "sha256": "33b9087c85ef5c126869ce3263eab38aaa7641c2737e001638785fc84f721ea2",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-alta-floresta-darlan-motion/package.json",
+      "bytes": 321,
+      "sha256": "5a05ec95c09be6cb71d5ee3519e0c9b4dcfe3f0640bd5bf96da6bf0600e02faa",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/assets/base-osm-overscan.webp",
+      "bytes": 408632,
+      "sha256": "ce00ddf6a9764fba4dfc9f93305485b3f0ada36e43bb63b2b22314ea941f7853",
+      "classification": "frozen_public_map_or_generated_report_cover"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/assets/base-osm.webp",
+      "bytes": 211172,
+      "sha256": "e7e5196be4869d3acc2dd9260b3305cc9125fa1d5cabe677a06a98ca05b1d34c",
+      "classification": "frozen_public_map_or_generated_report_cover"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/assets/click.wav",
+      "bytes": 12392,
+      "sha256": "9f7e70e4bbe2d7c5f69143cfef03d19915210263b14e7f22c729c112420221ae",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/assets/design.css",
+      "bytes": 7365,
+      "sha256": "2a7252a1cfd60da1287b06680afdfdf7fea49a2cb72bf855ec8f9e5f8f86cc42",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/assets/fonts/Barlow-Regular.ttf",
+      "bytes": 104068,
+      "sha256": "95aa02c7c43096e0dd44d787ba6216864a67157e402adab59b35572e0c1577ea",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/assets/fonts/BarlowCondensed-Bold.ttf",
+      "bytes": 109912,
+      "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/assets/gsap.min.js",
+      "bytes": 72779,
+      "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+      "classification": "gsap_with_original_license_header"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/assets/map-overlay.svg",
+      "bytes": 6271,
+      "sha256": "d51d5d538498b5c63bf636555c574d279e9c7390b8ba1eff03d7ce6b3911d177",
+      "classification": "generated_vector_or_public_geography"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/assets/map-projection.json",
+      "bytes": 181,
+      "sha256": "c294698c278d27506ad5b5dd77c8e392d64a85029b0bbc97101b9648bd150b8b",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/assets/narracao-placeholder.wav",
+      "bytes": 2646044,
+      "sha256": "7c4ac3e32ae7bd78a48cb300fe0b5a93811f33207fcfe5eeb3a963199306af6b",
+      "classification": "generated_silence"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/assets/whoosh.wav",
+      "bytes": 48554,
+      "sha256": "a0d06b6b94ca00f7420e49307e411edc4b39344f5c09fcbd6c8779b5defdf5d9",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/BRIEF.md",
+      "bytes": 885,
+      "sha256": "ce1d36984f981a31aa59dfe7aa081a590f6fe2da5063b4426890dcec47673997",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/compositions/centro.html",
+      "bytes": 1856,
+      "sha256": "23ec06d3d9079e4ba365ec112c26b5519d62636be681694136e947ec342c1637",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/compositions/cta.html",
+      "bytes": 1250,
+      "sha256": "13de1d52e33ff64116a88aff890ed32fce3ec6d11ab9b4d38c2c7f6bad273f64",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/compositions/hook.html",
+      "bytes": 662,
+      "sha256": "3b0dc0f23a4030187df5b6203ea694d8563106726b15aa4f456d9e9cea5857f3",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/compositions/intro.html",
+      "bytes": 1013,
+      "sha256": "36261ab1a123f453b801ed05ac1f85e1e64a2b6da74600dff162128fb22331b5",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/compositions/map.html",
+      "bytes": 9424,
+      "sha256": "a8d1ed459fab1f4e17d070f90b7d0baa4284ca796937086d0b66aceeff75c945",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/compositions/misterio.html",
+      "bytes": 689,
+      "sha256": "5c7f24223ca44b18efe6f3a497c34c1e150c5b3f85d018502e3837582a010d7e",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/compositions/palmeiras.html",
+      "bytes": 2206,
+      "sha256": "d68510b58548c9c17937ed5853525aff2b31b9d209b91c05cedc85102a80c9b1",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/compositions/resposta.html",
+      "bytes": 1104,
+      "sha256": "a69f26c4e88f1a21f892d08cfdcb0db2878c34191000a6f72a0123d2ef5326a6",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/hyperframes.json",
+      "bytes": 318,
+      "sha256": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/index.html",
+      "bytes": 4454,
+      "sha256": "e3814ddfb81923fd34bdf7f03783b9e1e22b6081fb51d9021073116d45736001",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/map-audit.json",
+      "bytes": 656,
+      "sha256": "1802be8fef790ff668f83f27edaea634450708bfb8b9461111a8c447f02ff42d",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/meta.json",
+      "bytes": 85,
+      "sha256": "33845ad7233ba4a12363b018143b29afce5413168d4c1bd64aaa4c5b7f8cbf89",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/package.json",
+      "bytes": 317,
+      "sha256": "f58f1dfdcefa3e962a83a9f82efa8b58427b46535d7fbfcc1c0b1cc46a8ebf70",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/SCRIPT.md",
+      "bytes": 2354,
+      "sha256": "0f8187e62cdc551d8b9fee78ea13275b90098e0f57c41347e19dd5c67c08443c",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-campo-novo-bairros-2026/STORYBOARD.md",
+      "bytes": 247,
+      "sha256": "a86f85a08c9e452d3447bb4332e7cccaabb6079b353b050d0bac714b77c7e479",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/assets/bairros.svg",
+      "bytes": 463366,
+      "sha256": "99014ef4fc6c1f0a366c6d649b0eac9c7dcce97ba3a00c6874f27f1d61f41ccc",
+      "classification": "generated_vector_or_public_geography"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/assets/base-osm.png",
+      "bytes": 4279629,
+      "sha256": "4baca4ad530ad74434a62487774c0ceccf0458423e7c5a499921ccf9e34c0c30",
+      "classification": "frozen_public_map_or_generated_report_cover"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/assets/base-osm.webp",
+      "bytes": 607628,
+      "sha256": "80aa3bda64ec45a056af6506b1d112b400f00532392ffc5c2c20b56ed83b8229",
+      "classification": "frozen_public_map_or_generated_report_cover"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/assets/click.wav",
+      "bytes": 12392,
+      "sha256": "9f7e70e4bbe2d7c5f69143cfef03d19915210263b14e7f22c729c112420221ae",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/assets/design.css",
+      "bytes": 4021,
+      "sha256": "e92d186926ea7f1e4f38a8e9bf02813dccbb6aafba1eb659556604aa5a78d8d3",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/assets/fonts/Barlow-Regular.ttf",
+      "bytes": 104068,
+      "sha256": "95aa02c7c43096e0dd44d787ba6216864a67157e402adab59b35572e0c1577ea",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/assets/fonts/BarlowCondensed-Bold.ttf",
+      "bytes": 109912,
+      "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/assets/gsap.min.js",
+      "bytes": 72779,
+      "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+      "classification": "gsap_with_original_license_header"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/assets/mapa-dados.json",
+      "bytes": 551357,
+      "sha256": "502ebce8fa86026b2ec6d8d0008560dc0dab511ec51ec90c15c75b57291332a7",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/assets/narracao-placeholder.wav",
+      "bytes": 2646044,
+      "sha256": "7c4ac3e32ae7bd78a48cb300fe0b5a93811f33207fcfe5eeb3a963199306af6b",
+      "classification": "generated_silence"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/assets/whoosh.wav",
+      "bytes": 48554,
+      "sha256": "a0d06b6b94ca00f7420e49307e411edc4b39344f5c09fcbd6c8779b5defdf5d9",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/BRIEF.md",
+      "bytes": 881,
+      "sha256": "ecba6376bfc95a9a41ce5e4c28a1f4168029dcadebfda2fd7e09a95d72c97715",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/compositions/fortaleza.html",
+      "bytes": 1935,
+      "sha256": "c40fda8071dcbfbe1682b50063da20ea9289b2d6c87b31de13eeb1bb995455c4",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/compositions/green.html",
+      "bytes": 1172,
+      "sha256": "5831850d6fa395d8fa1fe9c9defa51958a0e2f92b26c4c9fd8a3a4388c03a34c",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/compositions/hook.html",
+      "bytes": 983,
+      "sha256": "0fc41df422e41cb4e7f6497b26dd9a76008a41d6ee6efd35f2370e4ac159397e",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/compositions/legend.html",
+      "bytes": 1005,
+      "sha256": "02fe89add8ac945bb4af29d047f22c4e367739b6086f0370f823839697ca9a59",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/compositions/map.html",
+      "bytes": 547497,
+      "sha256": "08b9f869c301f1b24ae289f9ecf968744d6a7a34dc49220f83c669610a704f10",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/compositions/praeirinho.html",
+      "bytes": 1942,
+      "sha256": "f5e90c72880973ffe3f6909a3412bdcd4cb5929ed88d8417d090bca5bf10853c",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/compositions/question.html",
+      "bytes": 908,
+      "sha256": "5949478fc1fdd9eadb898ea8ca77626f5782a0ebeb9bab7571da12f9047ef8e7",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/compositions/report.html",
+      "bytes": 1200,
+      "sha256": "97c92f89f27736deec375a3e6ec02332a8e5f2b6d481cbdd778680b8ca691c6c",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/frame.md",
+      "bytes": 278,
+      "sha256": "77001a8b9563718f175ba8ca97b7738afd093ee2e8041c368d019902749b444f",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/hyperframes.json",
+      "bytes": 355,
+      "sha256": "ad5dadeef78a520800a9e5cdd27a92ff5ac37f11b6a07f611b6b52b9f8c79a17",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/index.html",
+      "bytes": 3535,
+      "sha256": "a39ea5091be0225c0ec0b92b57d0ba401955797d65ea54790b8af2bb695f18d0",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/meta.json",
+      "bytes": 77,
+      "sha256": "44c7f6961b9a6ad915a05ef89c9b7927c0c43ad256e9e60b261f444587a607f4",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/package.json",
+      "bytes": 313,
+      "sha256": "6cf36837fefa37ce4e34a3846e49a6c270fcdd20930835dd8fe04de1f9fb0867",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/SCRIPT.md",
+      "bytes": 4968,
+      "sha256": "41cdb7adf5cd007ad55e74cbcdade29f22c4a35636c6b93dd7b4f88e58cfd0f5",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-cuiaba-bairros-2026/STORYBOARD.md",
+      "bytes": 974,
+      "sha256": "e620bddbc0fd40401ed92f24c20759733a8cfe3c7d79c9b27fa4fdc0b6402d9e",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/assets/click.wav",
+      "bytes": 12392,
+      "sha256": "9f7e70e4bbe2d7c5f69143cfef03d19915210263b14e7f22c729c112420221ae",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/assets/design.css",
+      "bytes": 3649,
+      "sha256": "173155b212d2f90b09aa85ddef66786ec3977d026c58c9813b08b53e9c04556c",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/assets/fonts/Barlow-Regular.ttf",
+      "bytes": 104068,
+      "sha256": "95aa02c7c43096e0dd44d787ba6216864a67157e402adab59b35572e0c1577ea",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/assets/fonts/BarlowCondensed-Bold.ttf",
+      "bytes": 109912,
+      "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/assets/gsap.min.js",
+      "bytes": 72779,
+      "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+      "classification": "gsap_with_original_license_header"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/assets/narracao-placeholder.wav",
+      "bytes": 2646044,
+      "sha256": "7c4ac3e32ae7bd78a48cb300fe0b5a93811f33207fcfe5eeb3a963199306af6b",
+      "classification": "generated_silence"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/assets/whoosh.wav",
+      "bytes": 48554,
+      "sha256": "a0d06b6b94ca00f7420e49307e411edc4b39344f5c09fcbd6c8779b5defdf5d9",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/BRIEF.md",
+      "bytes": 882,
+      "sha256": "080ddc2bdcabd77af062145c4282bbb3642bee2f62ff8cbf58a3bd8cd21a8efa",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/compositions/captions.html",
+      "bytes": 5230,
+      "sha256": "1e7f8fe1f6d7e452e0ad4fd2ff777670838947c776dd6fd9241ab9004fdbe191",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/compositions/sc01.html",
+      "bytes": 221470,
+      "sha256": "81bbb02eb88313340160fe6053329533dbec0ae867036b9a60d0108de2b4e332",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/compositions/sc02.html",
+      "bytes": 223406,
+      "sha256": "c35cedc4cf0c2a663166b1e72194f9f01369baa4db8904a7af886617ae14596c",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/compositions/sc03.html",
+      "bytes": 37230,
+      "sha256": "822d874cd8681672c4ba253ff58200549472d37b61627d1b3d4107bd62b7379b",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/compositions/sc04.html",
+      "bytes": 3010,
+      "sha256": "893fe6d581f9eb114ccb8a1fe11ef0a94a0d90e1b005c7e35fe40841e1a84842",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/compositions/sc05.html",
+      "bytes": 3463,
+      "sha256": "57fe31a7388323c82de693f43d3b62f5974126560cf424dc42126cadb701650f",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/compositions/sc06.html",
+      "bytes": 3006,
+      "sha256": "739a6d83d2d100e1bb2e9838db8f983e219856fdbada5b2a443d9cbd476d4dc2",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/frame.md",
+      "bytes": 812,
+      "sha256": "f676b1c614164f0f3229bd85b630d6f6932912a541fdd7692d536a0da07e09b8",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/hyperframes.json",
+      "bytes": 355,
+      "sha256": "ad5dadeef78a520800a9e5cdd27a92ff5ac37f11b6a07f611b6b52b9f8c79a17",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/index.html",
+      "bytes": 2354,
+      "sha256": "0f5a832fc78ee982c5821e9d32d46dc985210179c528217582c7401173853e1f",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/meta.json",
+      "bytes": 79,
+      "sha256": "2a253561f937899fb3c30bd3db7dbf5341db38488cf9d21efa92c358269111ab",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/package.json",
+      "bytes": 314,
+      "sha256": "e6caea351307291ff741f3eaa61399438e9147a8e0d4cc67be5cf9ce35a7d06b",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/SCRIPT.md",
+      "bytes": 859,
+      "sha256": "6e15c09d5e85e7d92cb23d4646d58a16e9aab30383719218f615feca220a5111",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-eleicoes-2026-motion/STORYBOARD.md",
+      "bytes": 1115,
+      "sha256": "911d50b157fad1997aee4300fe2bbfdb9d0aad362cb7de8daef4c2fe1b0221ce",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/assets/base-osm-overscan.webp",
+      "bytes": 756672,
+      "sha256": "e59ceb4a6db5f58ce74eb258e50dc315819533a17a863cbbac394c523c48ebe4",
+      "classification": "frozen_public_map_or_generated_report_cover"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/assets/base-osm.webp",
+      "bytes": 359442,
+      "sha256": "002ca3d88d4e7e6295a8591295de2dfc0643271addea02bb3030d800352cf001",
+      "classification": "frozen_public_map_or_generated_report_cover"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/assets/click.wav",
+      "bytes": 12392,
+      "sha256": "9f7e70e4bbe2d7c5f69143cfef03d19915210263b14e7f22c729c112420221ae",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/assets/design.css",
+      "bytes": 6492,
+      "sha256": "933e94a93281f0533d4d8d2e02896c4d6e13990a1b3d87b2ed149d81b34dc087",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/assets/fonts/Barlow-Regular.ttf",
+      "bytes": 104068,
+      "sha256": "95aa02c7c43096e0dd44d787ba6216864a67157e402adab59b35572e0c1577ea",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/assets/fonts/BarlowCondensed-Bold.ttf",
+      "bytes": 109912,
+      "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/assets/gsap.min.js",
+      "bytes": 72779,
+      "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+      "classification": "gsap_with_original_license_header"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/assets/map-projection.json",
+      "bytes": 179,
+      "sha256": "11813db0af4f142fc347dc995f0c745b9e0af02ea08ceff811b024adbcd4119c",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/assets/narracao-placeholder.wav",
+      "bytes": 2646044,
+      "sha256": "7c4ac3e32ae7bd78a48cb300fe0b5a93811f33207fcfe5eeb3a963199306af6b",
+      "classification": "generated_silence"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/assets/whoosh.wav",
+      "bytes": 48554,
+      "sha256": "a0d06b6b94ca00f7420e49307e411edc4b39344f5c09fcbd6c8779b5defdf5d9",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/BRIEF.md",
+      "bytes": 880,
+      "sha256": "d8dd383bebb213e832fcb10a469157c604b2f9dffc1cb06992686462bc382c2e",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/compositions/escolas.html",
+      "bytes": 613,
+      "sha256": "71195a77c351491a542483024b449b73c8584c75fd6b1ee074ac7934f0375667",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/compositions/hook.html",
+      "bytes": 713,
+      "sha256": "822f4faa657e97cf24ee88c16ff3231af086677ced2c6ca2e88ede7b360f496e",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/compositions/map.html",
+      "bytes": 24841,
+      "sha256": "adfc962154a7a3d767f532856f346306b25c3d9e49d94490ec5bd0a7e9accc9f",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/compositions/palmeiras.html",
+      "bytes": 1732,
+      "sha256": "4a5a5c881c8cdd1e4e93d02f250c314cc24aa3cb88e2295c2bbae3823970e23d",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/compositions/relatorio.html",
+      "bytes": 1254,
+      "sha256": "a909309d3328a809c11762c647d162816fcc90963306883080281909735db3b9",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/compositions/resposta.html",
+      "bytes": 939,
+      "sha256": "e9e455f9c475003f7c70396060d2b12bb2cfe7a7006f597ad2875393dfb6ba99",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/compositions/rio.html",
+      "bytes": 1611,
+      "sha256": "c71cdaa84e63618a26a0976d096abe606695695bab157decc61dac4ac9dd1397",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/compositions/suspense.html",
+      "bytes": 619,
+      "sha256": "9aa0d9b04ac7799b4b1daf26a02791d465923f8b3956821cecc181ad717a7804",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/compositions/tessele.html",
+      "bytes": 1734,
+      "sha256": "b4919371c6df0ea8acaf9de6daaa064c1cfd633980cb3a2b4014121abd54f223",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/hyperframes.json",
+      "bytes": 318,
+      "sha256": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/index.html",
+      "bytes": 3712,
+      "sha256": "ff6405279cb22d08d674001ef7bd2e00815cdf9b15532f8be503c752d34a2f3f",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/meta.json",
+      "bytes": 75,
+      "sha256": "f2bf508fe4aee11061d5a8c6643c68231d83f5264eea98a82f59c2c1c65b139e",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/package.json",
+      "bytes": 312,
+      "sha256": "fe0bbf272ec725046e8b0248486d55cb3cfec308ab9562dd02ee2b4c4e49dd32",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/SCRIPT.md",
+      "bytes": 3151,
+      "sha256": "1e4aa1979a8b232075fd3e8af87df81ee7afd48436392a1e566c3c11ccd4eb25",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-lucas-bairros-2026/STORYBOARD.md",
+      "bytes": 384,
+      "sha256": "7d923a33938a050c7810ecf230c0e8ccb7c5fb1284c5b288769ad0b5c633be68",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/assets/capa.png",
+      "bytes": 182587,
+      "sha256": "d48df6b4d8d6d24f8cc3e435af7f6ec819252df2587351e2b15e82de5e33a02a",
+      "classification": "frozen_public_map_or_generated_report_cover"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/assets/click.wav",
+      "bytes": 12392,
+      "sha256": "9f7e70e4bbe2d7c5f69143cfef03d19915210263b14e7f22c729c112420221ae",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/assets/design.css",
+      "bytes": 3677,
+      "sha256": "0c75b0e476629540d09eea07c066d126775aa47e248b27e2fb7fe517e850e51a",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/assets/fonts/Barlow-Regular.ttf",
+      "bytes": 104068,
+      "sha256": "95aa02c7c43096e0dd44d787ba6216864a67157e402adab59b35572e0c1577ea",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/assets/fonts/BarlowCondensed-Bold.ttf",
+      "bytes": 109912,
+      "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/assets/gsap.min.js",
+      "bytes": 72779,
+      "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+      "classification": "gsap_with_original_license_header"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/assets/mapa.svg",
+      "bytes": 13372700,
+      "sha256": "6016b9cfff4d7a1bdb861b7d642059dc92a137d87d4683f25264bbfb3c0532cb",
+      "classification": "generated_vector_or_public_geography"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/assets/narracao-placeholder.wav",
+      "bytes": 2646044,
+      "sha256": "7c4ac3e32ae7bd78a48cb300fe0b5a93811f33207fcfe5eeb3a963199306af6b",
+      "classification": "generated_silence"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/assets/whoosh.wav",
+      "bytes": 48554,
+      "sha256": "a0d06b6b94ca00f7420e49307e411edc4b39344f5c09fcbd6c8779b5defdf5d9",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/BRIEF.md",
+      "bytes": 878,
+      "sha256": "4de1dbf8085aa8c35e4f7fff3ce3b6c0a0bf22e18438c2e7de7df034dd0957c1",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/compositions/chairs.html",
+      "bytes": 3947,
+      "sha256": "6bc005caafea733c7ce417a984015434cb6abefcfea3feb65dda3ae911ccdea9",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/compositions/detail.html",
+      "bytes": 13378934,
+      "sha256": "d6568c03a06a7e1e438e3273dc220638f6be7ddc698107c79949adb90d5bb297",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/compositions/map.html",
+      "bytes": 13375035,
+      "sha256": "47983a4fe077db1e6d584d4747ff87cefc0d0aca49a2939423d6b25990325f3a",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/compositions/ranking.html",
+      "bytes": 1073,
+      "sha256": "00acdd87f0caf7750868a5770736abbd72e17fedf85393daa1afb35c007782a7",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/compositions/report.html",
+      "bytes": 1175,
+      "sha256": "576a242ee8823606dcf715a564ce3b2a72710d9a83362c916a7482212f7f6c68",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/compositions/votes.html",
+      "bytes": 1693,
+      "sha256": "ac34cabcfb25a13cebde618d2826dbad955f47ce257b90edfc74c5e8807ce66e",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/hyperframes.json",
+      "bytes": 355,
+      "sha256": "ad5dadeef78a520800a9e5cdd27a92ff5ac37f11b6a07f611b6b52b9f8c79a17",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/index.html",
+      "bytes": 1949,
+      "sha256": "78de474654eb556ef03abfd8dfedf5fb80efe1d8e6555aa3d35c3518d679781e",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/meta.json",
+      "bytes": 71,
+      "sha256": "15a40c2076e9940758f5c43b2ebac60c085be372e0cf610d035289ee216ca0d0",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-mato-grosso-2026/package.json",
+      "bytes": 310,
+      "sha256": "e76b683f6c20fb714d39323706366051a7c6e32dc3ca67db4e8f92de3e716433",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/assets/base-osm-overscan.webp",
+      "bytes": 444192,
+      "sha256": "0539a7cb2ff8d7c06ae15191ab44a1b2227f9ada5a8eb5ec408732036e9252bf",
+      "classification": "frozen_public_map_or_generated_report_cover"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/assets/base-osm.webp",
+      "bytes": 255692,
+      "sha256": "e604f9d6d0d8ae51fb2b96696da1221ca4854d0cb4e10b206687bac27957252b",
+      "classification": "frozen_public_map_or_generated_report_cover"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/assets/click.wav",
+      "bytes": 12392,
+      "sha256": "9f7e70e4bbe2d7c5f69143cfef03d19915210263b14e7f22c729c112420221ae",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/assets/design.css",
+      "bytes": 6821,
+      "sha256": "66fa3ab5dede9df2328ad7cd3adaff6c4e2353cc5903b02bb7823ee43fe2366f",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/assets/fonts/Barlow-Regular.ttf",
+      "bytes": 104068,
+      "sha256": "95aa02c7c43096e0dd44d787ba6216864a67157e402adab59b35572e0c1577ea",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/assets/fonts/BarlowCondensed-Bold.ttf",
+      "bytes": 109912,
+      "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/assets/gsap.min.js",
+      "bytes": 72779,
+      "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+      "classification": "gsap_with_original_license_header"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/assets/map-overlay.svg",
+      "bytes": 16563,
+      "sha256": "02347d33424f2e1cb3cee0fa6d312e284bee3691533d45c97859b67db0612ea2",
+      "classification": "generated_vector_or_public_geography"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/assets/map-projection.json",
+      "bytes": 180,
+      "sha256": "354cf7f0fbaa904141d10398e542c9a351e5728588125bcf77348f3c6705b5a7",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/assets/narracao-placeholder.wav",
+      "bytes": 2646044,
+      "sha256": "7c4ac3e32ae7bd78a48cb300fe0b5a93811f33207fcfe5eeb3a963199306af6b",
+      "classification": "generated_silence"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/assets/whoosh.wav",
+      "bytes": 48554,
+      "sha256": "a0d06b6b94ca00f7420e49307e411edc4b39344f5c09fcbd6c8779b5defdf5d9",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/BRIEF.md",
+      "bytes": 885,
+      "sha256": "b6853d09aa4cae35930bf25ba06d814f05e612316b62307efbc2dfbbe5ce8076",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/compositions/bela.html",
+      "bytes": 1714,
+      "sha256": "caaf54e0c5106c085b738c439c34f41d23624b75ad8f19cadbecddfbef24b1a4",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/compositions/centro.html",
+      "bytes": 1711,
+      "sha256": "1f61aeff4d9a2001fab2c939acdf895fd1877ddc65400401569788f676f66068",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/compositions/colina.html",
+      "bytes": 2088,
+      "sha256": "9717a7f85fa4b23d0ca8e67bb5e72c3c7352b791a854c87939bec037cbcc54bf",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/compositions/cta.html",
+      "bytes": 1235,
+      "sha256": "14ce6751960d8eac225a97864bf27754300310d422551c783f757621267b795b",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/compositions/hook.html",
+      "bytes": 678,
+      "sha256": "866e365ed180a07d1c16eceebe23b9e2759b9cd603aea6c65b6ceb4697ec382c",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/compositions/intro.html",
+      "bytes": 899,
+      "sha256": "d7560d83e53eccb33ae684d132e6eca6ed537f201adfd6eb451a6baf8b408e42",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/compositions/map.html",
+      "bytes": 21382,
+      "sha256": "1a62c34582cb17a8e6b8255d2144f174200489527b29e1a92509c59c68a106cf",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/compositions/resposta.html",
+      "bytes": 1053,
+      "sha256": "494a3e0734fdc174bc112c4c9082363c09a4fbde7f8d879d2641d87ed43ec759",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/compositions/suspense.html",
+      "bytes": 695,
+      "sha256": "f14aa7e10cd10129695dbb9587e97d13caf9f3a0f78d6b86aa088cebc73b7b62",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/hyperframes.json",
+      "bytes": 318,
+      "sha256": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/index.html",
+      "bytes": 4308,
+      "sha256": "da63da2ac7bf088fb849dbcd90a6f83d0c10f7047f4e68692590696564c9fe04",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/map-audit.json",
+      "bytes": 576,
+      "sha256": "4fe647f21e1eb20dc832a126ef924fab73fe0cf6ae727e394d6d3d657be86435",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/meta.json",
+      "bytes": 85,
+      "sha256": "f35ff3e9bf7c12142b4e6b1077429734cf740feaeb97aa95fc0d5f494f9f188d",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/package.json",
+      "bytes": 317,
+      "sha256": "736d071f651e0ad69dcefd451d1727e4a564d2f0e96f9deef07e988b571d662b",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/SCRIPT.md",
+      "bytes": 2093,
+      "sha256": "3ed5a3eb5d09454e4e4cbb149f534da4d5eee9df4d4e11d585cc31db3dcda047",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-nova-mutum-bairros-2026/STORYBOARD.md",
+      "bytes": 306,
+      "sha256": "f16b5cce6898a0ac2862ea7cc2c7ee1bed78ec96c1363f72fa6e4449a97ef535",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/assets/click.wav",
+      "bytes": 12392,
+      "sha256": "9f7e70e4bbe2d7c5f69143cfef03d19915210263b14e7f22c729c112420221ae",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/assets/design.css",
+      "bytes": 3127,
+      "sha256": "d728060c0c8b97c667b92eb4a914e7a91771337f699acae2eb4da28422587bdd",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/assets/fonts/Barlow-Regular.ttf",
+      "bytes": 104068,
+      "sha256": "95aa02c7c43096e0dd44d787ba6216864a67157e402adab59b35572e0c1577ea",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/assets/fonts/BarlowCondensed-Bold.ttf",
+      "bytes": 109912,
+      "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/assets/gsap.min.js",
+      "bytes": 72779,
+      "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+      "classification": "gsap_with_original_license_header"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/assets/narracao-placeholder.wav",
+      "bytes": 2646044,
+      "sha256": "7c4ac3e32ae7bd78a48cb300fe0b5a93811f33207fcfe5eeb3a963199306af6b",
+      "classification": "generated_silence"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/assets/retrato-substituir.svg",
+      "bytes": 397,
+      "sha256": "2ad1c37713c4c410e6cbf4d21a21882f387c976ab13394330b6b56aee39bd174",
+      "classification": "generated_vector_or_public_geography"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/assets/whoosh.wav",
+      "bytes": 48554,
+      "sha256": "a0d06b6b94ca00f7420e49307e411edc4b39344f5c09fcbd6c8779b5defdf5d9",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/BRIEF.md",
+      "bytes": 874,
+      "sha256": "60689c931a815ae164fec2129b0f588e037fb105924faecb6249c3a077d84e2f",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/compositions/conta.html",
+      "bytes": 523,
+      "sha256": "411b2fac77c685911194ea2b065444b04da884172d978c84ed5be76ae42a82f5",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/compositions/esperanca.html",
+      "bytes": 835,
+      "sha256": "94ac864cf049a8a43cd7918a90e2c89a741bb04257f21720085e074ab6c8f576",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/compositions/estado.html",
+      "bytes": 828,
+      "sha256": "b2849f14a9bbe5db703113ef9350a1f458b853a48cbcec24900712c08c49acf7",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/compositions/hook.html",
+      "bytes": 933,
+      "sha256": "99319e943a4b9392d850a50ead61d8adca5510fdc9417b5309bfbb3f9a935b25",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/compositions/lucas.html",
+      "bytes": 843,
+      "sha256": "9c0cec9cf77fdb47ba570678f86bf9c266d5d41f073b3cb640689dca5d574b10",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/compositions/map.html",
+      "bytes": 21990771,
+      "sha256": "70f13ced92b281020861bc7c2a18f2755c98ffeb24929df1b1ddb109df89c0c7",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/compositions/mapa.html",
+      "bytes": 526,
+      "sha256": "1f37177380b908f8a91158f7860ad473090b0b950b9e0b35b9ea236376790b50",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/compositions/maringa.html",
+      "bytes": 826,
+      "sha256": "217d782a7f76b841a1f3bfd4f806df010b759b28cdef8e36b160b726ab948e41",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/compositions/relatorio.html",
+      "bytes": 1004,
+      "sha256": "2beb510590e118358c928b465b8cf4a03b6ad4a99f896475ce08c6475f4009d0",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/compositions/soma.html",
+      "bytes": 2265,
+      "sha256": "4baaad1d6ce57acb3521394007bb9111c7a08121fef30175ad30c5b3eaf34891",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/hyperframes.json",
+      "bytes": 355,
+      "sha256": "ad5dadeef78a520800a9e5cdd27a92ff5ac37f11b6a07f611b6b52b9f8c79a17",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/index.html",
+      "bytes": 3666,
+      "sha256": "9a7d28af43912e7d4d658cf508273b56e6b468c0ab9e82b2f146980221218072",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/meta.json",
+      "bytes": 63,
+      "sha256": "577b5065f17624d088abd120791b52c9ffaa58bd79c4a4d15b3ba950564baf7a",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/package.json",
+      "bytes": 306,
+      "sha256": "047a8a093459833af3ad2190c09c770fe02f00e867bca56dc60d8642a86d6c25",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/SCRIPT.md",
+      "bytes": 2474,
+      "sha256": "b1bb1af68517920a457ea4b5c2e9d800c6ba4800e3bef28578f394a6378ddbf0",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-pivetta-2026/STORYBOARD.md",
+      "bytes": 211,
+      "sha256": "bff680bfb5bec5d1cafc3230c2ae6c2ebb57d92b2891bc28e9626950f46bb182",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/assets/base-osm-overscan.webp",
+      "bytes": 949132,
+      "sha256": "7ee953573d7e34e85607353175915ee7bde4849955862f5135c9c6dd6e431745",
+      "classification": "frozen_public_map_or_generated_report_cover"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/assets/click.wav",
+      "bytes": 12392,
+      "sha256": "9f7e70e4bbe2d7c5f69143cfef03d19915210263b14e7f22c729c112420221ae",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/assets/design.css",
+      "bytes": 7658,
+      "sha256": "45668b512a4c7db4464070ebeb6ce04017e241da91afe681d9d575f680335583",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/assets/fonts/Barlow-Regular.ttf",
+      "bytes": 104068,
+      "sha256": "95aa02c7c43096e0dd44d787ba6216864a67157e402adab59b35572e0c1577ea",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/assets/fonts/BarlowCondensed-Bold.ttf",
+      "bytes": 109912,
+      "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/assets/gsap.min.js",
+      "bytes": 72779,
+      "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+      "classification": "gsap_with_original_license_header"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/assets/map-projection.json",
+      "bytes": 178,
+      "sha256": "1aa97c8062be74b3ed6d34937c2de0352df269b8502c9da0ac891b2a0be5b931",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/assets/narracao-placeholder.wav",
+      "bytes": 2646044,
+      "sha256": "7c4ac3e32ae7bd78a48cb300fe0b5a93811f33207fcfe5eeb3a963199306af6b",
+      "classification": "generated_silence"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/assets/whoosh.wav",
+      "bytes": 48554,
+      "sha256": "a0d06b6b94ca00f7420e49307e411edc4b39344f5c09fcbd6c8779b5defdf5d9",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/BRIEF.md",
+      "bytes": 887,
+      "sha256": "716e4ad368ef3bdd4803b94e2d0fbb67f33a89c6448fc1e329b3a4abd405cb7e",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/compositions/alfredo.html",
+      "bytes": 1558,
+      "sha256": "6ee4916a98b4f802e427158515f669772ccb9b754abe0ef9185ff6bc4dbae45b",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/compositions/aurora.html",
+      "bytes": 1346,
+      "sha256": "9cf9a99e030a594562e9a26a606264ae9f7448e34ff10c9dc7fb893ab759cf8f",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/compositions/cidade.html",
+      "bytes": 1312,
+      "sha256": "94cb9a72fec3595b62fbb79fc3f7cb423144ff2ba5bd2b1f17decc7a58f0e73c",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/compositions/escolas.html",
+      "bytes": 572,
+      "sha256": "17a441cea27fece449b4fab77bc17979d2209333f8a982e45c95f8ddcd295a66",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/compositions/hook.html",
+      "bytes": 574,
+      "sha256": "ee3c725595cab9ca362e9852c2a995bf7414c1ae21fe62a9144e218a8716176b",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/compositions/map.html",
+      "bytes": 10343,
+      "sha256": "cd35c14ec6208cb81021d9c34f1c17c251190fed10d76a1e493ea15506816289",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/compositions/misterio.html",
+      "bytes": 541,
+      "sha256": "d0657633bf6264fee5696841fb6fc4cb93888684cfdc208cb6b80a0b7719080f",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/compositions/operaria.html",
+      "bytes": 1347,
+      "sha256": "21caaa6cf487b71394c978c5528b0fda798feee89aaa53347fbd5738a27b4591",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/compositions/relatorio.html",
+      "bytes": 1065,
+      "sha256": "64e87a052658eece0022ac87f793b4142c60d044f8fd3b8d4aeb077edb12e2f9",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/hyperframes.json",
+      "bytes": 355,
+      "sha256": "ad5dadeef78a520800a9e5cdd27a92ff5ac37f11b6a07f611b6b52b9f8c79a17",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/index.html",
+      "bytes": 3272,
+      "sha256": "49a930d2f659e02750ba7944cf32f9675674bf24004fcdf24a02cd7f048d9152",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/meta.json",
+      "bytes": 89,
+      "sha256": "be29c6af484b9e07aa91024bcc5babc3a58f6a7ee7fa46fece8d55c6a488bdce",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/package.json",
+      "bytes": 319,
+      "sha256": "1aa9b676af12cf8c4514f4da7bf3be1f7b1b39ffead121c6ab3bf9b805c340f0",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/SCRIPT.md",
+      "bytes": 2848,
+      "sha256": "8c12fa66032624192c435894c2c6e49f404bd7e4b10fb8563b345c6dd1cebd48",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-rondonopolis-bairros-2026/STORYBOARD.md",
+      "bytes": 325,
+      "sha256": "5729959c8c264377d9781858c99daa2c0d031490b6e99dc19645ea0901a6d014",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/assets/base-osm-overscan.webp",
+      "bytes": 869350,
+      "sha256": "d45d1bf6ba7e2959ec8dbd4c2a526683b68b76e0727ce241e206a0baa1d9d75e",
+      "classification": "frozen_public_map_or_generated_report_cover"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/assets/base-osm.webp",
+      "bytes": 437124,
+      "sha256": "4bdcd023be97de79760c42f65476df217a5ace233145218b45978155a37783e3",
+      "classification": "frozen_public_map_or_generated_report_cover"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/assets/click.wav",
+      "bytes": 12392,
+      "sha256": "9f7e70e4bbe2d7c5f69143cfef03d19915210263b14e7f22c729c112420221ae",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/assets/design.css",
+      "bytes": 6385,
+      "sha256": "f385a63d3013f76036bc6f6d16a7be682fd76561f8b4e399a07d00e82209aa86",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/assets/fonts/Barlow-Regular.ttf",
+      "bytes": 104068,
+      "sha256": "95aa02c7c43096e0dd44d787ba6216864a67157e402adab59b35572e0c1577ea",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/assets/fonts/BarlowCondensed-Bold.ttf",
+      "bytes": 109912,
+      "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/assets/gsap.min.js",
+      "bytes": 72779,
+      "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+      "classification": "gsap_with_original_license_header"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/assets/map-projection.json",
+      "bytes": 179,
+      "sha256": "2bbe18e71e4566f507e05f9c69aa2c7ca2e8b3a8b590c1fe906c9a22c751debc",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/assets/narracao-placeholder.wav",
+      "bytes": 2646044,
+      "sha256": "7c4ac3e32ae7bd78a48cb300fe0b5a93811f33207fcfe5eeb3a963199306af6b",
+      "classification": "generated_silence"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/assets/whoosh.wav",
+      "bytes": 48554,
+      "sha256": "a0d06b6b94ca00f7420e49307e411edc4b39344f5c09fcbd6c8779b5defdf5d9",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/BRIEF.md",
+      "bytes": 880,
+      "sha256": "7a378279fae519b89bc84b8de3b78eba1278c9f0dc97259d1adb3335aa3dd073",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/compositions/america.html",
+      "bytes": 1680,
+      "sha256": "fd751a11da59ef8a9dd4e06dc2d402b48ceb15a8f9c7cb953880781c88df45f8",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/compositions/bairros.html",
+      "bytes": 2447,
+      "sha256": "7f9c6e2387eb35ba5b97094a36d8fa280440ddd88157a10534672cccea93f16a",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/compositions/cidade.html",
+      "bytes": 961,
+      "sha256": "acedb7e8d8663bfd8880c4ce57d8a0ea09b63b192b00bf0c364ac2b949ecaf11",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/compositions/hook.html",
+      "bytes": 632,
+      "sha256": "8b9740c5349fac3ca9a47b8b34952f568f2c87a9a74fd85e3012646f30654f89",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/compositions/map.html",
+      "bytes": 40639,
+      "sha256": "4c4f750bdb445685b5047e9587bd650e75606864c11132af5b0bef0615b46246",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/compositions/relatorio.html",
+      "bytes": 1056,
+      "sha256": "c2a296a9cd6f6d0b11fb359e1cbf08db5c957407c776d472a80cb7f1a8e025f3",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/compositions/resposta.html",
+      "bytes": 1043,
+      "sha256": "a3d8741683748a9d27396ca2a356ff1bfdd790a4fc6ca456f7542e16a07e4117",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/hyperframes.json",
+      "bytes": 355,
+      "sha256": "ad5dadeef78a520800a9e5cdd27a92ff5ac37f11b6a07f611b6b52b9f8c79a17",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/index.html",
+      "bytes": 3113,
+      "sha256": "b2bf3c4ebc9141f58fcb4ee8f397c90c11da4bf8dce6df83d971b460de65e574",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/map-audit.json",
+      "bytes": 4926,
+      "sha256": "1ecec0e442aa0bfee6ff6b2ea76fd99eb81f1501f4c361e01be221dac9446054",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/meta.json",
+      "bytes": 75,
+      "sha256": "7a6e8e99e300cad94701d5d8aef4288b0bddfd88d175cae0079da916f08f85c3",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/package.json",
+      "bytes": 312,
+      "sha256": "886df0c7553816133b5f34525b7f05cb6f0546a511ac65ded52140afbd250b1a",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/SCRIPT.md",
+      "bytes": 3967,
+      "sha256": "2966a8edcdf025112703de372073ee6ad57483f21654578c137e7c03d2943608",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sinop-bairros-2026/STORYBOARD.md",
+      "bytes": 992,
+      "sha256": "18966b6df3ceb19c83c9e4d621876e5c5a91417b7df71f26c0911a5356d77f8a",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/assets/base-osm-overscan.webp",
+      "bytes": 869504,
+      "sha256": "a4c8bdedab4f5354d1e22af9f1331faf87eadd886dfbff8d2c5286b4527d0b22",
+      "classification": "frozen_public_map_or_generated_report_cover"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/assets/base-osm.webp",
+      "bytes": 525526,
+      "sha256": "f8ca6c7dc9f5ab502ccebeb0d45d8b9fb534d1d3836a710071c87b01f6edecde",
+      "classification": "frozen_public_map_or_generated_report_cover"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/assets/click.wav",
+      "bytes": 12392,
+      "sha256": "9f7e70e4bbe2d7c5f69143cfef03d19915210263b14e7f22c729c112420221ae",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/assets/design.css",
+      "bytes": 7098,
+      "sha256": "409f255fbffe78b4fe39d31f43acc0c62dfb2469cdc951d0348c110f52ea6dc3",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/assets/fonts/Barlow-Regular.ttf",
+      "bytes": 104068,
+      "sha256": "95aa02c7c43096e0dd44d787ba6216864a67157e402adab59b35572e0c1577ea",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/assets/fonts/BarlowCondensed-Bold.ttf",
+      "bytes": 109912,
+      "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/assets/gsap.min.js",
+      "bytes": 72779,
+      "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+      "classification": "gsap_with_original_license_header"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/assets/map-overlay.svg",
+      "bytes": 18309,
+      "sha256": "f0d06af92c815f1d92ddf1192b76f175a00806d929d78eb2adf7f1171dae5bdc",
+      "classification": "generated_vector_or_public_geography"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/assets/map-projection.json",
+      "bytes": 176,
+      "sha256": "590eef5596eafc8787a810ece55325e52deea388313830adf3327c3a042836af",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/assets/narracao-placeholder.wav",
+      "bytes": 2646044,
+      "sha256": "7c4ac3e32ae7bd78a48cb300fe0b5a93811f33207fcfe5eeb3a963199306af6b",
+      "classification": "generated_silence"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/assets/whoosh.wav",
+      "bytes": 48554,
+      "sha256": "a0d06b6b94ca00f7420e49307e411edc4b39344f5c09fcbd6c8779b5defdf5d9",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/BRIEF.md",
+      "bytes": 882,
+      "sha256": "815d70fd130acdc1f2d105772036748826dcc43ee593b4cc975c3ee587e5016e",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/compositions/bosque-teaser.html",
+      "bytes": 737,
+      "sha256": "f37dee4360dba8f51bf060ac7864400e46e7f0d91744f649e3ba6c613b3b3444",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/compositions/bosque.html",
+      "bytes": 2203,
+      "sha256": "0860ed3aa3edf7813cccd851f8f81ce51c94211031061ce12925c99bdd03f8d4",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/compositions/centro.html",
+      "bytes": 2141,
+      "sha256": "2df246546024e6528ca692394090534afa8b669a915a07f63a2d84fd9d65f50a",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/compositions/cta.html",
+      "bytes": 1254,
+      "sha256": "6ac5d18bf73319a4f5c7e17b34fb234062800d55b20f914bea66de7e258177fc",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/compositions/hook.html",
+      "bytes": 576,
+      "sha256": "26886894bec15066275b67f1816cbffd23a8478bb85755d46410220c5ceca401",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/compositions/intro.html",
+      "bytes": 909,
+      "sha256": "711c95b38cadc1e018263b1e2cb480432154e65a50a5d7919f7db74b35f9c54d",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/compositions/map.html",
+      "bytes": 20800,
+      "sha256": "cfc93ac39ae09966d480969e73c31b7fbe4e3d05b2193b092d31d80c0a337d0f",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/compositions/resposta.html",
+      "bytes": 1116,
+      "sha256": "30c378be269b26d71c2b88c300f2fcd4d6700d8f6a208faa08c76c1392a52940",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/hyperframes.json",
+      "bytes": 318,
+      "sha256": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/index.html",
+      "bytes": 4288,
+      "sha256": "3cfce8997655e2a104814eef23eac54d7e8ad48568e8567d3c6f02199f1634f0",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/map-audit.json",
+      "bytes": 522,
+      "sha256": "f97fa6d005e4ed4253ab613f7ba11eddacd85c1ee2d9a40f2cd491c41acbbcf1",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/meta.json",
+      "bytes": 79,
+      "sha256": "f87791902b099285242d34192a85c0cc277748159ed67ceff6bf3c54605a90b3",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/package.json",
+      "bytes": 314,
+      "sha256": "294710980ca6fe2c9dc1be2680c71e6d3c9ae4396a6b7023f8ba022cb7d08960",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/SCRIPT.md",
+      "bytes": 2406,
+      "sha256": "ef99a57142292227891a88ec71a4ff0fcc5ad479628237bba653eeb88af89cdd",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-sorriso-bairros-2026/STORYBOARD.md",
+      "bytes": 236,
+      "sha256": "99e2e6341db978f3766c3f3e3267f6bf2e75cbb831e95e8e5b2f2f18a78d8b5c",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/assets/base-osm.webp",
+      "bytes": 554556,
+      "sha256": "8b84009e1616b5f674045cf96b40e81cd009450ef4587018286ffeea8af49724",
+      "classification": "frozen_public_map_or_generated_report_cover"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/assets/click.wav",
+      "bytes": 12392,
+      "sha256": "9f7e70e4bbe2d7c5f69143cfef03d19915210263b14e7f22c729c112420221ae",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/assets/design.css",
+      "bytes": 5292,
+      "sha256": "c890971e31b4cd7eb446a948700f5dc3e825f16638fa30adb24753a3e1b62764",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/assets/fonts/Barlow-Regular.ttf",
+      "bytes": 104068,
+      "sha256": "95aa02c7c43096e0dd44d787ba6216864a67157e402adab59b35572e0c1577ea",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/assets/fonts/BarlowCondensed-Bold.ttf",
+      "bytes": 109912,
+      "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65",
+      "classification": "google_fonts_ofl"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/assets/gsap.min.js",
+      "bytes": 72779,
+      "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+      "classification": "gsap_with_original_license_header"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/assets/mapa-dados.json",
+      "bytes": 59640,
+      "sha256": "353458a5c17f0303daf6049efc01ca6c8612f7628d7bd4845ec5c2c2b92aa9be",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/assets/narracao-placeholder.wav",
+      "bytes": 2646044,
+      "sha256": "7c4ac3e32ae7bd78a48cb300fe0b5a93811f33207fcfe5eeb3a963199306af6b",
+      "classification": "generated_silence"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/assets/whoosh.wav",
+      "bytes": 48554,
+      "sha256": "a0d06b6b94ca00f7420e49307e411edc4b39344f5c09fcbd6c8779b5defdf5d9",
+      "classification": "original_synthesized_sfx"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/BRIEF.md",
+      "bytes": 888,
+      "sha256": "071e813332dd2e451b9402df360afa4ab9962708b4892d6742ba924d2e5c5999",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/compositions/cidade.html",
+      "bytes": 668,
+      "sha256": "b7c4c23eacf4a0c1b76162df7b8844d64200317fc22fa38602d2b11bd1e58c84",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/compositions/gloria.html",
+      "bytes": 1975,
+      "sha256": "70fe907641408625eeaabe5f4f651bb080239682480fce91a04396d42f7d864d",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/compositions/hook.html",
+      "bytes": 745,
+      "sha256": "ff002f3de9c2eae5670b85a87935fb5266748634193ead75e9f03c04ca5b8745",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/compositions/map.html",
+      "bytes": 544239,
+      "sha256": "559bfe1d12d656b04d48930d833a03521c51a5894c6dcb3d24c82c133ffb4805",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/compositions/pequi.html",
+      "bytes": 1952,
+      "sha256": "908d49252033cecc83a949fe7aa052c42271e701018aa482627a4e65af83c71d",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/compositions/pergunta.html",
+      "bytes": 629,
+      "sha256": "ab03e3a1f3cca80001ce7f78e78afc547e63eaa7dc52afc27997e5385547e394",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/compositions/relatorio.html",
+      "bytes": 1195,
+      "sha256": "371022e4250ddc6bc9dc1ae81ad26f14c329f2dc302e98aa2b5f80b1bd7846b2",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/compositions/suspense.html",
+      "bytes": 623,
+      "sha256": "f17bc22b51d665e59e7c0674c6cb1065bd6b0675c1d5d7f45dd84432294ac085",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/compositions/verde.html",
+      "bytes": 1178,
+      "sha256": "261c859c1cfd6c3b1bb1afc839e4dd7aaf7fc174f12e357e880fced55b18e40e",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/hyperframes.json",
+      "bytes": 355,
+      "sha256": "ad5dadeef78a520800a9e5cdd27a92ff5ac37f11b6a07f611b6b52b9f8c79a17",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/index.html",
+      "bytes": 3827,
+      "sha256": "e7e6dae29b6d6eab3130e12ea28dbd3994b0738c726f0b4115b4ce29324391e7",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/meta.json",
+      "bytes": 91,
+      "sha256": "88e38f50ce2f9768c149143688deb85f0104314fa033ec3c4b93636f86624169",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/package.json",
+      "bytes": 226,
+      "sha256": "6335031440ec502971f4b8c200a675299328b44e7fe6c5f0ea0d0be0a0a2047b",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/SCRIPT.md",
+      "bytes": 4994,
+      "sha256": "676e24ba9dc55d82a6160594e23b88dafe28941f0424c02d4d1d5ddb3d26729f",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "projetos/reel-varzea-grande-bairros-2026/STORYBOARD.md",
+      "bytes": 2639,
+      "sha256": "343966e5ebd74a4532029f9aadae8d2ab6811062a34b0e106c339a13a2dc34a4",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "README.md",
+      "bytes": 5746,
+      "sha256": "6869e6eff51f3a838fdc4e62d302c627b93fed3587ef1953da821ca9c3256c1f",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "referencias/roteiros-e-legendas/ALTA-FLORESTA-ROTEIRO-REVISADO.txt",
+      "bytes": 754,
+      "sha256": "4d6fb1bd19c66f552c1fe13a575a9b3225635c44baebda7eb0a094d305344df0",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "referencias/roteiros-e-legendas/CAMPO-NOVO-LEGENDA-E-MUSICA.txt",
+      "bytes": 797,
+      "sha256": "18c7f741ef374d1cf5cd128badc3e0ee6732dfbde302abdad1c4f14bcceca1b7",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "referencias/roteiros-e-legendas/LUCAS-LEGENDA-E-MUSICA.txt",
+      "bytes": 845,
+      "sha256": "8d4ad06898a6147bffa8d9613895d964f092d4c1c2c5ccef02b7adc0639f2020",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "referencias/roteiros-e-legendas/NOVA-MUTUM-LEGENDA-E-MUSICA.txt",
+      "bytes": 876,
+      "sha256": "86a8deb8cd465ed575d0b9ba9b640ec9fb4b55a1454a4da31922d91b9c183a0d",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "referencias/roteiros-e-legendas/PIVETTA-LEGENDA-E-MUSICA.txt",
+      "bytes": 843,
+      "sha256": "9643c8b20b3f1e7459ba08499b4f60afefd358657f7974f9c69c369132713fb9",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "referencias/roteiros-e-legendas/roteiro-cuiaba-bairros-v1.md",
+      "bytes": 4026,
+      "sha256": "a99de69e02b069569155c1dfd1073f1eeae54e92127ed0550406ab56fdd9ea72",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "referencias/roteiros-e-legendas/roteiro-cuiaba-bairros-v2.md",
+      "bytes": 5137,
+      "sha256": "d99e3f4fdbdb89f820d26327b604ca9d1198807302af9fb9b986ed75caf9fc77",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "referencias/roteiros-e-legendas/roteiro-eleicoes-2026-v3.md",
+      "bytes": 6657,
+      "sha256": "0f0a2ce4abbd518dd66a74e1510bdff2837e6996895e0772d12a8c88dbbd2811",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "referencias/roteiros-e-legendas/roteiro-lucas-proposta.md",
+      "bytes": 3186,
+      "sha256": "874be01d46e16cd5139d7b76eedfd21b065b84e93be7706ee7fcb9d883ac1d30",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "referencias/roteiros-e-legendas/roteiro-mato-grosso-aprovado.md",
+      "bytes": 5165,
+      "sha256": "3315c2ad2d5ef89a63f38b17411427207e7294f8cf523068e42c14e3468437ab",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "referencias/roteiros-e-legendas/roteiro-mato-grosso-v1.md",
+      "bytes": 4343,
+      "sha256": "adc40ad3ac12f650a3af19162620be2c8bbb472b8fcf75ad5d6c52ebb2eda659",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "referencias/roteiros-e-legendas/roteiro-mato-grosso-v2.md",
+      "bytes": 5186,
+      "sha256": "f72fc797019f1c92d63cec8c4ab9fbc213c08bab6421ac6f891b3f1c9f7418f7",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "referencias/roteiros-e-legendas/roteiro-sinop-proposta.md",
+      "bytes": 4011,
+      "sha256": "9d4ef6c0b50af0f268184d0098ddfb918d8457f61a95712299ad0f41c951d7e1",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "referencias/roteiros-e-legendas/roteiro-varzea-grande-v1.md",
+      "bytes": 5058,
+      "sha256": "b7f2a9605acc04209f7d1ef15c42734d6fd3046951e5ddc1fcbffe1231b6c73b",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "referencias/roteiros-e-legendas/SINOP-LEGENDA-E-MUSICA.txt",
+      "bytes": 1103,
+      "sha256": "658b99fa335e14416ecf4f214f7ed4c4adcec530d45aa31a1060c289c22404c7",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "referencias/roteiros-e-legendas/SORRISO-LEGENDA-E-MUSICA.txt",
+      "bytes": 840,
+      "sha256": "69c87558367adae0fcb8aa2562847f01e828a8638c8b841fa57400995b797aa1",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "requirements.txt",
+      "bytes": 35,
+      "sha256": "3be1798138c7bb2cda43b7304d6701f9f075ea160daf293267f4c94023f37c48",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "TERCEIROS.md",
+      "bytes": 2094,
+      "sha256": "646ebc6f5c206a39337e0b67e97d9a2f144d0fd6576595741b093b4f18432d42",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "tools/agregar-tse.py",
+      "bytes": 8331,
+      "sha256": "2a58dc6f3bc6afab369c198dd1714bf73c8075db44842df5d2e24ede84efd8ea",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "tools/auditar-publicacao.py",
+      "bytes": 4364,
+      "sha256": "a8965a061548951672660d27d048560809de5ac5c2b85d6ddc7c2571b3e9246f",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "tools/doctor.mjs",
+      "bytes": 1862,
+      "sha256": "7190b44f406bd9ebaf443126d318c3feb0af5816a1c40ffd863a8ff9a7eba6a6",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "tools/novo-projeto.mjs",
+      "bytes": 2087,
+      "sha256": "8eca48972eada7faf36a8e41dbb85bc8d9fd960ad55498f3ced0c2f4ceb25dca",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "tools/relatorio.py",
+      "bytes": 3329,
+      "sha256": "8954e6128daf559c3152d96e5af9dd8299ee251edc67202b22355a690ed43abf",
+      "classification": "source_or_documentation"
+    },
+    {
+      "file": "tools/validar-kit.mjs",
+      "bytes": 2624,
+      "sha256": "b8d362a80eac2d61d2940f9f4f4d678790fb6b23b4eb75af1a3b63db617eb0cc",
+      "classification": "source_or_documentation"
+    }
+  ]
+}

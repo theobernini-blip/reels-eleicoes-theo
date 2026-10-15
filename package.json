@@ -1,0 +1,11 @@
+{
+  "name": "reels-eleicoes-theo-kit",
+  "private": true,
+  "type": "module",
+  "engines": {"node": ">=22"},
+  "scripts": {
+    "diagnostico": "node tools/doctor.mjs",
+    "verificar": "node tools/validar-kit.mjs",
+    "novo": "node tools/novo-projeto.mjs"
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "secoes": 153,
+  "locais": 16,
+  "faltantes": [],
+  "totais": {
+    "22": 30711,
+    "80": 23,
+    "55": 322,
+    "14": 875,
+    "16": 13,
+    "70": 745,
+    "95": 438,
+    "13": 8636,
+    "30": 46,
+    "96": 597,
+    "27": 21,
+    "21": 3,
+    "28": 1,
+    "29": 2,
+    "35": 1
+  },
+  "candidatos": {
+    "22": "FLAVIO NANTES BOLSONARO",
+    "80": "SAMARA MARTINS DA SILVA FEITOSA",
+    "28": "LEONARDO ALVES DE ARAUJO",
+    "55": "RONALDO RAMOS CAIADO",
+    "21": "EDMILSON SILVA COSTA",
+    "14": "RENAN ANTONIO FERREIRA DOS SANTOS",
+    "16": "HERTZ DA CONCEICAO DIAS",
+    "29": "RUI COSTA PIMENTA",
+    "70": "AUGUSTO JORGE CURY",
+    "95": "VOTO BRANCO",
+    "13": "LUIZ INÁCIO LULA DA SILVA",
+    "30": "ROMEU ZEMA NETO",
+    "35": "WILSON GRASSI JUNIOR",
+    "96": "VOTO NULO",
+    "27": "CLARIANA ZACARKIM BARAO"
+  },
+  "bairros": [
+    {
+      "bairro_tse": "VIDA NOVA",
+      "flavio": 171,
+      "lula": 102,
+      "diferenca": 69,
+      "votos": {
+        "22": 171,
+        "80": 1,
+        "55": 3,
+        "16": 1,
+        "14": 11,
+        "70": 10,
+        "30": 1,
+        "13": 102,
+        "95": 6,
+        "96": 3
+      }
+    },
+    {
+      "bairro_tse": "COMUNIDADE GROSLÂNDIA",
+      "flavio": 314,
+      "lula": 57,
+      "diferenca": 257,
+      "votos": {
+        "22": 314,
+        "55": 2,
+        "14": 6,
+        "16": 1,
+        "70": 5,
+        "13": 57,
+        "95": 4,
+        "96": 2
+      }
+    },
+    {
+      "bairro_tse": "COMUNIDADE SÃO CRISTÓVÃO",
+      "flavio": 291,
+      "lula": 34,
+      "diferenca": 257,
+      "votos": {
+        "22": 291,
+        "14": 3,
+        "13": 34,
+        "70": 4,
+        "95": 1,
+        "96": 6
+      }
+    },
+    {
+      "bairro_tse": "BANDEIRANTES IV",
+      "flavio": 795,
+      "lula": 116,
+      "diferenca": 679,
+      "votos": {
+        "22": 795,
+        "80": 2,
+        "55": 6,
+        "14": 38,
+        "70": 16,
+        "13": 116,
+        "30": 1,
+        "95": 3,
+        "96": 5,
+        "27": 2
+      }
+    },
+    {
+      "bairro_tse": "TESSELE JUNIOR",
+      "flavio": 2197,
+      "lula": 1352,
+      "diferenca": 845,
+      "votos": {
+        "22": 2197,
+        "80": 3,
+        "55": 25,
+        "14": 130,
+        "29": 1,
+        "70": 119,
+        "13": 1352,
+        "30": 4,
+        "95": 64,
+        "96": 59,
+        "27": 3
+      }
+    },
+    {
+      "bairro_tse": "PARQUE DAS AMÉRICAS",
+      "flavio": 2506,
+      "lula": 1013,
+      "diferenca": 1493,
+      "votos": {
+        "22": 2506,
+        "28": 1,
+        "80": 1,
+        "55": 29,
+        "16": 1,
+        "14": 81,
+        "29": 1,
+        "70": 80,
+        "95": 51,
+        "13": 1013,
+        "30": 5,
+        "35": 1,
+        "96": 65,
+        "27": 2
+      }
+    },
+    {
+      "bairro_tse": "PARQUE DAS EMAS",
+      "flavio": 1740,
+      "lula": 243,
+      "diferenca": 1497,
+      "votos": {
+        "22": 1740,
+        "80": 4,
+        "55": 14,
+        "14": 49,
+        "70": 40,
+        "95": 10,
+        "13": 243,
+        "30": 2,
+        "96": 9
+      }
+    },
+    {
+      "bairro_tse": "ALVORADA",
+      "flavio": 2281,
+      "lula": 528,
+      "diferenca": 1753,
+      "votos": {
+        "22": 2281,
+        "80": 1,
+        "55": 19,
+        "14": 59,
+        "70": 49,
+        "95": 21,
+        "30": 4,
+        "13": 528,
+        "96": 39,
+        "27": 3
+      }
+    },
+    {
+      "bairro_tse": "JARDIM PRIMAVERA",
+      "flavio": 2769,
+      "lula": 836,
+      "diferenca": 1933,
+      "votos": {
+        "22": 2769,
+        "55": 32,
+        "21": 1,
+        "14": 80,
+        "16": 2,
+        "70": 58,
+        "13": 836,
+        "30": 2,
+        "95": 48,
+        "96": 48,
+        "27": 1
+      }
+    },
+    {
+      "bairro_tse": "JARDIM CERRADO",
+      "flavio": 2969,
+      "lula": 946,
+      "diferenca": 2023,
+      "votos": {
+        "22": 2969,
+        "80": 3,
+        "55": 31,
+        "14": 64,
+        "16": 1,
+        "70": 82,
+        "13": 946,
+        "30": 2,
+        "95": 49,
+        "96": 73,
+        "27": 1
+      }
+    },
+    {
+      "bairro_tse": "BANDEIRANTES",
+      "flavio": 2667,
+      "lula": 309,
+      "diferenca": 2358,
+      "votos": {
+        "22": 2667,
+        "80": 1,
+        "55": 19,
+        "14": 44,
+        "16": 2,
+        "70": 31,
+        "13": 309,
+        "30": 4,
+        "95": 18,
+        "96": 29,
+        "27": 1
+      }
+    },
+    {
+      "bairro_tse": "MENINO DEUS",
+      "flavio": 3343,
+      "lula": 480,
+      "diferenca": 2863,
+      "votos": {
+        "22": 3343,
+        "80": 3,
+        "55": 26,
+        "21": 1,
+        "14": 55,
+        "16": 2,
+        "70": 44,
+        "30": 12,
+        "13": 480,
+        "95": 26,
+        "96": 39,
+        "27": 2
+      }
+    },
+    {
+      "bairro_tse": "JARDIM DAS PALMEIRAS",
+      "flavio": 4170,
+      "lula": 1305,
+      "diferenca": 2865,
+      "votos": {
+        "22": 4170,
+        "80": 1,
+        "55": 63,
+        "14": 112,
+        "16": 3,
+        "70": 100,
+        "95": 69,
+        "13": 1305,
+        "30": 3,
+        "96": 108,
+        "27": 2
+      }
+    },
+    {
+      "bairro_tse": "RIO VERDE",
+      "flavio": 4498,
+      "lula": 1315,
+      "diferenca": 3183,
+      "votos": {
+        "22": 4498,
+        "80": 3,
+        "55": 53,
+        "21": 1,
+        "14": 143,
+        "70": 107,
+        "95": 68,
+        "13": 1315,
+        "30": 6,
+        "96": 112,
+        "27": 4
+      }
+    }
+  ],
+  "fonte": "TSE 2026, presidente 1º turno, votação por seção e cadastro de locais",
+  "totalizacao_conferida": true
+}

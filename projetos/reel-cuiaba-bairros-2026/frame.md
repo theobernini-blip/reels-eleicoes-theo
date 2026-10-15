@@ -1,0 +1,1 @@
+1080×1920. Fundo #0A1D1A, claro #F2F6EF, verde #75D49E, vermelho #ED807B. Agency para títulos, Bahnschrift para texto. Margens 76px, texto de leitura acima de 1748px. Mapa 1000×935, norte para cima, recorte georreferenciado. Sem logo Google: base OpenStreetMap com crédito.

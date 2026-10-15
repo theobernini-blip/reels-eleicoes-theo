@@ -1,0 +1,17 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const args=process.argv.slice(2),flag=name=>args[args.indexOf(name)+1];
+if(!args.includes('--modelo')||!args.includes('--nome'))throw new Error('Uso: node tools/novo-projeto.mjs --modelo reel-campo-novo-bairros-2026 --nome meu-reel');
+const model=flag('--modelo'),name=flag('--nome');
+if(!/^[a-z0-9][a-z0-9-]{1,63}$/.test(name))throw new Error('Use de 2 a 64 letras minúsculas, números e hífens no nome.');
+const catalog=JSON.parse(fs.readFileSync(path.join(root,'catalogo-projetos.json'),'utf8'));
+if(!catalog.some(p=>p.id===model))throw new Error('Modelo ausente do catálogo.');
+const source=path.join(root,'projetos',model),destination=path.join(root,'producoes',name);
+if(fs.existsSync(destination))throw new Error('A produção já existe. Nenhum arquivo foi alterado.');
+fs.mkdirSync(path.dirname(destination),{recursive:true});fs.cpSync(source,destination,{recursive:true});
+const pkg=JSON.parse(fs.readFileSync(path.join(destination,'package.json'),'utf8'));pkg.name=name;fs.writeFileSync(path.join(destination,'package.json'),JSON.stringify(pkg,null,2)+'\n');
+fs.writeFileSync(path.join(destination,'meta.json'),JSON.stringify({id:name,name},null,2)+'\n');
+fs.writeFileSync(path.join(destination,'BRIEF.md'),`---\nworkflow: general-video\nflow: companion\nstoryboard: yes\n---\n# ${name} — rascunho\n\nModelo: ${model}. Os dados, o mapa, a voz e as falas ainda são os do exemplo. Não publicar esta cópia como se fosse outra cidade ou outro autor.\n\nPreencher autor e perfil, ano/cargo/turno/município, fontes, auditoria e achado do roteiro; substituir material do exemplo. Apresentar roteiro, quadro e prévia conforme a aprovação atual.\n\nAprovação de roteiro: pendente. Aprovação de prévia: pendente. Render final: pendente.\n`,{encoding:'utf8'});
+console.log(JSON.stringify({path:destination,model,status:'Rascunho criado. Dados e identidade ainda precisam ser adaptados.'},null,2));

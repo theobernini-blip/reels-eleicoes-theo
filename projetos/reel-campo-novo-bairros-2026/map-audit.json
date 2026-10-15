@@ -1,0 +1,20 @@
+{
+  "secoes": 88,
+  "locais": 11,
+  "urbanos_no_recorte": 8,
+  "fora_do_recorte": [
+    "ESCOLA ESTADUAL MARECHAL CÂNDIDO RONDON",
+    "ESCOLA ESTADUAL ARGEU AUGUSTO DE MORAIS",
+    "ESCOLA MUNICIPAL DE EDUCAÇÃO INDÍGENA BACAVAL"
+  ],
+  "coordenadas_dentro_municipio": true,
+  "poligonos_oficiais": 7,
+  "poligonos_com_correspondencia": 5,
+  "grupos_cadastrais": 8,
+  "flavio": 16547,
+  "lula": 5529,
+  "lula_jardim_palmeiras": 2544,
+  "percentual_votos_lula_palmeiras": 46.0119,
+  "todos_candidatos_conferidos_totalizacao_atual": true,
+  "fonte_totalizacao": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/mt/mt90484-c0001-e006257-u.json"
+}

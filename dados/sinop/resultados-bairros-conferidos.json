@@ -1,0 +1,632 @@
+{
+  "secoes": 346,
+  "locais": 41,
+  "faltantes": [],
+  "totais": {
+    "96": 1374,
+    "55": 903,
+    "21": 9,
+    "80": 80,
+    "70": 1728,
+    "95": 816,
+    "22": 73701,
+    "14": 1967,
+    "16": 29,
+    "13": 17568,
+    "30": 106,
+    "27": 51,
+    "35": 2,
+    "28": 6,
+    "29": 2
+  },
+  "candidatos": {
+    "96": "VOTO NULO",
+    "55": "RONALDO RAMOS CAIADO",
+    "21": "EDMILSON SILVA COSTA",
+    "80": "SAMARA MARTINS DA SILVA FEITOSA",
+    "28": "LEONARDO ALVES DE ARAUJO",
+    "70": "AUGUSTO JORGE CURY",
+    "95": "VOTO BRANCO",
+    "22": "FLAVIO NANTES BOLSONARO",
+    "14": "RENAN ANTONIO FERREIRA DOS SANTOS",
+    "16": "HERTZ DA CONCEICAO DIAS",
+    "29": "RUI COSTA PIMENTA",
+    "30": "ROMEU ZEMA NETO",
+    "13": "LUIZ INÁCIO LULA DA SILVA",
+    "35": "WILSON GRASSI JUNIOR",
+    "27": "CLARIANA ZACARKIM BARAO"
+  },
+  "bairros": [
+    {
+      "bairro_tse": "RESIDENCIAL SABRINA I, II E III",
+      "flavio": 94,
+      "lula": 58,
+      "diferenca": 36,
+      "votos": {
+        "55": 3,
+        "70": 6,
+        "95": 1,
+        "22": 94,
+        "14": 5,
+        "13": 58,
+        "96": 6
+      }
+    },
+    {
+      "bairro_tse": "ZONA RURAL NORTE",
+      "flavio": 43,
+      "lula": 5,
+      "diferenca": 38,
+      "votos": {
+        "70": 1,
+        "22": 43,
+        "14": 1,
+        "13": 5,
+        "96": 1
+      }
+    },
+    {
+      "bairro_tse": "JARDIM DAS ORQUÍDEAS",
+      "flavio": 324,
+      "lula": 92,
+      "diferenca": 232,
+      "votos": {
+        "55": 9,
+        "70": 8,
+        "95": 4,
+        "22": 324,
+        "13": 92,
+        "14": 9,
+        "96": 5,
+        "27": 1
+      }
+    },
+    {
+      "bairro_tse": "BOM JARDIM",
+      "flavio": 466,
+      "lula": 185,
+      "diferenca": 281,
+      "votos": {
+        "55": 4,
+        "80": 1,
+        "70": 16,
+        "95": 15,
+        "22": 466,
+        "14": 10,
+        "30": 1,
+        "13": 185,
+        "96": 7
+      }
+    },
+    {
+      "bairro_tse": "RESIDENCIAL GENTE FELIZ I E II",
+      "flavio": 389,
+      "lula": 100,
+      "diferenca": 289,
+      "votos": {
+        "55": 13,
+        "80": 3,
+        "70": 13,
+        "95": 4,
+        "22": 389,
+        "16": 1,
+        "14": 12,
+        "13": 100,
+        "96": 8
+      }
+    },
+    {
+      "bairro_tse": "GLEBA MERCEDES V (ZONA RURAL)",
+      "flavio": 409,
+      "lula": 89,
+      "diferenca": 320,
+      "votos": {
+        "55": 9,
+        "70": 8,
+        "95": 5,
+        "22": 409,
+        "13": 89,
+        "14": 1,
+        "96": 11
+      }
+    },
+    {
+      "bairro_tse": "JARDIM AMÉRICA",
+      "flavio": 1026,
+      "lula": 513,
+      "diferenca": 513,
+      "votos": {
+        "55": 19,
+        "21": 1,
+        "70": 22,
+        "95": 24,
+        "22": 1026,
+        "14": 22,
+        "13": 513,
+        "96": 35
+      }
+    },
+    {
+      "bairro_tse": "JARDIM CURITIBA I E II",
+      "flavio": 638,
+      "lula": 102,
+      "diferenca": 536,
+      "votos": {
+        "55": 3,
+        "80": 1,
+        "70": 14,
+        "95": 6,
+        "22": 638,
+        "14": 22,
+        "30": 3,
+        "13": 102,
+        "96": 6
+      }
+    },
+    {
+      "bairro_tse": "JARDIM UMUARAMA I, II E III",
+      "flavio": 1040,
+      "lula": 472,
+      "diferenca": 568,
+      "votos": {
+        "55": 13,
+        "28": 1,
+        "80": 2,
+        "70": 27,
+        "95": 28,
+        "22": 1040,
+        "13": 472,
+        "30": 1,
+        "14": 27,
+        "96": 40,
+        "27": 3
+      }
+    },
+    {
+      "bairro_tse": "JARDIM DAS NAÇÕES I, II E III",
+      "flavio": 740,
+      "lula": 135,
+      "diferenca": 605,
+      "votos": {
+        "55": 9,
+        "70": 17,
+        "95": 5,
+        "22": 740,
+        "14": 39,
+        "13": 135,
+        "30": 1,
+        "16": 1,
+        "96": 4
+      }
+    },
+    {
+      "bairro_tse": "SETOR INDUSTRIAL NORTE",
+      "flavio": 947,
+      "lula": 310,
+      "diferenca": 637,
+      "votos": {
+        "55": 19,
+        "80": 1,
+        "70": 19,
+        "95": 8,
+        "22": 947,
+        "16": 1,
+        "14": 16,
+        "13": 310,
+        "30": 2,
+        "96": 21
+      }
+    },
+    {
+      "bairro_tse": "RESIDENCIAL LISBOA",
+      "flavio": 1083,
+      "lula": 337,
+      "diferenca": 746,
+      "votos": {
+        "96": 31,
+        "55": 13,
+        "80": 2,
+        "70": 27,
+        "95": 17,
+        "22": 1083,
+        "14": 35,
+        "13": 337,
+        "30": 1,
+        "27": 2
+      }
+    },
+    {
+      "bairro_tse": "CONDOMÍNIO RESIDENCIAL CAMPING CLUBE",
+      "flavio": 1058,
+      "lula": 300,
+      "diferenca": 758,
+      "votos": {
+        "55": 18,
+        "70": 27,
+        "95": 19,
+        "22": 1058,
+        "14": 23,
+        "13": 300,
+        "96": 35
+      }
+    },
+    {
+      "bairro_tse": "LOTEAMENTO MENINO JESUS I E II",
+      "flavio": 1167,
+      "lula": 378,
+      "diferenca": 789,
+      "votos": {
+        "55": 18,
+        "21": 1,
+        "80": 1,
+        "70": 18,
+        "95": 13,
+        "22": 1167,
+        "14": 27,
+        "13": 378,
+        "30": 1,
+        "96": 46
+      }
+    },
+    {
+      "bairro_tse": "JARDIM NOVO ESTADO",
+      "flavio": 1411,
+      "lula": 453,
+      "diferenca": 958,
+      "votos": {
+        "55": 24,
+        "80": 3,
+        "70": 39,
+        "95": 18,
+        "22": 1411,
+        "14": 42,
+        "16": 2,
+        "13": 453,
+        "30": 2,
+        "96": 38
+      }
+    },
+    {
+      "bairro_tse": "ALTO DA GLÓRIA I, II E III",
+      "flavio": 1735,
+      "lula": 512,
+      "diferenca": 1223,
+      "votos": {
+        "55": 21,
+        "70": 34,
+        "95": 26,
+        "22": 1735,
+        "14": 41,
+        "13": 512,
+        "30": 4,
+        "96": 32,
+        "27": 2
+      }
+    },
+    {
+      "bairro_tse": "JARDIM IBIRAPUERA",
+      "flavio": 1856,
+      "lula": 497,
+      "diferenca": 1359,
+      "votos": {
+        "96": 34,
+        "55": 22,
+        "80": 3,
+        "28": 2,
+        "70": 43,
+        "95": 14,
+        "22": 1856,
+        "16": 2,
+        "14": 57,
+        "30": 3,
+        "13": 497,
+        "27": 3
+      }
+    },
+    {
+      "bairro_tse": "RESIDENCIAL AQUARELA DAS ARTES",
+      "flavio": 1546,
+      "lula": 180,
+      "diferenca": 1366,
+      "votos": {
+        "55": 12,
+        "70": 33,
+        "95": 11,
+        "22": 1546,
+        "14": 59,
+        "29": 1,
+        "13": 180,
+        "30": 3,
+        "96": 4
+      }
+    },
+    {
+      "bairro_tse": "JARDIM BOA ESPERANÇA",
+      "flavio": 2363,
+      "lula": 942,
+      "diferenca": 1421,
+      "votos": {
+        "96": 66,
+        "55": 35,
+        "80": 3,
+        "70": 48,
+        "95": 49,
+        "22": 2363,
+        "14": 53,
+        "16": 1,
+        "13": 942,
+        "30": 1
+      }
+    },
+    {
+      "bairro_tse": "JARDIM JACARANDÁS",
+      "flavio": 2027,
+      "lula": 325,
+      "diferenca": 1702,
+      "votos": {
+        "55": 21,
+        "28": 1,
+        "70": 53,
+        "95": 17,
+        "22": 2027,
+        "14": 38,
+        "30": 2,
+        "13": 325,
+        "96": 49,
+        "27": 1
+      }
+    },
+    {
+      "bairro_tse": "SETOR INDUSTRIAL SUL",
+      "flavio": 2404,
+      "lula": 672,
+      "diferenca": 1732,
+      "votos": {
+        "96": 25,
+        "55": 47,
+        "21": 1,
+        "80": 2,
+        "70": 69,
+        "95": 28,
+        "22": 2404,
+        "14": 101,
+        "30": 8,
+        "13": 672,
+        "27": 1
+      }
+    },
+    {
+      "bairro_tse": "JARDIM DAS OLIVEIRAS",
+      "flavio": 2486,
+      "lula": 706,
+      "diferenca": 1780,
+      "votos": {
+        "55": 41,
+        "80": 5,
+        "70": 57,
+        "95": 33,
+        "22": 2486,
+        "14": 53,
+        "13": 706,
+        "96": 70
+      }
+    },
+    {
+      "bairro_tse": "JARDIM PARAÍSO I, II E III",
+      "flavio": 2586,
+      "lula": 457,
+      "diferenca": 2129,
+      "votos": {
+        "55": 22,
+        "70": 67,
+        "95": 14,
+        "22": 2586,
+        "14": 38,
+        "16": 4,
+        "30": 4,
+        "13": 457,
+        "96": 40,
+        "27": 2
+      }
+    },
+    {
+      "bairro_tse": "SETOR COMERCIAL SUL",
+      "flavio": 2502,
+      "lula": 371,
+      "diferenca": 2131,
+      "votos": {
+        "96": 23,
+        "55": 26,
+        "80": 3,
+        "70": 43,
+        "95": 18,
+        "22": 2502,
+        "14": 67,
+        "13": 371,
+        "30": 5,
+        "27": 1
+      }
+    },
+    {
+      "bairro_tse": "JARDIM CELESTE",
+      "flavio": 3146,
+      "lula": 700,
+      "diferenca": 2446,
+      "votos": {
+        "55": 30,
+        "80": 5,
+        "70": 71,
+        "95": 31,
+        "22": 3146,
+        "14": 73,
+        "13": 700,
+        "30": 6,
+        "96": 51,
+        "27": 1
+      }
+    },
+    {
+      "bairro_tse": "JARDIM SÃO PAULO I E II",
+      "flavio": 3823,
+      "lula": 1112,
+      "diferenca": 2711,
+      "votos": {
+        "55": 45,
+        "80": 3,
+        "28": 1,
+        "70": 103,
+        "95": 52,
+        "22": 3823,
+        "14": 98,
+        "16": 2,
+        "13": 1112,
+        "30": 3,
+        "35": 1,
+        "96": 85,
+        "27": 4
+      }
+    },
+    {
+      "bairro_tse": "SETOR RESIDENCIAL SUL",
+      "flavio": 3300,
+      "lula": 524,
+      "diferenca": 2776,
+      "votos": {
+        "96": 38,
+        "55": 34,
+        "80": 2,
+        "70": 59,
+        "95": 22,
+        "22": 3300,
+        "14": 114,
+        "30": 5,
+        "13": 524,
+        "16": 1,
+        "27": 3
+      }
+    },
+    {
+      "bairro_tse": "SETOR COMERCIAL NORTE",
+      "flavio": 3483,
+      "lula": 562,
+      "diferenca": 2921,
+      "votos": {
+        "55": 36,
+        "80": 5,
+        "70": 59,
+        "95": 25,
+        "22": 3483,
+        "16": 5,
+        "14": 94,
+        "13": 562,
+        "30": 6,
+        "96": 34,
+        "27": 7
+      }
+    },
+    {
+      "bairro_tse": "BAIRRO SÃO CRISTÓVÃO",
+      "flavio": 4680,
+      "lula": 1221,
+      "diferenca": 3459,
+      "votos": {
+        "96": 88,
+        "55": 63,
+        "21": 2,
+        "80": 3,
+        "70": 91,
+        "95": 76,
+        "22": 4680,
+        "14": 118,
+        "16": 2,
+        "13": 1221,
+        "30": 5,
+        "27": 2
+      }
+    },
+    {
+      "bairro_tse": "JARDIM DAS VIOLETAS",
+      "flavio": 5564,
+      "lula": 1474,
+      "diferenca": 4090,
+      "votos": {
+        "96": 127,
+        "55": 97,
+        "21": 1,
+        "80": 10,
+        "70": 147,
+        "95": 62,
+        "22": 5564,
+        "14": 127,
+        "16": 3,
+        "13": 1474,
+        "30": 7,
+        "27": 3
+      }
+    },
+    {
+      "bairro_tse": "JARDIM BOTÂNICO",
+      "flavio": 4994,
+      "lula": 747,
+      "diferenca": 4247,
+      "votos": {
+        "96": 46,
+        "55": 38,
+        "80": 4,
+        "70": 127,
+        "95": 30,
+        "22": 4994,
+        "14": 125,
+        "16": 1,
+        "13": 747,
+        "30": 7,
+        "35": 1,
+        "27": 3
+      }
+    },
+    {
+      "bairro_tse": "JARDIM PRIMAVERA",
+      "flavio": 6267,
+      "lula": 1233,
+      "diferenca": 5034,
+      "votos": {
+        "96": 143,
+        "55": 60,
+        "21": 1,
+        "80": 9,
+        "28": 1,
+        "70": 149,
+        "95": 74,
+        "22": 6267,
+        "14": 162,
+        "16": 2,
+        "29": 1,
+        "30": 5,
+        "13": 1233,
+        "27": 3
+      }
+    },
+    {
+      "bairro_tse": "JARDIM IMPERIAL",
+      "flavio": 8104,
+      "lula": 1804,
+      "diferenca": 6300,
+      "votos": {
+        "96": 125,
+        "55": 79,
+        "21": 2,
+        "80": 9,
+        "70": 213,
+        "95": 67,
+        "22": 8104,
+        "14": 258,
+        "16": 1,
+        "13": 1804,
+        "30": 20,
+        "27": 9
+      }
+    }
+  ],
+  "fonte": "TSE 2026, presidente 1º turno, votação por seção e cadastro de locais",
+  "totalizacao_conferida": true
+}

@@ -1,0 +1,1111 @@
+{
+  "locais": [
+    {
+      "zona": "22",
+      "local": "1619",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA SADAO WATANABE",
+      "bairro_tse": "JARDIM PRIMAVERA",
+      "bairro_mapa": "Jardim Primavera",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim Primavera"
+      ],
+      "longitude": -55.49813159,
+      "latitude": -11.83734329,
+      "votos": {
+        "96": 85,
+        "55": 28,
+        "80": 5,
+        "70": 74,
+        "95": 41,
+        "22": 3169,
+        "16": 2,
+        "14": 71,
+        "29": 1,
+        "13": 647,
+        "27": 1
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1503",
+      "nome_local": "E.E. CARLOS DRUMMOND DE ANDRADE",
+      "bairro_tse": "GLEBA MERCEDES V (ZONA RURAL)",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.69376561,
+      "latitude": -11.49902513,
+      "votos": {
+        "55": 5,
+        "95": 4,
+        "70": 7,
+        "22": 264,
+        "13": 50,
+        "14": 1,
+        "96": 6
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1058",
+      "nome_local": "EEDIEB - BENEDITO SANT'ANA DA S. FREIRE",
+      "bairro_tse": "SETOR COMERCIAL SUL",
+      "bairro_mapa": "Setor Comercial",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Setor Comercial"
+      ],
+      "longitude": -55.50943971,
+      "latitude": -11.86256044,
+      "votos": {
+        "96": 23,
+        "55": 26,
+        "80": 3,
+        "70": 43,
+        "95": 18,
+        "22": 2502,
+        "14": 67,
+        "13": 371,
+        "30": 5,
+        "27": 1
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1376",
+      "nome_local": "ESCOLA ESTADUAL PROFESSORA MARIA DE FÁTIMA GIMENES LOPES",
+      "bairro_tse": "JARDIM CELESTE",
+      "bairro_mapa": "Jardim Celeste",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim Celeste"
+      ],
+      "longitude": -55.51140871,
+      "latitude": -11.88180744,
+      "votos": {
+        "55": 30,
+        "80": 5,
+        "70": 71,
+        "95": 31,
+        "22": 3146,
+        "14": 73,
+        "13": 700,
+        "30": 6,
+        "96": 51,
+        "27": 1
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1228",
+      "nome_local": "ESCOLA ESTADUAL DE 1º E 2º GRAUS NOSSA SENHORA DA GLÓRIA",
+      "bairro_tse": "ALTO DA GLÓRIA I, II E III",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.51657017,
+      "latitude": -11.9815466,
+      "votos": {
+        "55": 21,
+        "70": 34,
+        "95": 26,
+        "22": 1735,
+        "14": 41,
+        "13": 512,
+        "30": 4,
+        "96": 32,
+        "27": 2
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1716",
+      "nome_local": "ESCOLA ESTADUAL PROFESSOR DJALMA GUILHERME DA SILVA",
+      "bairro_tse": "JARDIM DAS ORQUÍDEAS",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.49668806,
+      "latitude": -11.82366329,
+      "votos": {
+        "55": 9,
+        "70": 8,
+        "95": 4,
+        "22": 324,
+        "13": 92,
+        "14": 9,
+        "96": 5,
+        "27": 1
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1031",
+      "nome_local": "COLÉGIO ADVENTISTA DE SINOP",
+      "bairro_tse": "JARDIM BOTÂNICO",
+      "bairro_mapa": "Jardim Botânico",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim Botânico"
+      ],
+      "longitude": -55.5089764,
+      "latitude": -11.86628306,
+      "votos": {
+        "96": 27,
+        "55": 31,
+        "80": 4,
+        "70": 78,
+        "95": 15,
+        "22": 2807,
+        "14": 61,
+        "16": 1,
+        "13": 375,
+        "30": 6,
+        "35": 1,
+        "27": 3
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1554",
+      "nome_local": "ESCOLA ESTADUAL DE 1º E 2º GRAUS ENIO PIPINO",
+      "bairro_tse": "SETOR COMERCIAL NORTE",
+      "bairro_mapa": "Setor Comercial",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Setor Comercial"
+      ],
+      "longitude": -55.50635781,
+      "latitude": -11.85015643,
+      "votos": {
+        "55": 36,
+        "80": 5,
+        "70": 59,
+        "95": 25,
+        "22": 3483,
+        "16": 5,
+        "14": 94,
+        "13": 562,
+        "30": 6,
+        "96": 34,
+        "27": 7
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1759",
+      "nome_local": "UNEMAT-CAMPUS UNIVERSITÁRIO DE SINOP-UNIDADE AQUARELA DAS ARTES",
+      "bairro_tse": "RESIDENCIAL AQUARELA DAS ARTES",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.54540292,
+      "latitude": -11.83037047,
+      "votos": {
+        "55": 12,
+        "70": 33,
+        "95": 11,
+        "22": 1546,
+        "14": 59,
+        "29": 1,
+        "13": 180,
+        "30": 3,
+        "96": 4
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1279",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA PROF. LENI TERESINHA BENEDETTI",
+      "bairro_tse": "JARDIM AMÉRICA",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.5149367,
+      "latitude": -11.93829545,
+      "votos": {
+        "55": 19,
+        "21": 1,
+        "70": 22,
+        "95": 24,
+        "22": 1026,
+        "14": 22,
+        "13": 513,
+        "96": 35
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1090",
+      "nome_local": "ESCOLA ESTADUAL SÃO VICENTE DE PAULA",
+      "bairro_tse": "BAIRRO SÃO CRISTÓVÃO",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.5051044,
+      "latitude": -11.89760194,
+      "votos": {
+        "55": 44,
+        "21": 1,
+        "80": 1,
+        "70": 59,
+        "95": 51,
+        "22": 2962,
+        "14": 69,
+        "16": 1,
+        "13": 781,
+        "30": 2,
+        "96": 61,
+        "27": 2
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1520",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA JURANDIR LIBERINO DE MESQUITA",
+      "bairro_tse": "JARDIM DAS VIOLETAS",
+      "bairro_mapa": "Jardim Violetas",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Jardim Violetas"
+      ],
+      "longitude": -55.50748072,
+      "latitude": -11.83265743,
+      "votos": {
+        "55": 36,
+        "80": 6,
+        "70": 53,
+        "95": 36,
+        "22": 2123,
+        "14": 52,
+        "30": 3,
+        "13": 630,
+        "96": 55,
+        "27": 1
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1481",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA RODRIGO DAMASCENO (UNIÃO)",
+      "bairro_tse": "JARDIM DAS VIOLETAS",
+      "bairro_mapa": "Jardim Violetas",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Jardim Violetas"
+      ],
+      "longitude": -55.50978324,
+      "latitude": -11.83827031,
+      "votos": {
+        "96": 72,
+        "55": 61,
+        "21": 1,
+        "80": 4,
+        "70": 94,
+        "95": 26,
+        "22": 3441,
+        "14": 75,
+        "16": 3,
+        "13": 844,
+        "30": 4,
+        "27": 2
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1511",
+      "nome_local": "ESCOLA ESTADUAL RENEE MENEZES",
+      "bairro_tse": "CONDOMÍNIO RESIDENCIAL CAMPING CLUBE",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.44627654,
+      "latitude": -11.70212482,
+      "votos": {
+        "55": 18,
+        "70": 27,
+        "95": 19,
+        "22": 1058,
+        "14": 23,
+        "13": 300,
+        "96": 35
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1112",
+      "nome_local": "ESCOLA MUNICIPAL VEREADOR RODOLFO WALTER KUNZE",
+      "bairro_tse": "JARDIM BOTÂNICO",
+      "bairro_mapa": "Jardim Botânico",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim Botânico"
+      ],
+      "longitude": -55.50322471,
+      "latitude": -11.86909044,
+      "votos": {
+        "55": 7,
+        "70": 49,
+        "95": 15,
+        "22": 2187,
+        "14": 64,
+        "13": 372,
+        "30": 1,
+        "96": 19
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1473",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA ARMANDO DIAS",
+      "bairro_tse": "JARDIM BOA ESPERANÇA",
+      "bairro_mapa": "Jardim Boa Esperança",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim Boa Esperança"
+      ],
+      "longitude": -55.52232686,
+      "latitude": -11.83650156,
+      "votos": {
+        "96": 66,
+        "55": 35,
+        "80": 3,
+        "70": 48,
+        "95": 49,
+        "22": 2363,
+        "14": 53,
+        "16": 1,
+        "13": 942,
+        "30": 1
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1686",
+      "nome_local": "UNEMAT - CAMPUS CENTRO",
+      "bairro_tse": "JARDIM IMPERIAL",
+      "bairro_mapa": "Jardim Imperial",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim Imperial"
+      ],
+      "longitude": -55.51460118,
+      "latitude": -11.8524691,
+      "votos": {
+        "96": 54,
+        "55": 49,
+        "21": 2,
+        "80": 8,
+        "70": 131,
+        "95": 29,
+        "22": 5058,
+        "14": 187,
+        "16": 1,
+        "13": 934,
+        "30": 13,
+        "27": 5
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1570",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA LIZAMARA AP. OLIVA DE ALMEIDA",
+      "bairro_tse": "JARDIM IMPERIAL",
+      "bairro_mapa": "Jardim Imperial",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim Imperial"
+      ],
+      "longitude": -55.51581072,
+      "latitude": -11.84697619,
+      "votos": {
+        "55": 17,
+        "70": 50,
+        "95": 14,
+        "22": 1643,
+        "14": 37,
+        "13": 422,
+        "30": 5,
+        "96": 31,
+        "27": 1
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1430",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA MARIA APARECIDA AMARO DE SOUZA",
+      "bairro_tse": "BAIRRO SÃO CRISTÓVÃO",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.50477427,
+      "latitude": -11.89628256,
+      "votos": {
+        "96": 27,
+        "55": 19,
+        "21": 1,
+        "80": 2,
+        "70": 32,
+        "95": 25,
+        "22": 1718,
+        "14": 49,
+        "16": 1,
+        "13": 440,
+        "30": 3
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1538",
+      "nome_local": "ESCOLA ESTADUAL EDELI MONTOVANI",
+      "bairro_tse": "JARDIM SÃO PAULO I E II",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.51874172,
+      "latitude": -11.82607043,
+      "votos": {
+        "55": 45,
+        "80": 3,
+        "28": 1,
+        "70": 103,
+        "95": 52,
+        "22": 3823,
+        "14": 98,
+        "16": 2,
+        "13": 1112,
+        "30": 3,
+        "35": 1,
+        "96": 85,
+        "27": 4
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1139",
+      "nome_local": "ESCOLA ESTADUAL NOSSA SENHORA DE LOURDES",
+      "bairro_tse": "SETOR INDUSTRIAL SUL",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.49214749,
+      "latitude": -11.86920232,
+      "votos": {
+        "96": 19,
+        "55": 23,
+        "70": 22,
+        "95": 16,
+        "22": 1100,
+        "14": 35,
+        "13": 244,
+        "30": 2
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1236",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA ALEIXO SCHENATTO",
+      "bairro_tse": "JARDIM JACARANDÁS",
+      "bairro_mapa": "Jardim Jacarandas",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim Jacarandas"
+      ],
+      "longitude": -55.50567151,
+      "latitude": -11.87698015,
+      "votos": {
+        "55": 21,
+        "28": 1,
+        "70": 53,
+        "95": 17,
+        "22": 2027,
+        "14": 38,
+        "30": 2,
+        "13": 325,
+        "96": 49,
+        "27": 1
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1562",
+      "nome_local": "ESCOLA ESTADUAL PAULO FREIRE",
+      "bairro_tse": "JARDIM DAS OLIVEIRAS",
+      "bairro_mapa": "Jardim das Oliveiras",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim das Oliveiras"
+      ],
+      "longitude": -55.50785686,
+      "latitude": -11.82685543,
+      "votos": {
+        "55": 41,
+        "80": 5,
+        "70": 57,
+        "95": 33,
+        "22": 2486,
+        "14": 53,
+        "13": 706,
+        "96": 70
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1732",
+      "nome_local": "FACULDADE DE TECNOLOGIA DE SINOP (FASTECH)",
+      "bairro_tse": "JARDIM CURITIBA I E II",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.5327067,
+      "latitude": -11.89075729,
+      "votos": {
+        "55": 3,
+        "80": 1,
+        "70": 14,
+        "95": 6,
+        "22": 638,
+        "14": 22,
+        "30": 3,
+        "13": 102,
+        "96": 6
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1295",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA PROF. TACIANA BALTH JORDÃO",
+      "bairro_tse": "JARDIM PARAÍSO I, II E III",
+      "bairro_mapa": "Jardim Paraíso",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Jardim Paraíso"
+      ],
+      "longitude": -55.51703941,
+      "latitude": -11.86589482,
+      "votos": {
+        "55": 22,
+        "70": 67,
+        "95": 14,
+        "22": 2586,
+        "14": 38,
+        "16": 4,
+        "30": 4,
+        "13": 457,
+        "96": 40,
+        "27": 2
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1635",
+      "nome_local": "E. E. DE ENSINO FUNDAMENTAL E MÉDIO OLÍMPIO JOÃO PISSINATTI GUERRA",
+      "bairro_tse": "JARDIM PRIMAVERA",
+      "bairro_mapa": "Jardim Primavera",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim Primavera"
+      ],
+      "longitude": -55.49717388,
+      "latitude": -11.84467443,
+      "votos": {
+        "55": 32,
+        "21": 1,
+        "80": 4,
+        "28": 1,
+        "70": 75,
+        "95": 33,
+        "22": 3098,
+        "14": 91,
+        "30": 5,
+        "13": 586,
+        "96": 58,
+        "27": 2
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1015",
+      "nome_local": "ESCOLA ESTADUAL DE 1º E 2º GRAUS NILZA DE OLIVEIRA PIPINO",
+      "bairro_tse": "SETOR RESIDENCIAL SUL",
+      "bairro_mapa": "Setor Residencial Sul",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Setor Residencial Sul"
+      ],
+      "longitude": -55.50006508,
+      "latitude": -11.86085906,
+      "votos": {
+        "96": 38,
+        "55": 34,
+        "80": 2,
+        "70": 59,
+        "95": 22,
+        "22": 3300,
+        "14": 114,
+        "30": 5,
+        "13": 524,
+        "16": 1,
+        "27": 3
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1457",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA JOSÉ MÁRCIO DE MENDONÇA SILVA",
+      "bairro_tse": "JARDIM UMUARAMA I, II E III",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.5047904,
+      "latitude": -11.92415645,
+      "votos": {
+        "55": 13,
+        "28": 1,
+        "80": 2,
+        "70": 27,
+        "95": 28,
+        "22": 1040,
+        "13": 472,
+        "30": 1,
+        "14": 27,
+        "96": 40,
+        "27": 3
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1600",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA UILIBALDO VIEIRA GOBBO",
+      "bairro_tse": "SETOR INDUSTRIAL NORTE",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.48537828,
+      "latitude": -11.81716827,
+      "votos": {
+        "55": 19,
+        "80": 1,
+        "70": 19,
+        "95": 8,
+        "22": 947,
+        "16": 1,
+        "14": 16,
+        "13": 310,
+        "30": 2,
+        "96": 21
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1392",
+      "nome_local": "UNIVERSIDADE FEDERAL DE MATO GROSSO - UFMT",
+      "bairro_tse": "SETOR INDUSTRIAL SUL",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.48160882,
+      "latitude": -11.86217255,
+      "votos": {
+        "96": 6,
+        "55": 24,
+        "21": 1,
+        "80": 2,
+        "70": 47,
+        "95": 12,
+        "22": 1304,
+        "14": 66,
+        "30": 6,
+        "13": 428,
+        "27": 1
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1627",
+      "nome_local": "ESCOLA ESTADUAL ROSA DOS VENTOS",
+      "bairro_tse": "JARDIM IMPERIAL",
+      "bairro_mapa": "Jardim Imperial",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim Imperial"
+      ],
+      "longitude": -55.51677927,
+      "latitude": -11.83974718,
+      "votos": {
+        "96": 40,
+        "55": 13,
+        "80": 1,
+        "70": 32,
+        "95": 24,
+        "22": 1403,
+        "14": 34,
+        "30": 2,
+        "13": 448,
+        "27": 3
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1384",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BASICA BASILIANO DO CARMO DE JESUS",
+      "bairro_tse": "RESIDENCIAL LISBOA",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.51427671,
+      "latitude": -11.89976044,
+      "votos": {
+        "96": 31,
+        "55": 13,
+        "80": 2,
+        "70": 27,
+        "95": 17,
+        "22": 1083,
+        "14": 35,
+        "13": 337,
+        "30": 1,
+        "27": 2
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1597",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA ANA CRISTINA DE SENA",
+      "bairro_tse": "JARDIM NOVO ESTADO",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.51981368,
+      "latitude": -11.83143706,
+      "votos": {
+        "55": 24,
+        "80": 3,
+        "70": 39,
+        "95": 18,
+        "22": 1411,
+        "14": 42,
+        "16": 2,
+        "13": 453,
+        "30": 2,
+        "96": 38
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1694",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA SILVANA",
+      "bairro_tse": "ZONA RURAL NORTE",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.46626754,
+      "latitude": -11.79138348,
+      "votos": {
+        "70": 1,
+        "22": 43,
+        "14": 1,
+        "13": 5,
+        "96": 1
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1660",
+      "nome_local": "ESCOLA ESTADUAL PROFESSORA ZENI VIEIRA",
+      "bairro_tse": "JARDIM IBIRAPUERA",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.51173727,
+      "latitude": -11.88865766,
+      "votos": {
+        "96": 34,
+        "55": 22,
+        "80": 3,
+        "28": 2,
+        "70": 43,
+        "95": 14,
+        "22": 1856,
+        "16": 2,
+        "14": 57,
+        "30": 3,
+        "13": 497,
+        "27": 3
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1465",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA JOSÉ REINALDO DE OLIVEIRA",
+      "bairro_tse": "LOTEAMENTO MENINO JESUS I E II",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.50217739,
+      "latitude": -11.89956147,
+      "votos": {
+        "55": 18,
+        "21": 1,
+        "80": 1,
+        "70": 18,
+        "95": 13,
+        "22": 1167,
+        "14": 27,
+        "13": 378,
+        "30": 1,
+        "96": 46
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1708",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA SIMÃO FLACH",
+      "bairro_tse": "RESIDENCIAL GENTE FELIZ I E II",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.48052964,
+      "latitude": -11.83141357,
+      "votos": {
+        "55": 13,
+        "80": 3,
+        "70": 13,
+        "95": 4,
+        "22": 389,
+        "16": 1,
+        "14": 12,
+        "13": 100,
+        "96": 8
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1775",
+      "nome_local": "UBS - GLEBA MERCEDES - NÚCLEO CAMPOS NOVOS",
+      "bairro_tse": "GLEBA MERCEDES V (ZONA RURAL)",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -1.0,
+      "latitude": -1.0,
+      "votos": {
+        "55": 4,
+        "70": 1,
+        "95": 1,
+        "22": 145,
+        "13": 39,
+        "96": 5
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1449",
+      "nome_local": "ESCOLA ESTADUAL CLEUFA HUBNER",
+      "bairro_tse": "JARDIM DAS NAÇÕES I, II E III",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.5303456,
+      "latitude": -11.85879927,
+      "votos": {
+        "55": 9,
+        "70": 17,
+        "95": 5,
+        "22": 740,
+        "14": 39,
+        "13": 135,
+        "30": 1,
+        "16": 1,
+        "96": 4
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1767",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA IVETE MARIA CROTTI DORNER",
+      "bairro_tse": "RESIDENCIAL SABRINA I, II E III",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.50025018,
+      "latitude": -11.9208204,
+      "votos": {
+        "55": 3,
+        "70": 6,
+        "95": 1,
+        "22": 94,
+        "14": 5,
+        "13": 58,
+        "96": 6
+      }
+    },
+    {
+      "zona": "22",
+      "local": "1740",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA LAURA ERONDINA DE MORAES",
+      "bairro_tse": "BOM JARDIM",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.47267945,
+      "latitude": -11.91229247,
+      "votos": {
+        "55": 4,
+        "80": 1,
+        "70": 16,
+        "95": 15,
+        "22": 466,
+        "14": 10,
+        "30": 1,
+        "13": 185,
+        "96": 7
+      }
+    }
+  ],
+  "votos_por_poligono": {
+    "Jardim Primavera": {
+      "96": 143,
+      "55": 60,
+      "80": 9,
+      "70": 149,
+      "95": 74,
+      "22": 6267,
+      "16": 2,
+      "14": 162,
+      "29": 1,
+      "13": 1233,
+      "27": 3,
+      "21": 1,
+      "28": 1,
+      "30": 5
+    },
+    "Setor Comercial": {
+      "96": 57,
+      "55": 62,
+      "80": 8,
+      "70": 102,
+      "95": 43,
+      "22": 5985,
+      "14": 161,
+      "13": 933,
+      "30": 11,
+      "27": 8,
+      "16": 5
+    },
+    "Jardim Celeste": {
+      "55": 30,
+      "80": 5,
+      "70": 71,
+      "95": 31,
+      "22": 3146,
+      "14": 73,
+      "13": 700,
+      "30": 6,
+      "96": 51,
+      "27": 1
+    },
+    "Jardim Botânico": {
+      "96": 46,
+      "55": 38,
+      "80": 4,
+      "70": 127,
+      "95": 30,
+      "22": 4994,
+      "14": 125,
+      "16": 1,
+      "13": 747,
+      "30": 7,
+      "35": 1,
+      "27": 3
+    },
+    "Jardim Violetas": {
+      "55": 97,
+      "80": 10,
+      "70": 147,
+      "95": 62,
+      "22": 5564,
+      "14": 127,
+      "30": 7,
+      "13": 1474,
+      "96": 127,
+      "27": 3,
+      "21": 1,
+      "16": 3
+    },
+    "Jardim Boa Esperança": {
+      "96": 66,
+      "55": 35,
+      "80": 3,
+      "70": 48,
+      "95": 49,
+      "22": 2363,
+      "14": 53,
+      "16": 1,
+      "13": 942,
+      "30": 1
+    },
+    "Jardim Imperial": {
+      "96": 125,
+      "55": 79,
+      "21": 2,
+      "80": 9,
+      "70": 213,
+      "95": 67,
+      "22": 8104,
+      "14": 258,
+      "16": 1,
+      "13": 1804,
+      "30": 20,
+      "27": 9
+    },
+    "Jardim Jacarandas": {
+      "55": 21,
+      "28": 1,
+      "70": 53,
+      "95": 17,
+      "22": 2027,
+      "14": 38,
+      "30": 2,
+      "13": 325,
+      "96": 49,
+      "27": 1
+    },
+    "Jardim das Oliveiras": {
+      "55": 41,
+      "80": 5,
+      "70": 57,
+      "95": 33,
+      "22": 2486,
+      "14": 53,
+      "13": 706,
+      "96": 70
+    },
+    "Jardim Paraíso": {
+      "55": 22,
+      "70": 67,
+      "95": 14,
+      "22": 2586,
+      "14": 38,
+      "16": 4,
+      "30": 4,
+      "13": 457,
+      "96": 40,
+      "27": 2
+    },
+    "Setor Residencial Sul": {
+      "96": 38,
+      "55": 34,
+      "80": 2,
+      "70": 59,
+      "95": 22,
+      "22": 3300,
+      "14": 114,
+      "30": 5,
+      "13": 524,
+      "16": 1,
+      "27": 3
+    }
+  }
+}

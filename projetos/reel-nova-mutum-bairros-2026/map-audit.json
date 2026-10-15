@@ -1,0 +1,16 @@
+{
+  "secoes": 115,
+  "locais": 19,
+  "urbanos_no_recorte": 16,
+  "fora_do_recorte": [
+    "ESCOLA ESTADUAL PADRE JOHANNES BERTOLD HENNING",
+    "E.M.C. SÃO JOSÉ",
+    "E.M.C. JORGE CARLOS FERREIRA"
+  ],
+  "coordenadas_dentro_municipio": true,
+  "poligonos_oficiais": 31,
+  "poligonos_com_correspondencia": 8,
+  "classificacao": "11 grupos cadastrais urbanos, distrito Ranchão e categoria Zona Rural",
+  "todos_candidatos_conferidos_totalizacao_atual": true,
+  "fonte_totalizacao": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/mt/mt90646-c0001-e006257-u.json"
+}

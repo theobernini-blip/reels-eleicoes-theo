@@ -1,0 +1,11 @@
+{
+  "nome_autor": "PREENCHER",
+  "instagram": "@seu_perfil",
+  "pasta_entrega": "entregas",
+  "idioma": "pt-BR",
+  "fuso": "America/Cuiaba",
+  "cores": {"fundo":"#0A1D1A","texto":"#F2F6EF","destaque":"#75D49E","contraponto":"#ED807B","ouro":"#F0CA61"},
+  "video": {"largura":1080,"altura":1920,"fps":60,"duracao_alvo_segundos":[30,50]},
+  "voz": {"provedor":"ElevenLabs","referencia":"Paulo — Expressive and Confident","estabilidade":0.25,"similaridade":0.75,"direcao":"Energia e surpresa com fala natural; sem gritar. Ouvir antes de gerar o texto inteiro."},
+  "automacao": {"plataforma":"ChatFunnel","palavra_chave":"PREENCHER","perfil_url":"","relatorio_url":"","ativar":false}
+}

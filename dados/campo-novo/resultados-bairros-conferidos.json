@@ -1,0 +1,181 @@
+{
+  "secoes": 88,
+  "locais": 11,
+  "faltantes": [],
+  "totais": {
+    "96": 357,
+    "27": 14,
+    "70": 407,
+    "95": 256,
+    "55": 247,
+    "21": 3,
+    "80": 11,
+    "22": 16547,
+    "13": 5529,
+    "30": 33,
+    "14": 357,
+    "16": 4,
+    "35": 2
+  },
+  "candidatos": {
+    "96": "VOTO NULO",
+    "27": "CLARIANA ZACARKIM BARAO",
+    "70": "AUGUSTO JORGE CURY",
+    "95": "VOTO BRANCO",
+    "55": "RONALDO RAMOS CAIADO",
+    "21": "EDMILSON SILVA COSTA",
+    "80": "SAMARA MARTINS DA SILVA FEITOSA",
+    "22": "FLAVIO NANTES BOLSONARO",
+    "35": "WILSON GRASSI JUNIOR",
+    "30": "ROMEU ZEMA NETO",
+    "13": "LUIZ INÁCIO LULA DA SILVA",
+    "14": "RENAN ANTONIO FERREIRA DOS SANTOS",
+    "16": "HERTZ DA CONCEICAO DIAS"
+  },
+  "bairros": [
+    {
+      "bairro_tse": "ZONA RURAL",
+      "flavio": 74,
+      "lula": 22,
+      "diferenca": 52,
+      "votos": {
+        "70": 7,
+        "95": 1,
+        "22": 74,
+        "13": 22,
+        "14": 1
+      }
+    },
+    {
+      "bairro_tse": "DISTRITO ITAMARATI NORTE",
+      "flavio": 379,
+      "lula": 128,
+      "diferenca": 251,
+      "votos": {
+        "27": 2,
+        "96": 15,
+        "70": 12,
+        "95": 5,
+        "55": 7,
+        "21": 1,
+        "80": 1,
+        "22": 379,
+        "30": 1,
+        "13": 128,
+        "14": 17
+      }
+    },
+    {
+      "bairro_tse": "DISTRITO MARECHAL RONDON",
+      "flavio": 513,
+      "lula": 195,
+      "diferenca": 318,
+      "votos": {
+        "96": 13,
+        "70": 5,
+        "95": 6,
+        "55": 8,
+        "22": 513,
+        "30": 3,
+        "13": 195,
+        "14": 7
+      }
+    },
+    {
+      "bairro_tse": "BOA ESPERANÇA",
+      "flavio": 1272,
+      "lula": 784,
+      "diferenca": 488,
+      "votos": {
+        "96": 48,
+        "27": 1,
+        "70": 30,
+        "95": 40,
+        "55": 38,
+        "80": 2,
+        "22": 1272,
+        "13": 784,
+        "35": 1,
+        "14": 28
+      }
+    },
+    {
+      "bairro_tse": "ALVORADA",
+      "flavio": 1026,
+      "lula": 176,
+      "diferenca": 850,
+      "votos": {
+        "27": 1,
+        "96": 9,
+        "70": 15,
+        "95": 7,
+        "55": 10,
+        "22": 1026,
+        "30": 2,
+        "13": 176,
+        "14": 27,
+        "16": 1
+      }
+    },
+    {
+      "bairro_tse": "CENTRO",
+      "flavio": 2824,
+      "lula": 526,
+      "diferenca": 2298,
+      "votos": {
+        "96": 49,
+        "27": 3,
+        "70": 59,
+        "95": 17,
+        "55": 34,
+        "21": 1,
+        "80": 1,
+        "22": 2824,
+        "13": 526,
+        "30": 5,
+        "14": 69,
+        "16": 2
+      }
+    },
+    {
+      "bairro_tse": "JARDIM DAS PALMEIRAS",
+      "flavio": 5241,
+      "lula": 2544,
+      "diferenca": 2697,
+      "votos": {
+        "96": 146,
+        "27": 7,
+        "70": 171,
+        "95": 127,
+        "55": 93,
+        "21": 1,
+        "80": 3,
+        "22": 5241,
+        "13": 2544,
+        "30": 9,
+        "14": 134
+      }
+    },
+    {
+      "bairro_tse": "NOSSA SENHORA APARECIDA",
+      "flavio": 5218,
+      "lula": 1154,
+      "diferenca": 4064,
+      "votos": {
+        "96": 77,
+        "70": 108,
+        "95": 53,
+        "55": 57,
+        "80": 4,
+        "22": 5218,
+        "35": 1,
+        "30": 13,
+        "13": 1154,
+        "14": 74,
+        "16": 1
+      }
+    }
+  ],
+  "fonte": "TSE 2026, presidente 1º turno, votação por seção e cadastro de locais",
+  "totalizacao_conferida": true
+}

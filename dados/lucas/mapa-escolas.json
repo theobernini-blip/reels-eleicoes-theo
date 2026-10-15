@@ -1,0 +1,532 @@
+{
+  "locais": [
+    {
+      "zona": "21",
+      "local": "1147",
+      "nome_local": "ESCOLA ESTADUAL CÍVICO-MILITAR ÂNGELO NADIN",
+      "bairro_tse": "BANDEIRANTES",
+      "bairro_mapa": "Bandeirantes",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Bandeirantes"
+      ],
+      "longitude": -55.93525128,
+      "latitude": -13.06844621,
+      "votos": {
+        "22": 2667,
+        "80": 1,
+        "55": 19,
+        "14": 44,
+        "16": 2,
+        "70": 31,
+        "13": 309,
+        "30": 4,
+        "95": 18,
+        "96": 29,
+        "27": 1
+      }
+    },
+    {
+      "zona": "21",
+      "local": "1139",
+      "nome_local": "ESCOLA MUNICIPAL VINÍCIUS DE MORAES",
+      "bairro_tse": "JARDIM PRIMAVERA",
+      "bairro_mapa": "Jardim Primavera",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim Primavera"
+      ],
+      "longitude": -55.90312177,
+      "latitude": -13.08294192,
+      "votos": {
+        "22": 2769,
+        "55": 32,
+        "21": 1,
+        "14": 80,
+        "16": 2,
+        "70": 58,
+        "13": 836,
+        "30": 2,
+        "95": 48,
+        "96": 48,
+        "27": 1
+      }
+    },
+    {
+      "zona": "21",
+      "local": "1180",
+      "nome_local": "ESCOLA MUNICIPAL CECILIA MEIRELES",
+      "bairro_tse": "TESSELE JUNIOR",
+      "bairro_mapa": "Tessele Junior",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Industrial"
+      ],
+      "longitude": -55.92141599,
+      "latitude": -13.04533472,
+      "votos": {
+        "22": 2197,
+        "80": 3,
+        "55": 25,
+        "14": 130,
+        "29": 1,
+        "70": 119,
+        "13": 1352,
+        "30": 4,
+        "95": 64,
+        "96": 59,
+        "27": 3
+      }
+    },
+    {
+      "zona": "21",
+      "local": "1112",
+      "nome_local": "ESCOLA MUNICIPAL MENINO DEUS",
+      "bairro_tse": "MENINO DEUS",
+      "bairro_mapa": "Menino Deus",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Menino Deus"
+      ],
+      "longitude": -55.92968944,
+      "latitude": -13.07855791,
+      "votos": {
+        "22": 3343,
+        "80": 3,
+        "55": 26,
+        "21": 1,
+        "14": 55,
+        "16": 2,
+        "70": 44,
+        "30": 12,
+        "13": 480,
+        "95": 26,
+        "96": 39,
+        "27": 2
+      }
+    },
+    {
+      "zona": "21",
+      "local": "1210",
+      "nome_local": "ESCOLA ESTADUAL CÍVICO-MILITAR MANOEL DE BARROS",
+      "bairro_tse": "PARQUE DAS AMÉRICAS",
+      "bairro_mapa": "Parque das Américas",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Parque das Américas"
+      ],
+      "longitude": -55.90680335,
+      "latitude": -13.10817343,
+      "votos": {
+        "22": 2506,
+        "28": 1,
+        "80": 1,
+        "55": 29,
+        "16": 1,
+        "14": 81,
+        "29": 1,
+        "70": 80,
+        "95": 51,
+        "13": 1013,
+        "30": 5,
+        "35": 1,
+        "96": 65,
+        "27": 2
+      }
+    },
+    {
+      "zona": "21",
+      "local": "1082",
+      "nome_local": "ESCOLA MUNICIPAL CAMINHO PARA O FUTURO",
+      "bairro_tse": "JARDIM DAS PALMEIRAS",
+      "bairro_mapa": "Jardim Palmeiras",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Jardim Palmeiras"
+      ],
+      "longitude": -55.91066916,
+      "latitude": -13.08219662,
+      "votos": {
+        "22": 1624,
+        "55": 31,
+        "14": 35,
+        "16": 2,
+        "70": 44,
+        "95": 32,
+        "13": 582,
+        "30": 2,
+        "96": 54,
+        "27": 2
+      }
+    },
+    {
+      "zona": "21",
+      "local": "1104",
+      "nome_local": "ESCOLA MUNICIPAL OLAVO BILAC",
+      "bairro_tse": "JARDIM DAS PALMEIRAS",
+      "bairro_mapa": "Jardim Palmeiras",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Jardim Palmeiras"
+      ],
+      "longitude": -55.90880947,
+      "latitude": -13.0792886,
+      "votos": {
+        "22": 2546,
+        "80": 1,
+        "55": 32,
+        "14": 77,
+        "16": 1,
+        "70": 56,
+        "95": 37,
+        "13": 723,
+        "30": 1,
+        "96": 54
+      }
+    },
+    {
+      "zona": "21",
+      "local": "1260",
+      "nome_local": "ESCOLA ESTADUAL MILITAR SOLDADO PM ADRIANA MORAIS RAMOS",
+      "bairro_tse": "BANDEIRANTES IV",
+      "bairro_mapa": "Bandeirantes",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Bandeirantes"
+      ],
+      "longitude": -55.93512138,
+      "latitude": -13.05426538,
+      "votos": {
+        "22": 795,
+        "80": 2,
+        "55": 6,
+        "14": 38,
+        "70": 16,
+        "13": 116,
+        "30": 1,
+        "95": 3,
+        "96": 5,
+        "27": 2
+      }
+    },
+    {
+      "zona": "21",
+      "local": "1031",
+      "nome_local": "ESCOLA ESTADUAL DOM BOSCO",
+      "bairro_tse": "RIO VERDE",
+      "bairro_mapa": "Rio Verde",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Rio Verde"
+      ],
+      "longitude": -55.90693218,
+      "latitude": -13.07849781,
+      "votos": {
+        "22": 3338,
+        "80": 2,
+        "55": 33,
+        "14": 116,
+        "70": 79,
+        "95": 43,
+        "13": 844,
+        "30": 6,
+        "96": 81,
+        "27": 3
+      }
+    },
+    {
+      "zona": "21",
+      "local": "1163",
+      "nome_local": "ESCOLA MUNICIPAL LUIZ CARLOS CECONELLO",
+      "bairro_tse": "JARDIM CERRADO",
+      "bairro_mapa": "Cerrado",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Cerrado"
+      ],
+      "longitude": -55.90807276,
+      "latitude": -13.08928797,
+      "votos": {
+        "22": 2969,
+        "80": 3,
+        "55": 31,
+        "14": 64,
+        "16": 1,
+        "70": 82,
+        "13": 946,
+        "30": 2,
+        "95": 49,
+        "96": 73,
+        "27": 1
+      }
+    },
+    {
+      "zona": "21",
+      "local": "1066",
+      "nome_local": "ESCOLA MUNICIPAL EÇA DE QUEIROZ",
+      "bairro_tse": "ALVORADA",
+      "bairro_mapa": "Alvorada",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Alvorada"
+      ],
+      "longitude": -55.91653352,
+      "latitude": -13.07288878,
+      "votos": {
+        "22": 2281,
+        "80": 1,
+        "55": 19,
+        "14": 59,
+        "70": 49,
+        "95": 21,
+        "30": 4,
+        "13": 528,
+        "96": 39,
+        "27": 3
+      }
+    },
+    {
+      "zona": "21",
+      "local": "1201",
+      "nome_local": "INSTITUTO FEDERAL DE MATO GROSSO",
+      "bairro_tse": "PARQUE DAS EMAS",
+      "bairro_mapa": "Parque das Emas",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [],
+      "longitude": -55.94805286,
+      "latitude": -13.06911297,
+      "votos": {
+        "22": 1740,
+        "80": 4,
+        "55": 14,
+        "14": 49,
+        "70": 40,
+        "95": 10,
+        "13": 243,
+        "30": 2,
+        "96": 9
+      }
+    },
+    {
+      "zona": "21",
+      "local": "1279",
+      "nome_local": "ESCOLA MUNICIPAL JOICE MARTINELLI MUNHAK",
+      "bairro_tse": "VIDA NOVA",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.91511084,
+      "latitude": -13.1052217,
+      "votos": {
+        "22": 171,
+        "80": 1,
+        "55": 3,
+        "16": 1,
+        "14": 11,
+        "70": 10,
+        "30": 1,
+        "13": 102,
+        "95": 6,
+        "96": 3
+      }
+    },
+    {
+      "zona": "21",
+      "local": "1090",
+      "nome_local": "ESCOLA MUNICIPAL ÉRICO VERÍSSIMO",
+      "bairro_tse": "RIO VERDE",
+      "bairro_mapa": "Rio Verde",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Rio Verde"
+      ],
+      "longitude": -55.90417267,
+      "latitude": -13.0754128,
+      "votos": {
+        "22": 1160,
+        "80": 1,
+        "55": 20,
+        "21": 1,
+        "14": 27,
+        "70": 28,
+        "95": 25,
+        "13": 471,
+        "96": 31,
+        "27": 1
+      }
+    },
+    {
+      "zona": "21",
+      "local": "1074",
+      "nome_local": "ESCOLA MUNICIPAL SÃO CRISTÓVÃO",
+      "bairro_tse": "COMUNIDADE SÃO CRISTÓVÃO",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.04011324,
+      "latitude": -13.30739517,
+      "votos": {
+        "22": 291,
+        "14": 3,
+        "13": 34,
+        "70": 4,
+        "95": 1,
+        "96": 6
+      }
+    },
+    {
+      "zona": "21",
+      "local": "1058",
+      "nome_local": "ESCOLA MUNICIPAL FREDOLINO VIEIRA DE BARROS",
+      "bairro_tse": "COMUNIDADE GROSLÂNDIA",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.21839533,
+      "latitude": -12.80171926,
+      "votos": {
+        "22": 314,
+        "55": 2,
+        "14": 6,
+        "16": 1,
+        "70": 5,
+        "13": 57,
+        "95": 4,
+        "96": 2
+      }
+    }
+  ],
+  "votos_por_poligono": {
+    "Bandeirantes": {
+      "22": 3462,
+      "80": 3,
+      "55": 25,
+      "14": 82,
+      "16": 2,
+      "70": 47,
+      "13": 425,
+      "30": 5,
+      "95": 21,
+      "96": 34,
+      "27": 3
+    },
+    "Jardim Primavera": {
+      "22": 2769,
+      "55": 32,
+      "21": 1,
+      "14": 80,
+      "16": 2,
+      "70": 58,
+      "13": 836,
+      "30": 2,
+      "95": 48,
+      "96": 48,
+      "27": 1
+    },
+    "Tessele Junior": {
+      "22": 2197,
+      "80": 3,
+      "55": 25,
+      "14": 130,
+      "29": 1,
+      "70": 119,
+      "13": 1352,
+      "30": 4,
+      "95": 64,
+      "96": 59,
+      "27": 3
+    },
+    "Menino Deus": {
+      "22": 3343,
+      "80": 3,
+      "55": 26,
+      "21": 1,
+      "14": 55,
+      "16": 2,
+      "70": 44,
+      "30": 12,
+      "13": 480,
+      "95": 26,
+      "96": 39,
+      "27": 2
+    },
+    "Parque das Américas": {
+      "22": 2506,
+      "28": 1,
+      "80": 1,
+      "55": 29,
+      "16": 1,
+      "14": 81,
+      "29": 1,
+      "70": 80,
+      "95": 51,
+      "13": 1013,
+      "30": 5,
+      "35": 1,
+      "96": 65,
+      "27": 2
+    },
+    "Jardim Palmeiras": {
+      "22": 4170,
+      "55": 63,
+      "14": 112,
+      "16": 3,
+      "70": 100,
+      "95": 69,
+      "13": 1305,
+      "30": 3,
+      "96": 108,
+      "27": 2,
+      "80": 1
+    },
+    "Rio Verde": {
+      "22": 4498,
+      "80": 3,
+      "55": 53,
+      "14": 143,
+      "70": 107,
+      "95": 68,
+      "13": 1315,
+      "30": 6,
+      "96": 112,
+      "27": 4,
+      "21": 1
+    },
+    "Cerrado": {
+      "22": 2969,
+      "80": 3,
+      "55": 31,
+      "14": 64,
+      "16": 1,
+      "70": 82,
+      "13": 946,
+      "30": 2,
+      "95": 49,
+      "96": 73,
+      "27": 1
+    },
+    "Alvorada": {
+      "22": 2281,
+      "80": 1,
+      "55": 19,
+      "14": 59,
+      "70": 49,
+      "95": 21,
+      "30": 4,
+      "13": 528,
+      "96": 39,
+      "27": 3
+    },
+    "Parque das Emas": {
+      "22": 1740,
+      "80": 4,
+      "55": 14,
+      "14": 49,
+      "70": 40,
+      "95": 10,
+      "13": 243,
+      "30": 2,
+      "96": 9
+    }
+  }
+}

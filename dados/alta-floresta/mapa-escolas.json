@@ -1,0 +1,651 @@
+{
+  "locais": [
+    {
+      "zona": "24",
+      "local": "1392",
+      "nome_local": "ESCOLA MUNICIPAL PROFESSOR BENJAMIN DE PADUA",
+      "bairro_tse": "CENTRO",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.084,
+      "latitude": -9.86923,
+      "votos": {
+        "22": 762,
+        "55": 18,
+        "14": 16,
+        "70": 21,
+        "13": 251,
+        "30": 2,
+        "95": 12,
+        "96": 15
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1139",
+      "nome_local": "ESCOLA ESTADUAL GUIMARAES ROSA",
+      "bairro_tse": "COM. SANTA LÚCIA",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.131057,
+      "latitude": -10.16109,
+      "votos": {
+        "22": 131,
+        "55": 4,
+        "14": 1,
+        "70": 2,
+        "30": 1,
+        "13": 97,
+        "96": 10
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1155",
+      "nome_local": "ESCOLA ESTADUAL MUNDO NOVO",
+      "bairro_tse": "ZONA RURAL",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.93868,
+      "latitude": -9.85134,
+      "votos": {
+        "22": 400,
+        "55": 8,
+        "21": 1,
+        "14": 4,
+        "70": 6,
+        "13": 96,
+        "30": 1,
+        "95": 5,
+        "96": 6
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1317",
+      "nome_local": "ESCOLA MUNICIPAL DE I GRAU GENY SILVERIO DALARINCY",
+      "bairro_tse": "JARDIM PANORAMA",
+      "bairro_mapa": "Jardim Panorama",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim Panorama"
+      ],
+      "longitude": -56.07024,
+      "latitude": -9.91371,
+      "votos": {
+        "22": 934,
+        "55": 15,
+        "14": 10,
+        "70": 24,
+        "13": 356,
+        "95": 20,
+        "96": 25
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1287",
+      "nome_local": "CENTRO INTEGRADO DE EDUCACAO JAIME VERISSIMO DE CAMPOS",
+      "bairro_tse": "BAIRRO CIDADE ALTA",
+      "bairro_mapa": "Bom Pastor",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Bom Pastor"
+      ],
+      "longitude": -56.07378,
+      "latitude": -9.84726,
+      "votos": {
+        "22": 2231,
+        "80": 2,
+        "55": 45,
+        "14": 46,
+        "70": 72,
+        "13": 784,
+        "30": 4,
+        "95": 32,
+        "96": 63,
+        "27": 3
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1406",
+      "nome_local": "ESCOLA ESTADUAL JARDIM UNIVERSITÁRIO",
+      "bairro_tse": "JARDIM UNIVERSITARIO",
+      "bairro_mapa": "Residencial Universitário",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Residencial Universitário"
+      ],
+      "longitude": -56.09844763,
+      "latitude": -9.90418281,
+      "votos": {
+        "22": 1491,
+        "55": 31,
+        "14": 44,
+        "70": 27,
+        "30": 2,
+        "13": 559,
+        "95": 21,
+        "96": 49
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1031",
+      "nome_local": "ESCOLA ESTADUAL MILITAR DOM PEDRO II",
+      "bairro_tse": "CENTRO",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.08517302,
+      "latitude": -9.86761977,
+      "votos": {
+        "22": 1849,
+        "55": 25,
+        "14": 44,
+        "29": 1,
+        "70": 42,
+        "95": 14,
+        "13": 508,
+        "30": 5,
+        "96": 38,
+        "27": 1
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1295",
+      "nome_local": "ESCOLA MUNICIPAL VICENTE FRANCISCO DA SILVA",
+      "bairro_tse": "SAO JOSE OPERARIO",
+      "bairro_mapa": "São José Operário",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "São José Operário"
+      ],
+      "longitude": -56.09089,
+      "latitude": -9.85939,
+      "votos": {
+        "22": 634,
+        "55": 17,
+        "14": 15,
+        "70": 20,
+        "13": 225,
+        "35": 1,
+        "95": 10,
+        "96": 17
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1074",
+      "nome_local": "ESCOLA ESTADUAL DE 1 GRAU RUI BARBOSA",
+      "bairro_tse": "BAIRRO CIDADE ALTA",
+      "bairro_mapa": "Cidade Alta",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Cidade Alta"
+      ],
+      "longitude": -56.07172,
+      "latitude": -9.85342,
+      "votos": {
+        "22": 1911,
+        "80": 1,
+        "55": 22,
+        "14": 45,
+        "70": 58,
+        "95": 18,
+        "13": 694,
+        "30": 2,
+        "96": 51,
+        "27": 1
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1023",
+      "nome_local": "ESCOLA PRESBITERIANA DE PRE E 1 GRAU",
+      "bairro_tse": "CENTRO",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.08683765,
+      "latitude": -9.88467603,
+      "votos": {
+        "22": 1983,
+        "55": 26,
+        "14": 33,
+        "70": 27,
+        "13": 253,
+        "30": 4,
+        "95": 14,
+        "96": 18,
+        "27": 1
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1171",
+      "nome_local": "ESCOLA ESTADUAL OURO VERDE",
+      "bairro_tse": "ZONA RURAL",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.25370056,
+      "latitude": -10.11597056,
+      "votos": {
+        "22": 507,
+        "80": 1,
+        "55": 7,
+        "14": 2,
+        "13": 131,
+        "70": 9,
+        "95": 12,
+        "96": 8
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1104",
+      "nome_local": "ESCOLA ESTADUAL DE I GRAU DR. LUDOVICO DA RIVA NETO",
+      "bairro_tse": "VILA NOVA 1",
+      "bairro_mapa": "Vila Nova",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Vila Nova"
+      ],
+      "longitude": -56.08166,
+      "latitude": -9.83456,
+      "votos": {
+        "22": 813,
+        "80": 2,
+        "55": 13,
+        "14": 14,
+        "70": 25,
+        "13": 640,
+        "95": 21,
+        "96": 38,
+        "27": 1
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1040",
+      "nome_local": "ESCOLA ESTADUAL DE I GRAU MARINES DE SA TEIXEIRA",
+      "bairro_tse": "CENTRO",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.08677346,
+      "latitude": -9.88539978,
+      "votos": {
+        "22": 2252,
+        "55": 26,
+        "14": 53,
+        "16": 1,
+        "70": 62,
+        "95": 15,
+        "13": 414,
+        "30": 3,
+        "96": 37,
+        "27": 2
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1090",
+      "nome_local": "ESCOLA MUNICIPAL VILMA DIAS DA SILVA DE FREITAS",
+      "bairro_tse": "SETOR INDUSTRIAL",
+      "bairro_mapa": "Bom Jesus",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Bom Jesus"
+      ],
+      "longitude": -56.07789664,
+      "latitude": -9.860871,
+      "votos": {
+        "22": 1013,
+        "80": 2,
+        "55": 22,
+        "14": 23,
+        "70": 20,
+        "13": 385,
+        "95": 15,
+        "96": 27,
+        "27": 1
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1309",
+      "nome_local": "ESCOLA MUNICIPAL DE I GRAU NILO PROCOPIO PECANHA",
+      "bairro_tse": "JARDIM PRIMAVERA",
+      "bairro_mapa": "Jardim Primavera",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim Primavera"
+      ],
+      "longitude": -56.08667,
+      "latitude": -9.91247,
+      "votos": {
+        "22": 750,
+        "21": 1,
+        "55": 12,
+        "14": 19,
+        "13": 321,
+        "70": 10,
+        "95": 10,
+        "96": 21
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1279",
+      "nome_local": "ESCOLA ESTADUAL DOM BOSCO",
+      "bairro_tse": "JARDIM DAS ARARAS",
+      "bairro_mapa": "Jardim das Araras",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim das Araras"
+      ],
+      "longitude": -56.07457,
+      "latitude": -9.89599,
+      "votos": {
+        "22": 1065,
+        "28": 1,
+        "55": 9,
+        "14": 17,
+        "70": 10,
+        "30": 3,
+        "13": 247,
+        "35": 1,
+        "95": 9,
+        "96": 19
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1015",
+      "nome_local": "COLÉGIO ALTA FLORESTA",
+      "bairro_tse": "CENTRO",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.07708,
+      "latitude": -9.88145,
+      "votos": {
+        "22": 593,
+        "55": 4,
+        "14": 5,
+        "29": 1,
+        "13": 112,
+        "30": 1,
+        "70": 9,
+        "95": 4,
+        "96": 4,
+        "27": 1
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1180",
+      "nome_local": "EECM CECILIA MEIRELES",
+      "bairro_tse": "CIDADE BELA",
+      "bairro_mapa": "Cidade Bela",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim Imperial"
+      ],
+      "longitude": -56.07958,
+      "latitude": -9.84974,
+      "votos": {
+        "22": 1377,
+        "80": 4,
+        "55": 27,
+        "21": 1,
+        "14": 28,
+        "70": 40,
+        "95": 23,
+        "30": 3,
+        "13": 586,
+        "96": 44
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1163",
+      "nome_local": "ESCOLA ESTADUAL DE 01 GRAU 19 DE MAIO",
+      "bairro_tse": "BOA NOVA 1",
+      "bairro_mapa": "Boa Nova",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Boa Nova"
+      ],
+      "longitude": -56.06657,
+      "latitude": -9.87725,
+      "votos": {
+        "22": 1530,
+        "80": 2,
+        "55": 15,
+        "14": 25,
+        "29": 2,
+        "70": 39,
+        "13": 487,
+        "30": 3,
+        "95": 22,
+        "96": 27,
+        "27": 1
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1376",
+      "nome_local": "ESCOLA MUNICIPAL SONIA MARIA FALEIRO",
+      "bairro_tse": "BOA ESPERANCA",
+      "bairro_mapa": "Boa Esperança",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Boa Esperança"
+      ],
+      "longitude": -56.07511,
+      "latitude": -9.83796,
+      "votos": {
+        "22": 659,
+        "55": 18,
+        "14": 7,
+        "70": 24,
+        "95": 15,
+        "13": 362,
+        "30": 1,
+        "96": 34
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1260",
+      "nome_local": "ESCOLA ESTADUAL BOA ESPERANÇA - COMUNIDADE OUROLANDA",
+      "bairro_tse": "ZONA RURAL",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.42541,
+      "latitude": -10.3718,
+      "votos": {
+        "22": 231,
+        "55": 6,
+        "70": 3,
+        "13": 132,
+        "95": 4,
+        "96": 8
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1333",
+      "nome_local": "ESCOLA MUNICIPAL CASTELO BRANCO",
+      "bairro_tse": "ZONA RURAL",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.28236,
+      "latitude": -9.67209,
+      "votos": {
+        "22": 154,
+        "55": 4,
+        "13": 37,
+        "70": 2,
+        "95": 1,
+        "96": 1
+      }
+    },
+    {
+      "zona": "24",
+      "local": "1244",
+      "nome_local": "ESCOLA MUNICIPAL  ALUIZIO DE AZEVEDO - COMUNIDADE RIO VERDE",
+      "bairro_tse": "ZONA RURAL",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -56.25567,
+      "latitude": -10.15482,
+      "votos": {}
+    }
+  ],
+  "votos_por_poligono": {
+    "Jardim Panorama": {
+      "22": 934,
+      "55": 15,
+      "14": 10,
+      "70": 24,
+      "13": 356,
+      "95": 20,
+      "96": 25
+    },
+    "Bom Pastor": {
+      "22": 2231,
+      "80": 2,
+      "55": 45,
+      "14": 46,
+      "70": 72,
+      "13": 784,
+      "30": 4,
+      "95": 32,
+      "96": 63,
+      "27": 3
+    },
+    "Residencial Universitário": {
+      "22": 1491,
+      "55": 31,
+      "14": 44,
+      "70": 27,
+      "30": 2,
+      "13": 559,
+      "95": 21,
+      "96": 49
+    },
+    "São José Operário": {
+      "22": 634,
+      "55": 17,
+      "14": 15,
+      "70": 20,
+      "13": 225,
+      "35": 1,
+      "95": 10,
+      "96": 17
+    },
+    "Cidade Alta": {
+      "22": 1911,
+      "80": 1,
+      "55": 22,
+      "14": 45,
+      "70": 58,
+      "95": 18,
+      "13": 694,
+      "30": 2,
+      "96": 51,
+      "27": 1
+    },
+    "Vila Nova": {
+      "22": 813,
+      "80": 2,
+      "55": 13,
+      "14": 14,
+      "70": 25,
+      "13": 640,
+      "95": 21,
+      "96": 38,
+      "27": 1
+    },
+    "Bom Jesus": {
+      "22": 1013,
+      "80": 2,
+      "55": 22,
+      "14": 23,
+      "70": 20,
+      "13": 385,
+      "95": 15,
+      "96": 27,
+      "27": 1
+    },
+    "Jardim Primavera": {
+      "22": 750,
+      "21": 1,
+      "55": 12,
+      "14": 19,
+      "13": 321,
+      "70": 10,
+      "95": 10,
+      "96": 21
+    },
+    "Jardim das Araras": {
+      "22": 1065,
+      "28": 1,
+      "55": 9,
+      "14": 17,
+      "70": 10,
+      "30": 3,
+      "13": 247,
+      "35": 1,
+      "95": 9,
+      "96": 19
+    },
+    "Cidade Bela": {
+      "22": 1377,
+      "80": 4,
+      "55": 27,
+      "21": 1,
+      "14": 28,
+      "70": 40,
+      "95": 23,
+      "30": 3,
+      "13": 586,
+      "96": 44
+    },
+    "Boa Nova": {
+      "22": 1530,
+      "80": 2,
+      "55": 15,
+      "14": 25,
+      "29": 2,
+      "70": 39,
+      "13": 487,
+      "30": 3,
+      "95": 22,
+      "96": 27,
+      "27": 1
+    },
+    "Boa Esperança": {
+      "22": 659,
+      "55": 18,
+      "14": 7,
+      "70": 24,
+      "95": 15,
+      "13": 362,
+      "30": 1,
+      "96": 34
+    }
+  }
+}

@@ -1,0 +1,25 @@
+LEGENDA
+
+17.568 votos para Lula. Mas em quantos bairros de Sinop ele ficou na frente de Flávio? 👀
+
+Abri o mapa e fui conferir os votos nas escolas da cidade. Você teria acertado a resposta?
+
+📍 E onde você votou?
+Comente SINOP para receber no direct o relatório completo, com os votos por bairro e por escola.
+
+Manda pra alguém de Sinop conferir também.
+
+Fonte: TSE · Presidente · 1º turno de 2026. Votos agrupados pelo bairro cadastrado de cada local de votação.
+
+#Sinop #MatoGrosso #Eleições2026
+
+MÚSICA
+
+Mombasa — Hans Zimmer (versão original de Inception).
+Buscar no catálogo do Instagram; disponibilidade na conta ainda não verificada.
+Usar um trecho com percussão já entrando, volume inicial de 8–12% e voz a 100%; ajustar ouvindo no celular.
+Referência oficial: https://www.youtube.com/watch?v=kn_wEjhla-4
+
+AUTOMAÇÃO
+
+Fluxo SINOP criado: resposta pública + direct com Ir para o perfil / Já segui + verificação de seguidor + PDF. A ativação ainda depende da confirmação explícita solicitada, após bloqueio da revisão automática.

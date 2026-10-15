@@ -1,0 +1,333 @@
+{
+  "locais": [
+    {
+      "zona": "60",
+      "local": "1015",
+      "nome_local": "ESCOLA ESTADUAL MADRE TARCILA",
+      "bairro_tse": "CENTRO",
+      "bairro_mapa": "Centro",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Centro"
+      ],
+      "longitude": -57.88767833,
+      "latitude": -13.66057834,
+      "votos": {
+        "96": 49,
+        "27": 3,
+        "70": 59,
+        "95": 17,
+        "55": 34,
+        "21": 1,
+        "80": 1,
+        "22": 2824,
+        "13": 526,
+        "30": 5,
+        "14": 69,
+        "16": 2
+      }
+    },
+    {
+      "zona": "60",
+      "local": "1040",
+      "nome_local": "E.M.P.G. PROFESSOR ANTÔNIO PEREIRA",
+      "bairro_tse": "BOA ESPERANÇA",
+      "bairro_mapa": "Boa Esperança",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Boa Esperança"
+      ],
+      "longitude": -57.89666212,
+      "latitude": -13.66588932,
+      "votos": {
+        "96": 48,
+        "27": 1,
+        "70": 30,
+        "95": 40,
+        "55": 38,
+        "80": 2,
+        "22": 1272,
+        "13": 784,
+        "35": 1,
+        "14": 28
+      }
+    },
+    {
+      "zona": "60",
+      "local": "1104",
+      "nome_local": "ESCOLA ESTADUAL PADRE ARLINDO IGNÁCIO DE OLIVEIRA",
+      "bairro_tse": "JARDIM DAS PALMEIRAS",
+      "bairro_mapa": "Jardim das Palmeiras",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim das Palmeiras"
+      ],
+      "longitude": -57.90509872,
+      "latitude": -13.65472325,
+      "votos": {
+        "96": 24,
+        "27": 1,
+        "70": 49,
+        "95": 25,
+        "55": 21,
+        "80": 1,
+        "22": 1474,
+        "13": 510,
+        "30": 1,
+        "14": 38
+      }
+    },
+    {
+      "zona": "60",
+      "local": "1066",
+      "nome_local": "ESCOLA MUNICIPAL JARDIM DAS PALMEIRAS",
+      "bairro_tse": "JARDIM DAS PALMEIRAS",
+      "bairro_mapa": "Jardim das Palmeiras",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim das Palmeiras"
+      ],
+      "longitude": -57.91252423,
+      "latitude": -13.64867176,
+      "votos": {
+        "96": 104,
+        "27": 6,
+        "70": 92,
+        "95": 87,
+        "55": 60,
+        "21": 1,
+        "80": 2,
+        "22": 3032,
+        "13": 1609,
+        "30": 7,
+        "14": 73
+      }
+    },
+    {
+      "zona": "60",
+      "local": "1147",
+      "nome_local": "ESCOLA MUNICIPAL JOSÉ DELFINO CAMPOS DE SOUSA",
+      "bairro_tse": "ALVORADA",
+      "bairro_mapa": "Alvorada",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Alvorada"
+      ],
+      "longitude": -57.89008012,
+      "latitude": -13.64550349,
+      "votos": {
+        "27": 1,
+        "96": 9,
+        "70": 15,
+        "95": 7,
+        "55": 10,
+        "22": 1026,
+        "30": 2,
+        "13": 176,
+        "14": 27,
+        "16": 1
+      }
+    },
+    {
+      "zona": "60",
+      "local": "1031",
+      "nome_local": "ESCOLA ESTADUAL MARECHAL CÂNDIDO RONDON",
+      "bairro_tse": "DISTRITO MARECHAL RONDON",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -58.03550401,
+      "latitude": -13.29763668,
+      "votos": {
+        "96": 13,
+        "70": 5,
+        "95": 6,
+        "55": 8,
+        "22": 513,
+        "30": 3,
+        "13": 195,
+        "14": 7
+      }
+    },
+    {
+      "zona": "60",
+      "local": "1090",
+      "nome_local": "ESCOLA MUNICIPAL NOSSA SENHORA APARECIDA",
+      "bairro_tse": "NOSSA SENHORA APARECIDA",
+      "bairro_mapa": "Nossa Senhora Aparecida",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Centro"
+      ],
+      "longitude": -57.88794298,
+      "latitude": -13.653696,
+      "votos": {
+        "96": 33,
+        "70": 42,
+        "95": 22,
+        "55": 24,
+        "80": 4,
+        "22": 2661,
+        "35": 1,
+        "13": 577,
+        "30": 3,
+        "14": 46,
+        "16": 1
+      }
+    },
+    {
+      "zona": "60",
+      "local": "1058",
+      "nome_local": "ESCOLA MUNICIPAL 4 DE JULHO",
+      "bairro_tse": "NOSSA SENHORA APARECIDA",
+      "bairro_mapa": "Nossa Senhora Aparecida",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Centro"
+      ],
+      "longitude": -57.88611523,
+      "latitude": -13.66026762,
+      "votos": {
+        "96": 44,
+        "70": 66,
+        "95": 31,
+        "55": 33,
+        "22": 2557,
+        "30": 10,
+        "13": 577,
+        "14": 28
+      }
+    },
+    {
+      "zona": "60",
+      "local": "1139",
+      "nome_local": "ESCOLA MUNICIPAL AMÉLIA LENA FEDRIZZI",
+      "bairro_tse": "JARDIM DAS PALMEIRAS",
+      "bairro_mapa": "Jardim das Palmeiras",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim das Palmeiras"
+      ],
+      "longitude": -57.91612756,
+      "latitude": -13.64214147,
+      "votos": {
+        "96": 18,
+        "70": 30,
+        "95": 15,
+        "55": 12,
+        "22": 735,
+        "13": 425,
+        "30": 1,
+        "14": 23
+      }
+    },
+    {
+      "zona": "60",
+      "local": "1023",
+      "nome_local": "ESCOLA ESTADUAL ARGEU AUGUSTO DE MORAIS",
+      "bairro_tse": "DISTRITO ITAMARATI NORTE",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -57.96535555,
+      "latitude": -14.31992195,
+      "votos": {
+        "27": 2,
+        "96": 15,
+        "70": 12,
+        "95": 5,
+        "55": 7,
+        "21": 1,
+        "80": 1,
+        "22": 379,
+        "30": 1,
+        "13": 128,
+        "14": 17
+      }
+    },
+    {
+      "zona": "60",
+      "local": "1112",
+      "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO INDÍGENA BACAVAL",
+      "bairro_tse": "ZONA RURAL",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -58.28818106,
+      "latitude": -13.63979662,
+      "votos": {
+        "70": 7,
+        "95": 1,
+        "22": 74,
+        "13": 22,
+        "14": 1
+      }
+    }
+  ],
+  "votos_por_poligono": {
+    "Centro": {
+      "96": 49,
+      "27": 3,
+      "70": 59,
+      "95": 17,
+      "55": 34,
+      "21": 1,
+      "80": 1,
+      "22": 2824,
+      "13": 526,
+      "30": 5,
+      "14": 69,
+      "16": 2
+    },
+    "Boa Esperança": {
+      "96": 48,
+      "27": 1,
+      "70": 30,
+      "95": 40,
+      "55": 38,
+      "80": 2,
+      "22": 1272,
+      "13": 784,
+      "35": 1,
+      "14": 28
+    },
+    "Jardim das Palmeiras": {
+      "96": 146,
+      "27": 7,
+      "70": 171,
+      "95": 127,
+      "55": 93,
+      "80": 3,
+      "22": 5241,
+      "13": 2544,
+      "30": 9,
+      "14": 134,
+      "21": 1
+    },
+    "Alvorada": {
+      "27": 1,
+      "96": 9,
+      "70": 15,
+      "95": 7,
+      "55": 10,
+      "22": 1026,
+      "30": 2,
+      "13": 176,
+      "14": 27,
+      "16": 1
+    },
+    "Nossa Senhora Aparecida": {
+      "96": 77,
+      "70": 108,
+      "95": 53,
+      "55": 57,
+      "80": 4,
+      "22": 5218,
+      "35": 1,
+      "13": 1154,
+      "30": 13,
+      "14": 74,
+      "16": 1
+    }
+  }
+}

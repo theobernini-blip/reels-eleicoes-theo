@@ -1,0 +1,62 @@
+[
+  {
+    "id": "reel-eleicoes-2026-motion",
+    "path": "projetos/reel-eleicoes-2026-motion",
+    "kind": "estado"
+  },
+  {
+    "id": "reel-mato-grosso-2026",
+    "path": "projetos/reel-mato-grosso-2026",
+    "kind": "estado"
+  },
+  {
+    "id": "reel-cuiaba-bairros-2026",
+    "path": "projetos/reel-cuiaba-bairros-2026",
+    "kind": "cidade"
+  },
+  {
+    "id": "reel-varzea-grande-bairros-2026",
+    "path": "projetos/reel-varzea-grande-bairros-2026",
+    "kind": "cidade"
+  },
+  {
+    "id": "reel-sinop-bairros-2026",
+    "path": "projetos/reel-sinop-bairros-2026",
+    "kind": "cidade"
+  },
+  {
+    "id": "reel-lucas-bairros-2026",
+    "path": "projetos/reel-lucas-bairros-2026",
+    "kind": "cidade"
+  },
+  {
+    "id": "reel-rondonopolis-bairros-2026",
+    "path": "projetos/reel-rondonopolis-bairros-2026",
+    "kind": "cidade"
+  },
+  {
+    "id": "reel-nova-mutum-bairros-2026",
+    "path": "projetos/reel-nova-mutum-bairros-2026",
+    "kind": "cidade"
+  },
+  {
+    "id": "reel-sorriso-bairros-2026",
+    "path": "projetos/reel-sorriso-bairros-2026",
+    "kind": "cidade"
+  },
+  {
+    "id": "reel-campo-novo-bairros-2026",
+    "path": "projetos/reel-campo-novo-bairros-2026",
+    "kind": "cidade"
+  },
+  {
+    "id": "reel-alta-floresta-darlan-motion",
+    "path": "projetos/reel-alta-floresta-darlan-motion",
+    "kind": "cliente"
+  },
+  {
+    "id": "reel-pivetta-2026",
+    "path": "projetos/reel-pivetta-2026",
+    "kind": "retrato"
+  }
+]

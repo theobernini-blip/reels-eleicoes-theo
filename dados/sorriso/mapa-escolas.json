@@ -1,0 +1,721 @@
+{
+  "locais": [
+    {
+      "zona": "43",
+      "local": "1376",
+      "nome_local": "ESCOLA MUNICIPAL CÍVICO-MILITAR GERSON BICEGO",
+      "bairro_tse": "VILA BELA",
+      "bairro_mapa": "Residencial Vila Bela",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Residencial Vila Bela"
+      ],
+      "longitude": -55.7108618,
+      "latitude": -12.5674904,
+      "votos": {
+        "96": 43,
+        "95": 24,
+        "13": 870,
+        "70": 47,
+        "30": 1,
+        "35": 1,
+        "14": 42,
+        "55": 23,
+        "22": 1627
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1333",
+      "nome_local": "ESCOLA MUNICIPAL LEÔNCIO PINHEIRO DA SILVA",
+      "bairro_tse": "BENJAMIM RAISER",
+      "bairro_mapa": "Benjamim Raiser",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Benjamim Raiser"
+      ],
+      "longitude": -55.70946022,
+      "latitude": -12.54054758,
+      "votos": {
+        "96": 19,
+        "27": 1,
+        "95": 9,
+        "30": 1,
+        "13": 224,
+        "70": 31,
+        "14": 28,
+        "55": 8,
+        "21": 1,
+        "22": 1110,
+        "80": 1,
+        "29": 1
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1341",
+      "nome_local": "ESCOLA MUNICIPAL PAPA JOÃO PAULO II",
+      "bairro_tse": "INDUSTRIAL I",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.71667826,
+      "latitude": -12.56238761,
+      "votos": {
+        "96": 22,
+        "95": 12,
+        "13": 382,
+        "70": 31,
+        "16": 2,
+        "14": 18,
+        "55": 16,
+        "21": 1,
+        "22": 988
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1392",
+      "nome_local": "ESCOLA MUNICIPAL VALTER LEITE PEREIRA",
+      "bairro_tse": "SÃO MATEUS",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.70719711,
+      "latitude": -12.55646952,
+      "votos": {
+        "96": 53,
+        "27": 3,
+        "70": 54,
+        "95": 33,
+        "13": 1082,
+        "30": 1,
+        "14": 47,
+        "55": 20,
+        "22": 1696,
+        "80": 1
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1252",
+      "nome_local": "ESCOLA MUNICIPAL LEONEL DE MOURA BRIZOLA",
+      "bairro_tse": "JARDIM DAS AMÉRICAS",
+      "bairro_mapa": "Jardim das Américas",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim das Américas"
+      ],
+      "longitude": -55.7282077,
+      "latitude": -12.55597144,
+      "votos": {
+        "96": 20,
+        "27": 2,
+        "70": 29,
+        "95": 12,
+        "13": 281,
+        "14": 36,
+        "55": 14,
+        "22": 1474,
+        "80": 3,
+        "29": 1
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1317",
+      "nome_local": "ESCOLA MUNICIPAL PROFESSORA IVETE LOURDES ARENHARDT",
+      "bairro_tse": "CENTRO NORTE",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.72423173,
+      "latitude": -12.53958878,
+      "votos": {
+        "96": 48,
+        "27": 1,
+        "70": 69,
+        "95": 29,
+        "13": 520,
+        "30": 4,
+        "14": 76,
+        "16": 3,
+        "22": 4778,
+        "55": 34,
+        "80": 4
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1031",
+      "nome_local": "ESCOLA ESTADUAL MÁRIO SPINELLI",
+      "bairro_tse": "MORADA DO SOL",
+      "bairro_mapa": "Morada do Sol",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Morada do Sol"
+      ],
+      "longitude": -55.730092,
+      "latitude": -12.55176336,
+      "votos": {
+        "96": 62,
+        "27": 1,
+        "95": 37,
+        "30": 8,
+        "13": 590,
+        "70": 74,
+        "14": 112,
+        "16": 1,
+        "55": 30,
+        "21": 1,
+        "22": 4883,
+        "80": 3
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1406",
+      "nome_local": "ESCOLA MUNICIPAL PRIMAVERA",
+      "bairro_tse": "DISTRITO PRIMAVERA",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.83380414,
+      "latitude": -12.85864204,
+      "votos": {
+        "96": 15,
+        "95": 7,
+        "70": 24,
+        "13": 268,
+        "55": 8,
+        "22": 613,
+        "14": 8
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1015",
+      "nome_local": "ESCOLA MUNICIPAL AURELIANO PEREIRA DA SILVA",
+      "bairro_tse": "BELA VISTA",
+      "bairro_mapa": "Bela Vista",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Bela Vista"
+      ],
+      "longitude": -55.73435762,
+      "latitude": -12.54298248,
+      "votos": {
+        "96": 45,
+        "27": 1,
+        "95": 23,
+        "13": 500,
+        "30": 6,
+        "70": 59,
+        "14": 67,
+        "22": 3315,
+        "55": 31,
+        "80": 1
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1384",
+      "nome_local": "ESCOLA MUNICIPAL FLOR DO AMANHÃ",
+      "bairro_tse": "INDUSTRIAL II",
+      "bairro_mapa": "Boa Esperança",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Boa Esperança"
+      ],
+      "longitude": -55.70211481,
+      "latitude": -12.54952077,
+      "votos": {
+        "96": 21,
+        "95": 19,
+        "70": 35,
+        "13": 516,
+        "14": 19,
+        "55": 12,
+        "22": 780,
+        "80": 1,
+        "16": 1
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1481",
+      "nome_local": "ESCOLA ESTADUAL CÍVICO-MILITAR  ARÃO GOMES BEZERRA",
+      "bairro_tse": "RESIDENCIAL MARIO RAITER",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.7067514,
+      "latitude": -12.58315228,
+      "votos": {
+        "96": 32,
+        "70": 34,
+        "95": 27,
+        "13": 505,
+        "21": 1,
+        "55": 8,
+        "22": 988,
+        "14": 27
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1309",
+      "nome_local": "ESCOLA ESTADUAL CÍVICO-MILITAR ARLETE MARIA CAPPELLARI",
+      "bairro_tse": "ROTA DO SOL",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.7438059,
+      "latitude": -12.5788212,
+      "votos": {
+        "96": 38,
+        "27": 1,
+        "95": 36,
+        "13": 724,
+        "70": 84,
+        "14": 75,
+        "22": 2761,
+        "55": 23,
+        "80": 3
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1201",
+      "nome_local": "ESCOLA MUNICIPAL JARDIM BELA VISTA",
+      "bairro_tse": "JARDIM BELA VISTA",
+      "bairro_mapa": "Jardim Bela Vista",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim Bela Vista"
+      ],
+      "longitude": -55.74247464,
+      "latitude": -12.5387024,
+      "votos": {
+        "96": 68,
+        "27": 1,
+        "95": 31,
+        "13": 853,
+        "70": 87,
+        "30": 1,
+        "14": 78,
+        "55": 42,
+        "22": 2964
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1457",
+      "nome_local": "CENTRO MUNICIPAL DE EDUCAÇÃO BÁSICA SORRISO",
+      "bairro_tse": "JARDIM AURORA",
+      "bairro_mapa": "Jardim Aurora",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [],
+      "longitude": -55.74389117,
+      "latitude": -12.54708222,
+      "votos": {
+        "96": 30,
+        "95": 17,
+        "13": 350,
+        "70": 25,
+        "30": 1,
+        "14": 33,
+        "55": 9,
+        "22": 972,
+        "80": 1
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1210",
+      "nome_local": "ESCOLA MUNICIPAL GENTE SABIDA",
+      "bairro_tse": "FLOR DO CERRADO",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.75375388,
+      "latitude": -12.54632109,
+      "votos": {
+        "96": 35,
+        "95": 28,
+        "70": 56,
+        "13": 664,
+        "30": 1,
+        "14": 53,
+        "22": 1522,
+        "55": 31,
+        "28": 2,
+        "80": 1
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1368",
+      "nome_local": "ESCOLA MUNICIPAL SÃO DOMINGOS",
+      "bairro_tse": "MORADA DO BOSQUE",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.70129444,
+      "latitude": -12.55700246,
+      "votos": {
+        "96": 31,
+        "27": 1,
+        "95": 31,
+        "70": 53,
+        "13": 966,
+        "30": 3,
+        "14": 41,
+        "55": 21,
+        "21": 1,
+        "22": 1315,
+        "80": 1
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1414",
+      "nome_local": "ESCOLA ESTADUAL IGNÁCIO SCHEVINSKI FILHO",
+      "bairro_tse": "INDUSTRIAL I",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.71046742,
+      "latitude": -12.55960442,
+      "votos": {
+        "96": 27,
+        "95": 14,
+        "13": 584,
+        "70": 56,
+        "30": 2,
+        "14": 50,
+        "55": 17,
+        "22": 1873,
+        "80": 1
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1147",
+      "nome_local": "ESCOLA MUNICIPAL RUI BARBOSA",
+      "bairro_tse": "MORADA DO SOL",
+      "bairro_mapa": "Morada do Sol",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Morada do Sol"
+      ],
+      "longitude": -55.73317297,
+      "latitude": -12.55512444,
+      "votos": {
+        "96": 36,
+        "70": 67,
+        "95": 24,
+        "13": 432,
+        "30": 3,
+        "14": 45,
+        "55": 25,
+        "22": 2575,
+        "80": 2
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1040",
+      "nome_local": "ESCOLA ESTADUAL CÍVICO-MILITAR 13 DE MAIO",
+      "bairro_tse": "CENTRO NORTE",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.72792111,
+      "latitude": -12.54377262,
+      "votos": {
+        "96": 22,
+        "95": 24,
+        "70": 60,
+        "13": 437,
+        "30": 4,
+        "14": 88,
+        "22": 3489,
+        "55": 23,
+        "80": 1
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1180",
+      "nome_local": "ESCOLA MUNICIPAL JARDIM AMAZÔNIA",
+      "bairro_tse": "JARDIM AMAZÔNIA",
+      "bairro_mapa": "Jardim Amazônia",
+      "criterio": "nome cadastrado",
+      "bairro_por_coordenada": [
+        "Jardim Amazônia"
+      ],
+      "longitude": -55.73456562,
+      "latitude": -12.5611878,
+      "votos": {
+        "96": 50,
+        "27": 2,
+        "95": 20,
+        "13": 321,
+        "70": 22,
+        "14": 20,
+        "22": 1095,
+        "55": 10,
+        "80": 1,
+        "28": 1
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1295",
+      "nome_local": "ESCOLA ESTADUAL JOSÉ DOMINGOS FRAGA",
+      "bairro_tse": "VILLAGE",
+      "bairro_mapa": "Residencial Village",
+      "criterio": "posição do local dentro do polígono IBGE",
+      "bairro_por_coordenada": [
+        "Residencial Village"
+      ],
+      "longitude": -55.74225272,
+      "latitude": -12.53387815,
+      "votos": {
+        "96": 29,
+        "70": 33,
+        "95": 11,
+        "30": 2,
+        "13": 320,
+        "14": 56,
+        "22": 1983,
+        "55": 12,
+        "80": 3,
+        "16": 2
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1325",
+      "nome_local": "ESCOLA MUNICIPAL CARAVAGIO",
+      "bairro_tse": "DISTRITO CARAVAGIO",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.42815738,
+      "latitude": -12.97765175,
+      "votos": {
+        "96": 1,
+        "95": 1,
+        "13": 15,
+        "22": 168,
+        "55": 1,
+        "14": 5
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1449",
+      "nome_local": "ESCOLA MUNICIPAL PROF. MATILDE LUIZA ZANATTA GOMES",
+      "bairro_tse": "ASSENTAMENTO JONAS PINHEIRO",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.5557635,
+      "latitude": -12.41378462,
+      "votos": {
+        "96": 7,
+        "13": 86,
+        "70": 5,
+        "95": 1,
+        "14": 3,
+        "55": 2,
+        "22": 130
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1473",
+      "nome_local": "ESCOLA ESTADUAL MILITAR TIRADENTES",
+      "bairro_tse": "PORTAL KAIABI",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.72967622,
+      "latitude": -12.56760938,
+      "votos": {
+        "96": 1,
+        "95": 2,
+        "13": 9,
+        "22": 116,
+        "14": 1
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1465",
+      "nome_local": "FACULDADE ATENAS",
+      "bairro_tse": "ROTA DO SOL",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.75230918,
+      "latitude": -12.58652436,
+      "votos": {
+        "96": 8,
+        "70": 11,
+        "95": 7,
+        "30": 2,
+        "13": 123,
+        "14": 13,
+        "55": 6,
+        "22": 490
+      }
+    },
+    {
+      "zona": "43",
+      "local": "1422",
+      "nome_local": "ESCOLA MUNICIPAL FRANCISCO DONIZETE DE LIMA",
+      "bairro_tse": "NOVA ALIANÇA",
+      "bairro_mapa": null,
+      "criterio": "sem correspondência",
+      "bairro_por_coordenada": [],
+      "longitude": -55.70826059,
+      "latitude": -12.56949149,
+      "votos": {
+        "96": 3,
+        "27": 3,
+        "13": 207,
+        "70": 3,
+        "95": 7,
+        "14": 15,
+        "55": 5,
+        "21": 1,
+        "22": 285
+      }
+    }
+  ],
+  "votos_por_poligono": {
+    "Residencial Vila Bela": {
+      "96": 43,
+      "95": 24,
+      "13": 870,
+      "70": 47,
+      "30": 1,
+      "35": 1,
+      "14": 42,
+      "55": 23,
+      "22": 1627
+    },
+    "Benjamim Raiser": {
+      "96": 19,
+      "27": 1,
+      "95": 9,
+      "30": 1,
+      "13": 224,
+      "70": 31,
+      "14": 28,
+      "55": 8,
+      "21": 1,
+      "22": 1110,
+      "80": 1,
+      "29": 1
+    },
+    "Jardim das Américas": {
+      "96": 20,
+      "27": 2,
+      "70": 29,
+      "95": 12,
+      "13": 281,
+      "14": 36,
+      "55": 14,
+      "22": 1474,
+      "80": 3,
+      "29": 1
+    },
+    "Morada do Sol": {
+      "96": 98,
+      "27": 1,
+      "95": 61,
+      "30": 11,
+      "13": 1022,
+      "70": 141,
+      "14": 157,
+      "16": 1,
+      "55": 55,
+      "21": 1,
+      "22": 7458,
+      "80": 5
+    },
+    "Bela Vista": {
+      "96": 45,
+      "27": 1,
+      "95": 23,
+      "13": 500,
+      "30": 6,
+      "70": 59,
+      "14": 67,
+      "22": 3315,
+      "55": 31,
+      "80": 1
+    },
+    "Boa Esperança": {
+      "96": 21,
+      "95": 19,
+      "70": 35,
+      "13": 516,
+      "14": 19,
+      "55": 12,
+      "22": 780,
+      "80": 1,
+      "16": 1
+    },
+    "Jardim Bela Vista": {
+      "96": 68,
+      "27": 1,
+      "95": 31,
+      "13": 853,
+      "70": 87,
+      "30": 1,
+      "14": 78,
+      "55": 42,
+      "22": 2964
+    },
+    "Jardim Aurora": {
+      "96": 30,
+      "95": 17,
+      "13": 350,
+      "70": 25,
+      "30": 1,
+      "14": 33,
+      "55": 9,
+      "22": 972,
+      "80": 1
+    },
+    "Jardim Amazônia": {
+      "96": 50,
+      "27": 2,
+      "95": 20,
+      "13": 321,
+      "70": 22,
+      "14": 20,
+      "22": 1095,
+      "55": 10,
+      "80": 1,
+      "28": 1
+    },
+    "Residencial Village": {
+      "96": 29,
+      "70": 33,
+      "95": 11,
+      "30": 2,
+      "13": 320,
+      "14": 56,
+      "22": 1983,
+      "55": 12,
+      "80": 3,
+      "16": 2
+    }
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reels Eleições Théo"
+  short_description: "Mapas eleitorais, motion, voz e relatórios"
+  default_prompt: "Use $reels-eleicoes-theo com os modelos deste projeto e meu próprio perfil."

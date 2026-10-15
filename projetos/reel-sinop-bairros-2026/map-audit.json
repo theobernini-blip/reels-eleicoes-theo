@@ -1,0 +1,196 @@
+{
+  "locais_conferidos": 41,
+  "locais_com_coord_valida": 40,
+  "locais_visiveis_no_recorte": 34,
+  "invalidos": [
+    "UBS - GLEBA MERCEDES - NÚCLEO CAMPOS NOVOS"
+  ],
+  "targets": {
+    "primavera": [
+      [
+        557.236749999918,
+        109.1962186712379,
+        "map-pin-0",
+        {
+          "zona": "22",
+          "local": "1619",
+          "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA SADAO WATANABE",
+          "bairro_tse": "JARDIM PRIMAVERA",
+          "bairro_mapa": "Jardim Primavera",
+          "criterio": "nome cadastrado",
+          "bairro_por_coordenada": [
+            "Jardim Primavera"
+          ],
+          "longitude": -55.49813159,
+          "latitude": -11.83734329,
+          "votos": {
+            "96": 85,
+            "55": 28,
+            "80": 5,
+            "70": 74,
+            "95": 41,
+            "22": 3169,
+            "16": 2,
+            "14": 71,
+            "29": 1,
+            "13": 647,
+            "27": 1
+          }
+        }
+      ],
+      [
+        565.2176666667908,
+        171.6173249960618,
+        "map-pin-25",
+        {
+          "zona": "22",
+          "local": "1635",
+          "nome_local": "E. E. DE ENSINO FUNDAMENTAL E MÉDIO OLÍMPIO JOÃO PISSINATTI GUERRA",
+          "bairro_tse": "JARDIM PRIMAVERA",
+          "bairro_mapa": "Jardim Primavera",
+          "criterio": "nome cadastrado",
+          "bairro_por_coordenada": [
+            "Jardim Primavera"
+          ],
+          "longitude": -55.49717388,
+          "latitude": -11.84467443,
+          "votos": {
+            "55": 32,
+            "21": 1,
+            "80": 4,
+            "28": 1,
+            "70": 75,
+            "95": 33,
+            "22": 3098,
+            "14": 91,
+            "30": 5,
+            "13": 586,
+            "96": 58,
+            "27": 2
+          }
+        }
+      ]
+    ],
+    "america": [
+      [
+        417.19416666662505,
+        968.9026322104957,
+        "map-pin-9",
+        {
+          "zona": "22",
+          "local": "1279",
+          "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA PROF. LENI TERESINHA BENEDETTI",
+          "bairro_tse": "JARDIM AMÉRICA",
+          "bairro_mapa": null,
+          "criterio": "sem correspondência",
+          "bairro_por_coordenada": [],
+          "longitude": -55.5149367,
+          "latitude": -11.93829545,
+          "votos": {
+            "55": 19,
+            "21": 1,
+            "70": 22,
+            "95": 24,
+            "22": 1026,
+            "14": 22,
+            "13": 513,
+            "96": 35
+          }
+        }
+      ]
+    ],
+    "imperial": [
+      [
+        419.99016666665244,
+        237.98700208624138,
+        "map-pin-16",
+        {
+          "zona": "22",
+          "local": "1686",
+          "nome_local": "UNEMAT - CAMPUS CENTRO",
+          "bairro_tse": "JARDIM IMPERIAL",
+          "bairro_mapa": "Jardim Imperial",
+          "criterio": "nome cadastrado",
+          "bairro_por_coordenada": [
+            "Jardim Imperial"
+          ],
+          "longitude": -55.51460118,
+          "latitude": -11.8524691,
+          "votos": {
+            "96": 54,
+            "55": 49,
+            "21": 2,
+            "80": 8,
+            "70": 131,
+            "95": 29,
+            "22": 5058,
+            "14": 187,
+            "16": 1,
+            "13": 934,
+            "30": 13,
+            "27": 5
+          }
+        }
+      ],
+      [
+        409.9106666666693,
+        191.21604203100492,
+        "map-pin-17",
+        {
+          "zona": "22",
+          "local": "1570",
+          "nome_local": "ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA LIZAMARA AP. OLIVA DE ALMEIDA",
+          "bairro_tse": "JARDIM IMPERIAL",
+          "bairro_mapa": "Jardim Imperial",
+          "criterio": "nome cadastrado",
+          "bairro_por_coordenada": [
+            "Jardim Imperial"
+          ],
+          "longitude": -55.51581072,
+          "latitude": -11.84697619,
+          "votos": {
+            "55": 17,
+            "70": 50,
+            "95": 14,
+            "22": 1643,
+            "14": 37,
+            "13": 422,
+            "30": 5,
+            "96": 31,
+            "27": 1
+          }
+        }
+      ],
+      [
+        401.83941666664936,
+        129.66399320681097,
+        "map-pin-30",
+        {
+          "zona": "22",
+          "local": "1627",
+          "nome_local": "ESCOLA ESTADUAL ROSA DOS VENTOS",
+          "bairro_tse": "JARDIM IMPERIAL",
+          "bairro_mapa": "Jardim Imperial",
+          "criterio": "nome cadastrado",
+          "bairro_por_coordenada": [
+            "Jardim Imperial"
+          ],
+          "longitude": -55.51677927,
+          "latitude": -11.83974718,
+          "votos": {
+            "96": 40,
+            "55": 13,
+            "80": 1,
+            "70": 32,
+            "95": 24,
+            "22": 1403,
+            "14": 34,
+            "30": 2,
+            "13": 448,
+            "27": 3
+          }
+        }
+      ]
+    ]
+  }
+}

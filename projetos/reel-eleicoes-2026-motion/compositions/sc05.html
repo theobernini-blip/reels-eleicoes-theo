@@ -1,0 +1,29 @@
+<!doctype html><html lang="pt-BR"><body><template><style>#sc05{position:relative;width:100%;height:100%;overflow:hidden;}</style><div id="sc05" data-composition-id="sc05" data-width="1080" data-height="1920" data-duration="14.125"><div class="design"><div class="mast"><strong>ELEIÇÕES 2026</strong><span>SEGUNDO TURNO</span></div><div class="source"><span>TSE · 1º turno  |  DIAP · Congresso 2027</span><span>voz sintética (IA)</span></div><div class="footer">@theobernini_</div><div class="deco-line" data-layout-ignore></div>
+<div class="title" style="font-size:106px"><span>DOIS CANDIDATOS.</span><span class="accent">O MESMO CONGRESSO.</span></div><div class="rule"></div>
+<div class="panel candidate left" style="left:76px;top:610px;height:340px"><div class="label">FLÁVIO BOLSONARO · PL</div><div class="display" style="font-size:93px;margin-top:35px">47,03%</div><div class="label" style="margin-top:23px">votos válidos · 1º turno</div></div>
+<div class="panel candidate right" style="left:538px;top:610px;height:340px"><div class="label">LULA · PT</div><div class="display" style="font-size:93px;margin-top:35px">45,16%</div><div class="label" style="margin-top:23px">votos válidos · 1º turno</div></div>
+<div class="call fixed" style="top:1030px;min-height:260px"><div class="display" style="font-size:82px">MAIORIA DE DIREITA</div><div class="small" style="margin-top:17px">260 na Câmara · 48 no Senado</div><div class="small" style="margin-top:15px">Mesmo Congresso em janeiro de 2027</div></div>
+<div class="phrase affinity" style="top:1395px;font-size:90px"><div>MAIS AFINIDADE</div><div class="accent">POLÍTICA?</div></div>
+<div class="phrase resistance" style="top:1395px;font-size:90px"><div>MAIS</div><div class="gold">RESISTÊNCIA?</div></div>
+</div></div><script>
+{const r=document.getElementById('sc05');const tl=gsap.timeline({paused:true});
+const Q=s=>r.querySelector(s);const QA=s=>Array.from(r.querySelectorAll(s));
+function enter(s,at=0,dist=55,dur=.48){tl.fromTo(Q(s),{y:dist,opacity:0},{y:0,opacity:1,duration:dur,ease:'power4.out'},at);}
+function pop(s,at=0,dur=.5){tl.fromTo(Q(s),{scale:.72,opacity:0},{scale:1,opacity:1,duration:dur,ease:'expo.out'},at);}
+function sweep(s,at=0,dur=.5){tl.fromTo(Q(s),{scaleX:0},{scaleX:1,duration:dur,ease:'power3.out'},at);}
+function wave(s,at=0,dur=.72){const els=QA(s);els.forEach((el,i)=>tl.fromTo(el,{y:100+30*Math.sin(i*.9),z:-130,rotationX:48,opacity:.3},{y:0,z:0,rotationX:0,opacity:1,duration:dur,ease:'power3.out'},at+(i%27)*.012+Math.floor(i/27)*.026));}
+tl.fromTo(Q('.mast'),{y:15,opacity:1},{y:0,opacity:1,duration:.3,ease:'power4.out'},0);sweep('.deco-line',.12,.45);
+
+enter('.title',0,60,.4);sweep('.rule',.18);
+tl.fromTo(Q('.left'),{x:-180,rotationY:18,opacity:0},{x:0,rotationY:0,opacity:1,duration:.7,ease:'power3.out'},.45);
+tl.fromTo(Q('.right'),{x:180,rotationY:-18,opacity:0},{x:0,rotationY:0,opacity:1,duration:.7,ease:'power3.out'},.6);
+enter('.fixed',2.1,60,.5);enter('.affinity',7.577,60,.45);
+tl.to(Q('.left'),{z:40,scale:1.04,duration:.6,ease:'power2.inOut'},7.377);
+tl.to(Q('.right'),{opacity:.7,duration:.6},7.377);
+tl.to(Q('.affinity'),{opacity:0,x:-70,duration:.23},11.332);
+enter('.resistance',11.552,60,.45);
+tl.to(Q('.left'),{z:0,scale:1,opacity:.7,duration:.6,ease:'power2.inOut'},11.452);
+tl.to(Q('.right'),{z:40,scale:1.04,opacity:1,duration:.6,ease:'power2.inOut'},11.452);
+
+window.__timelines['sc05']=tl;}
+</script></template></body></html>
